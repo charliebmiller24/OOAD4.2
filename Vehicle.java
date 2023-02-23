@@ -12,6 +12,8 @@ public abstract class Vehicle {
     double repair_bonus;
     double wash_bonus;
     double sale_bonus;
+    double range;
+    double size;
     Vehicle () {
         // all vehicles have the same cleanliness arrival chance
         double chance = Utility.rnd();
@@ -28,6 +30,17 @@ public abstract class Vehicle {
         if (condition== Enums.Condition.Used) cost = cost*.8;
         if (condition== Enums.Condition.Broken) cost = cost*.5;
         return cost;
+    }
+    double getRange(int low, int high){
+        double range = Utility.rndFromRange(low, high);
+        if (condition== Enums.Condition.LikeNew){
+            range = range + 100;
+        }
+        return range;
+    }
+    double getSize(){
+        double size = Utility.rndFromRange(50, 700);
+        return size;
     }
 
     // utility for getting Vehicles by Type
@@ -96,3 +109,48 @@ class Pickup extends Vehicle {
         sale_bonus = 750;
     }
 }
+class Electric extends Vehicle {
+    static List<String> names = Arrays.asList("Tesla-x","tesla-y","Ford-electric","Nissan-leaf");
+    static Namer namer = new Namer(names);
+    Electric() {
+        super();
+        type = Enums.VehicleType.Electric;
+        name = namer.getNext(); 
+        cost = getCost(20000,40000);
+        price = cost * 2;
+        repair_bonus = 200;
+        wash_bonus = 75;
+        sale_bonus = 750;
+        range = getRange(60,400);
+    }
+}
+class Motorcycle extends Vehicle {
+    static List<String> names = Arrays.asList("Yamaha","Kowasaki","Harley","KTM");
+    static Namer namer = new Namer(names);
+    Motorcycle() {
+        super();
+        type = Enums.VehicleType.Motercycle;
+        name = namer.getNext();
+        cost = getCost(10000,40000);
+        price = cost * 2;
+        repair_bonus = 200;
+        wash_bonus = 75;
+        sale_bonus = 750;
+        size = getSize();
+    }
+}
+class Monstertruck extends Vehicle {
+    static List<String> names = Arrays.asList("Bigfoot","Zombie","Gravedigger","Avenger");
+    static Namer namer = new Namer(names);
+    Monstertruck() {
+        super();
+        type = Enums.VehicleType.Monstertruck;
+        name = namer.getNext();
+        cost = getCost(30000,50000);
+        price = cost * 2;
+        repair_bonus = 200;
+        wash_bonus = 75;
+        sale_bonus = 750;
+    }
+}
+
