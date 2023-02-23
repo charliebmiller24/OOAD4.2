@@ -55,15 +55,43 @@ class Intern extends Staff {
         for (Vehicle v:vList) {
             // wash the first dirty car I see
             if (v.cleanliness == Enums.Cleanliness.Dirty) {
+                double washtype = Utility.rnd();
                 washCount += 1;
                 startAs = Enums.Cleanliness.Dirty;
-                double chance = Utility.rnd();
-                if (chance <= .8) v.cleanliness = Enums.Cleanliness.Clean;
-                if (chance >.8 && chance <=.9) {
-                    v.cleanliness = Enums.Cleanliness.Sparkling;
-                    bonusEarned += v.wash_bonus;
-                    out("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
+
+                if (washtype < .33){ // Chemical
+                    double chance = Utility.rnd();
+                    if (chance >= .9) v.cleanliness = Enums.Cleanliness.Sparkling;
+                    if (chance <.8) {
+                        v.cleanliness = Enums.Cleanliness.Clean;
+                        bonusEarned += v.wash_bonus;
+                        out("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"for Chemical Wash!");
+                    }
+
                 }
+                if (washtype >= .33 && washtype <= .66){ // elbow grease
+                    double chance = Utility.rnd();
+                    if (chance >= .95) v.cleanliness = Enums.Cleanliness.Sparkling;
+                    if (chance <.7) {
+                        v.cleanliness = Enums.Cleanliness.Clean;
+                        bonusEarned += v.wash_bonus;
+                        out("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+" for elbow grease wash!");
+                    }
+                    
+                }
+                if (washtype > .66){ //detail
+                    double chance = Utility.rnd();
+                    if (chance >= .8) v.cleanliness = Enums.Cleanliness.Sparkling;
+                    if (chance <.6) {
+                        v.cleanliness = Enums.Cleanliness.Clean;
+                        bonusEarned += v.wash_bonus;
+                        out("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"for Detailed wash!");
+                    }
+                    
+                }
+
+
+
                 out("Intern "+name+" washed "+v.name+" "+startAs+" to "+v.cleanliness);
                 if (washCount == 2) break;
             }
@@ -73,13 +101,32 @@ class Intern extends Staff {
                 // wash the first clean car I see
                 if (v.cleanliness == Enums.Cleanliness.Clean) {
                     washCount += 1;
+                    double washtype = Utility.rnd();
                     startAs = Enums.Cleanliness.Clean;
-                    double chance = Utility.rnd();
-                    if (chance <= .05) v.cleanliness = Enums.Cleanliness.Dirty;
-                    if (chance >.05 && chance <=.35) {
-                        v.cleanliness = Enums.Cleanliness.Sparkling;
-                        bonusEarned += v.wash_bonus;
-                        out("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
+                    //-----
+                    if (washtype < .33){ // Chemical
+                        double chance = Utility.rnd();
+                        if (chance >= .9) v.cleanliness = Enums.Cleanliness.Sparkling;
+                        if (chance <.2) {
+                            v.cleanliness = Enums.Cleanliness.Dirty;
+                        }
+    
+                    }
+                    if (washtype >= .33 && washtype <= .66){ // elbow grease
+                        double chance = Utility.rnd();
+                        if (chance >= .85) v.cleanliness = Enums.Cleanliness.Sparkling;
+                        if (chance <.15) {
+                            v.cleanliness = Enums.Cleanliness.Dirty;
+                        }
+                        
+                    }
+                    if (washtype > .66){ //detail
+                        double chance = Utility.rnd();
+                        if (chance >= .6) v.cleanliness = Enums.Cleanliness.Sparkling;
+                        if (chance <.05) {
+                            v.cleanliness = Enums.Cleanliness.Dirty;
+                        }
+                        
                     }
                     out("Intern "+name+" washed "+v.name+" "+startAs+" to "+v.cleanliness);
                     if (washCount == 2) break;
