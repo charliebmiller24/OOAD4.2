@@ -11,9 +11,11 @@ public abstract class Vehicle {
     double price;
     double repair_bonus;
     double wash_bonus;
+    double race_bonus;
     double sale_bonus;
     double range;
     double size;
+    double wins;
     Vehicle () {
         // all vehicles have the same cleanliness arrival chance
         double chance = Utility.rnd();
@@ -22,6 +24,8 @@ public abstract class Vehicle {
         else cleanliness = Enums.Cleanliness.Dirty;
         // all vehicles have the same condition arrival chance (even chance of any)
         condition = Utility.randomEnum(Enums.Condition.class);
+        //all vehicles start at zero wins, but do I add this to each car separately and not for regular/electric?
+        wins = 0;
     }
 
     // utility for getting adjusted cost by condition
@@ -90,6 +94,7 @@ class PerfCar extends Vehicle {
         cost = getCost(20000,40000);
         price = cost * 2;
         repair_bonus = 300;
+        race_bonus = 300;
         wash_bonus = 100;
         sale_bonus = 1000;
     }
@@ -105,6 +110,7 @@ class Pickup extends Vehicle {
         cost = getCost(10000,40000);
         price = cost * 2;
         repair_bonus = 200;
+        race_bonus = 200;
         wash_bonus = 75;
         sale_bonus = 750;
     }
@@ -136,6 +142,7 @@ class Motorcycle extends Vehicle {
         repair_bonus = 200;
         wash_bonus = 75;
         sale_bonus = 750;
+        race_bonus = 200;
         size = getSize();
     }
 }
@@ -149,6 +156,7 @@ class Monstertruck extends Vehicle {
         cost = getCost(30000,50000);
         price = cost * 2;
         repair_bonus = 200;
+        race_bonus = 250;
         wash_bonus = 75;
         sale_bonus = 750;
     }
