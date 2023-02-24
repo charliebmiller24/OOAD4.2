@@ -1,4 +1,6 @@
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 // This represents the FNCD business and things they would control
 public class FNCD implements SysOut {
@@ -77,6 +79,48 @@ public class FNCD implements SysOut {
             }
         }
 
+        //racing
+        out("The FNCD drivers are racing...");
+        ArrayList<Staff> drivers = Staff.getStaffByType(staff, Enums.StaffType.Driver);
+        ArrayList<String> carType = new ArrayList<String>(Arrays.asList("PerfCar", "Pickup", "Motercycle", "Monstertruck"));
+
+        //picks a random number 0 through 5
+        int rand = (int) Math.random() * 3;
+        //sends 3 drivers to race 3 vehicles of the same type
+
+        ArrayList<Integer> rankings = new ArrayList<Integer>(Arrays.asList(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20)); //possible rankings
+        rankings.addAll(Arrays.asList(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20));
+        int threeRacers = 0;
+        for (Staff s:drivers) {
+            Driver d = (Driver) s;
+            Vehicle vehic = d.raceVehicles(inventory, carType.get(rand)); //sends in our inventory along with the car type for that race, and it returns vehicle
+            int randNum = (int) Math.random() * rankings.size();
+            int placement = rankings.get(randNum); //gets a random number out of 20
+            rankings.remove(randNum);
+
+            out("Driver "+d.name+" finished in "+placement+" place with "+vehic.name+" "+vehic.type);
+
+            //if placed in the top three else if placed last 5
+            if(placement <= 3){
+                vehic.wins++;
+                vehic.price = vehic.price * 1.10; //vehicle increases by 10%
+                d.wins++;
+                d.bonusEarned += vehic.race_bonus;
+                out("Driver "+d.name+" got a bonus of "+Utility.asDollar(vehic.race_bonus)+"!");
+            }
+            else if(placement >=15){
+                vehic.condition = Enums.Condition.Broken;
+                //30% driver gets injured
+                if(Math.random() <= .3){
+                    out("Driver "+d.name+" got injured in todays race.");
+                }
+            }
+            threeRacers++;
+            if(threeRacers == 3){
+                break;
+            }
+        }
+
         // ending
         // pay all the staff their salaries
         payStaff();
@@ -119,6 +163,7 @@ public class FNCD implements SysOut {
         if (t == Enums.StaffType.Intern) newStaff = new Intern();
         if (t == Enums.StaffType.Mechanic) newStaff = new Mechanic();
         if (t == Enums.StaffType.Salesperson) newStaff = new Salesperson();
+        if (t == Enums.StaffType.Driver) newStaff = new Driver();
         out("Hired a new "+newStaff.type+" named "+ newStaff.name);
         staff.add(newStaff);
     }

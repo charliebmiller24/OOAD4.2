@@ -2,6 +2,7 @@ import javax.lang.model.util.Types;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Arrays;
+import java.lang.Math;
 
 public abstract class Staff implements SysOut {
     String name;
@@ -264,5 +265,29 @@ class Salesperson extends Staff {
         }
         if (selected == -1) return null;
         else return vList.get(selected);
+    }
+}
+
+class Driver extends Staff {
+    static List<String> names = Arrays.asList("Fredrick", "PJ", "Momo", "Carl");
+    static Namer namer = new Namer(names);
+    int wins;
+    Driver() {
+        super();
+        type = Enums.StaffType.Driver;
+        name = namer.getNext();  // every new driver gets a new name
+        salary = 150; // daily salary
+        wins = 0; //every driver starts out with no wins
+    }
+
+    // how Drivers race Vehicles
+    Vehicle raceVehicles(ArrayList<Vehicle> vList, String vType) {
+        for (Vehicle v: vList) {
+            if (v.type == Enums.VehicleType.valueOf(vType) && v.condition != Enums.Condition.Broken) {
+                return(v);
+            }
+        }
+        out("No more "+vType+" vehicles");
+        return null;
     }
 }

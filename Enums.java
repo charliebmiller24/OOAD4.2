@@ -9,6 +9,6 @@ public class Enums {
     public enum Cleanliness {Dirty,Clean,Sparkling}
     public enum BuyerType {JustLooking,WantsOne,NeedsOne}
     public enum VehicleType {Car, PerfCar, Pickup, Electric, Motercycle, Monstertruck}
-    public enum StaffType {Intern, Mechanic, Salesperson}
+    public enum StaffType {Intern, Mechanic, Salesperson, Driver}
     public enum DayOfWeek {Mon,Tue,Wed,Thur,Fri,Sat,Sun}
 }
