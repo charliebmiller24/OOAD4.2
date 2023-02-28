@@ -37,6 +37,63 @@ public class FNCD implements SysOut {
     void closedDay(Enums.DayOfWeek day) {   // Nothing really special about closed days
         out("Sorry, FNCD is closed on "+day);
     }
+    
+    void raceday()
+    {
+        ArrayList<Vehicle> tempRaceArray = new ArrayList<Vehicle>();  
+
+        out("The FNCD drivers are racing...");
+        ArrayList<Staff> drivers = Staff.getStaffByType(staff, Enums.StaffType.Driver);
+        ArrayList<String> carType = new ArrayList<String>(Arrays.asList("PerfCar", "Pickup", "Motercycle", "Monstertruck"));
+
+        //picks a random number 0 through 5
+        int rand = Utility.rndFromRange(0, 3);
+        //sends 3 drivers to race 3 vehicles of the same type
+
+        ArrayList<Integer> rankings = new ArrayList<Integer>(Arrays.asList(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20)); //possible rankings
+        rankings.addAll(Arrays.asList(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20));
+        int threeRacers = 0;
+        for (Staff s:drivers) {
+            int randomDriver = Utility.rndFromRange(0, drivers.size()-1);
+            Driver d = (Driver) drivers.get(randomDriver);
+            Vehicle vehic = d.raceVehicles(inventory, carType.get(rand)); //sends in our inventory along with the car type for that race, and it returns vehicle. Picks same vehicle for all drivers
+            if(vehic == null){
+                break;
+            }
+            tempRaceArray.add(vehic);
+            inventory.remove(vehic);
+            int randNum = (int) Utility.rndFromRange(0, rankings.size()-1);
+            int placement = rankings.get(randNum); //gets a random number out of 20 always picks 1,2,3
+            rankings.remove(randNum);
+
+            out("Driver "+d.name+" finished in "+placement+" place with "+vehic.name+" "+vehic.type);
+
+            //if placed in the top three else if placed last 5
+            if(placement <= 3){
+                vehic.wins++;
+                vehic.price = vehic.price * 1.10; //vehicle increases by 10%
+                d.wins++;
+                d.bonusEarned += vehic.race_bonus;
+                out("Driver "+d.name+" got a bonus of "+Utility.asDollar(vehic.race_bonus)+"!");
+            }
+            else if(placement >=15){
+                vehic.condition = Enums.Condition.Broken;
+                //30% driver gets injured
+                if(Math.random() <= .3){
+                    out("Driver "+d.name+" got injured in todays race.");
+                }
+            }
+            threeRacers++;
+            if(threeRacers == 3){
+                break;
+            }
+
+        }
+        // for(int i = 0; i > tempRaceArray.size()-1; i++){
+        //     inventory.add(tempRaceArray.get(i));
+        // }
+
+    }
 
     void normalDay(Enums.DayOfWeek day) {  // On a normal day, we do all the activities
 
@@ -79,47 +136,9 @@ public class FNCD implements SysOut {
             }
         }
 
+
+        //Race drivers all use the same car and always some in 1st 2nd 3rd. 
         //racing
-        out("The FNCD drivers are racing...");
-        ArrayList<Staff> drivers = Staff.getStaffByType(staff, Enums.StaffType.Driver);
-        ArrayList<String> carType = new ArrayList<String>(Arrays.asList("PerfCar", "Pickup", "Motercycle", "Monstertruck"));
-
-        //picks a random number 0 through 5
-        int rand = (int) Math.random() * 3;
-        //sends 3 drivers to race 3 vehicles of the same type
-
-        ArrayList<Integer> rankings = new ArrayList<Integer>(Arrays.asList(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20)); //possible rankings
-        rankings.addAll(Arrays.asList(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20));
-        int threeRacers = 0;
-        for (Staff s:drivers) {
-            Driver d = (Driver) s;
-            Vehicle vehic = d.raceVehicles(inventory, carType.get(rand)); //sends in our inventory along with the car type for that race, and it returns vehicle
-            int randNum = (int) Math.random() * rankings.size();
-            int placement = rankings.get(randNum); //gets a random number out of 20
-            rankings.remove(randNum);
-
-            out("Driver "+d.name+" finished in "+placement+" place with "+vehic.name+" "+vehic.type);
-
-            //if placed in the top three else if placed last 5
-            if(placement <= 3){
-                vehic.wins++;
-                vehic.price = vehic.price * 1.10; //vehicle increases by 10%
-                d.wins++;
-                d.bonusEarned += vehic.race_bonus;
-                out("Driver "+d.name+" got a bonus of "+Utility.asDollar(vehic.race_bonus)+"!");
-            }
-            else if(placement >=15){
-                vehic.condition = Enums.Condition.Broken;
-                //30% driver gets injured
-                if(Math.random() <= .3){
-                    out("Driver "+d.name+" got injured in todays race.");
-                }
-            }
-            threeRacers++;
-            if(threeRacers == 3){
-                break;
-            }
-        }
 
         // ending
         // pay all the staff their salaries
