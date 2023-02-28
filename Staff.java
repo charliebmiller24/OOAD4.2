@@ -282,9 +282,15 @@ class Driver extends Staff {
 
     // how Drivers race Vehicles
     Vehicle raceVehicles(ArrayList<Vehicle> vList, String vType) {
-        for (Vehicle v: vList) {
-            if (v.type == Enums.VehicleType.valueOf(vType) && v.condition != Enums.Condition.Broken) {
-                return(v);
+         
+        //int rand = (int) Math.random(vList.size());
+        for(Vehicle v: vList)
+        {
+            int randomvehicle = Utility.rndFromRange(0,vList.size()-1);
+
+            Vehicle c = (Vehicle) vList.get(randomvehicle);
+            if (c.type == Enums.VehicleType.valueOf(vType) && c.condition != Enums.Condition.Broken) {
+                return(c);
             }
         }
         out("No more "+vType+" vehicles");
