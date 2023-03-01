@@ -1,32 +1,28 @@
->>> Start Simulation Day 20 Fri
+>>> Start Simulation Day 20 Thur
 The FNCD is opening...
+Bought Europa-4, a Dirty LikeNew PerfCar for $36,050.00
+Bought Cayman-4, a Clean Broken PerfCar for $15,589.50
 The FNCD interns are washing...
 Intern Fred got a bonus of $75.00 for elbow grease wash!
-Intern Fred washed Harley-2 Dirty to Clean
-Intern Fred got a bonus of $75.00for Chemical Wash!
-Intern Fred washed Colorado-3 Dirty to Clean
-Intern Ethel washed Cayman-2 Clean to Clean
-Intern Ethel got a bonus of $100.00for Elbow grease Wash!
-Intern Ethel washed Mustang-2 Clean to Sparkling
-Intern Lucy washed Cayman-2 Clean to Clean
-Intern Lucy washed Zombie-2 Clean to Dirty
+Intern Fred washed Tundra-3 Dirty to Clean
+Intern Fred washed Europa-4 Dirty to Dirty
+Intern Ethel got a bonus of $100.00for Chemical Wash!
+Intern Ethel washed Europa-4 Dirty to Clean
+Intern Ethel washed Mustang Clean to Clean
+Intern Lucy washed Mustang Clean to Dirty
+Intern Lucy washed Corvette-3 Clean to Clean
 The FNCD mechanics are repairing...
-Mechanic James got a bonus of $200.00!
-Mechanic James fixed Colorado-3 Used to LikeNew
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cayman-4 Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Cayman-4 Used to LikeNew
 The FNCD salespeople are selling...
-The FNCD has 4 buyers today...
-Buyer Luke-12 wants a PerfCar (JustLooking)
-Buyer Luke-12 decided not to buy.
-Buyer Leia-12 wants a Car (WantsOne)
-Buyer Leia-12 decided not to buy.
-Buyer Han-12 wants a Monstertruck (WantsOne)
-Buyer Han-12 decided not to buy.
-Buyer Chewy-12 wants a PerfCar (JustLooking)
-Buyer Chewy-12 decided not to buy.
+The FNCD has 0 buyers today...
 No-one on the staff is leaving!
 Vehicles in inventory 24
-Vehicles sold count 27
-Money in the budget $1,212,823.94
+Vehicles sold count 29
+Money in the budget $1,098,057.40
 That's it for the day.
->>> End Simulation Day 20 Fri
+>>> End Simulation Day 20 Thur
 
+hello

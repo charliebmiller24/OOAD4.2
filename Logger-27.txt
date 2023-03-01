@@ -1,37 +1,34 @@
->>> Start Simulation Day 27 Fri
+>>> Start Simulation Day 27 Thur
 The FNCD is opening...
-Bought Probe-4, a Dirty Broken Car for $9,241.00
-Bought Yamaha-3, a Dirty LikeNew Motercycle for $23,241.00
-Bought Bigfoot-4, a Dirty LikeNew Monstertruck for $44,996.00
+Bought Taurus-3, a Clean LikeNew Car for $10,024.00
+Bought Kowasaki-3, a Dirty Broken Motercycle for $8,326.50
+Bought Harley-3, a Dirty Used Motercycle for $8,201.60
 The FNCD interns are washing...
-Intern Fred got a bonus of $75.00for Chemical Wash!
-Intern Fred washed Gravedigger-3 Dirty to Clean
-Intern Fred washed Probe-4 Dirty to Dirty
-Intern Ethel got a bonus of $20.00 for elbow grease wash!
-Intern Ethel washed Probe-4 Dirty to Clean
+Intern Fred got a bonus of $100.00for Chemical Wash!
+Intern Fred washed Cayman-5 Dirty to Clean
+Intern Fred got a bonus of $75.00 for elbow grease wash!
+Intern Fred washed Kowasaki-3 Dirty to Sparkling
+Intern Ethel got a bonus of $75.00 for elbow grease wash!
+Intern Ethel washed Harley-3 Dirty to Clean
 Intern Ethel got a bonus of $75.00for Chemical Wash!
-Intern Ethel washed Yamaha-3 Dirty to Clean
-Intern Lucy got a bonus of $75.00for Detailed wash!
-Intern Lucy washed Bigfoot-4 Dirty to Clean
-Intern Lucy got a bonus of $20.00for Detailed Wash!
-Intern Lucy washed Fiesta-2 Clean to Sparkling
+Intern Ethel washed tesla-y-2 Clean to Sparkling
+Intern Lucy washed KTM Clean to Clean
+Intern Lucy washed Yamaha-3 Clean to Clean
 The FNCD mechanics are repairing...
-Mechanic James got a bonus of $100.00!
-Mechanic James fixed Probe-4 Broken to Used
-Mechanic Scotty got a bonus of $100.00!
-Mechanic Scotty fixed Probe-4 Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Kowasaki-3 Broken to Used
+Mechanic James did not fix the Used Harley-3
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Kowasaki-3 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Harley-3 Used to LikeNew
 The FNCD salespeople are selling...
-The FNCD has 2 buyers today...
-Buyer Chewy-17 wants a PerfCar (NeedsOne)
-Buyer Chewy-17 is buying! Salesperson Rachel gets a bonus of $1,000.00!
-Buyer Chewy-17 bought Clean LikeNew Corvette-3 for $70,804.00
-Buyer Luke-18 wants a PerfCar (NeedsOne)
-Buyer Luke-18 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
-Buyer Luke-18 bought Sparkling LikeNew Europa-3 for $69,486.00
+The FNCD has 0 buyers today...
 No-one on the staff is leaving!
-Vehicles in inventory 22
-Vehicles sold count 38
-Money in the budget $1,735,944.04
+Vehicles in inventory 24
+Vehicles sold count 44
+Money in the budget $1,693,757.01
 That's it for the day.
->>> End Simulation Day 27 Fri
+>>> End Simulation Day 27 Thur
 
+hello

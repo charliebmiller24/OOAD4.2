@@ -1,9 +1,42 @@
->>> Start Simulation Day 29 Sun
-The FNCD drivers are racing...
-Driver PJ finished in 4 place with Yamaha-3 Motercycle
-Driver Momo finished in 9 place with KTM-2 Motercycle
-Driver Momo finished in 18 place with Yamaha-2 Motercycle
-Driver Momo got injured in todays race.
-Sorry, FNCD is closed on Sun
->>> End Simulation Day 29 Sun
+>>> Start Simulation Day 29 Sat
+The FNCD is opening...
+Bought Ford-electric-2, a Clean Used Electric for $20,968.80
+The FNCD interns are washing...
+Intern Fred got a bonus of $75.00for Detailed wash!
+Intern Fred washed KTM Dirty to Clean
+Intern Fred washed KTM Clean to Clean
+Intern Ethel washed KTM Clean to Clean
+Intern Ethel washed Ranger-4 Clean to Clean
+Intern Lucy washed KTM Clean to Clean
+Intern Lucy washed Ranger-4 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Ford-electric-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 8 buyers today...
+Buyer Luke-21 wants a Pickup (WantsOne)
+Buyer Luke-21 decided not to buy.
+Buyer Leia-21 wants a Car (WantsOne)
+Buyer Leia-21 is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Leia-21 bought Sparkling LikeNew Probe-3 for $35,348.00
+Buyer Han-21 wants a PerfCar (WantsOne)
+Buyer Han-21 decided not to buy.
+Buyer Chewy-21 wants a Car (JustLooking)
+Buyer Chewy-21 decided not to buy.
+Buyer Luke-22 wants a PerfCar (JustLooking)
+Buyer Luke-22 decided not to buy.
+Buyer Leia-22 wants a Motercycle (JustLooking)
+Buyer Leia-22 decided not to buy.
+Buyer Han-22 wants a Electric (WantsOne)
+Buyer Han-22 decided not to buy.
+Buyer Chewy-22 wants a Electric (JustLooking)
+Buyer Chewy-22 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Chewy-22 bought Sparkling LikeNew Nissan-leaf for $54,922.00
+No-one on the staff is leaving!
+Vehicles in inventory 22
+Vehicles sold count 47
+Money in the budget $1,816,936.33
+That's it for the day.
+>>> End Simulation Day 29 Sat
 
+hello

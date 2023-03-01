@@ -29,6 +29,17 @@ public class Simulator implements SysOut {
                 FileWriter file = new FileWriter(fileName);
                 PrintStream fileStream = new PrintStream(fileName);
                 System.setOut(fileStream);
+                out(">>> Start Simulation Day "+day+" "+dayOfWeek);
+                //System.out.println("-------------" + dayOfWeek + "-------------------");
+                if(dayOfWeek == Enums.DayOfWeek.Sun || dayOfWeek == Enums.DayOfWeek.Wed){
+                    fncd.raceday();
+                }
+                if (dayOfWeek == Enums.DayOfWeek.Sun) fncd.closedDay(dayOfWeek);  // no work on Sunday
+                else fncd.normalDay(dayOfWeek);  // normal stuff on other days
+                out(">>> End Simulation Day "+day+" "+dayOfWeek+"\n");
+                
+                dayOfWeek = getNextDay(dayOfWeek);  // increment to the next day
+                file.close();
             }
             catch(IOException e){
                 System.out.println("We have a problem");
@@ -36,19 +47,6 @@ public class Simulator implements SysOut {
             }
 
 
-
-
-
-
-            out(">>> Start Simulation Day "+day+" "+dayOfWeek);
-            //System.out.println("-------------" + dayOfWeek + "-------------------");
-            if(dayOfWeek == Enums.DayOfWeek.Sun || dayOfWeek == Enums.DayOfWeek.Wed){
-                fncd.raceday();
-            }
-            if (dayOfWeek == Enums.DayOfWeek.Sun) fncd.closedDay(dayOfWeek);  // no work on Sunday
-            else fncd.normalDay(dayOfWeek);  // normal stuff on other days
-            out(">>> End Simulation Day "+day+" "+dayOfWeek+"\n");
-            dayOfWeek = getNextDay(dayOfWeek);  // increment to the next day
         }
     }
 }

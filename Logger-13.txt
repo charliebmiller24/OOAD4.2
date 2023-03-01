@@ -1,32 +1,30 @@
->>> Start Simulation Day 13 Fri
+>>> Start Simulation Day 13 Thur
 The FNCD is opening...
-Bought Taurus-3, a Dirty LikeNew Car for $15,005.00
-Bought Kowasaki-2, a Dirty Used Motercycle for $15,588.80
+Bought KTM-2, a Dirty Used Motercycle for $26,236.00
+Bought Bigfoot-3, a Clean Used Monstertruck for $37,521.60
 The FNCD interns are washing...
-Intern Fred got a bonus of $75.00for Chemical Wash!
-Intern Fred washed Yamaha-2 Dirty to Sparkling
-Intern Fred got a bonus of $20.00 for elbow grease wash!
-Intern Fred washed Taurus-3 Dirty to Clean
-Intern Ethel got a bonus of $75.00for Detailed wash!
-Intern Ethel washed Kowasaki-2 Dirty to Clean
-Intern Ethel washed F-250 Clean to Clean
-Intern Lucy washed F-250 Clean to Clean
-Intern Lucy washed Tundra Clean to Clean
+Intern Fred got a bonus of $75.00 for elbow grease wash!
+Intern Fred washed KTM Dirty to Clean
+Intern Fred washed Harley-2 Dirty to Dirty
+Intern Ethel got a bonus of $75.00for Chemical Wash!
+Intern Ethel washed Harley-2 Dirty to Clean
+Intern Ethel got a bonus of $75.00 for elbow grease wash!
+Intern Ethel washed KTM-2 Dirty to Sparkling
+Intern Lucy washed Tesla-x Clean to Dirty
+Intern Lucy washed Ford-electric Clean to Clean
 The FNCD mechanics are repairing...
 Mechanic James got a bonus of $200.00!
-Mechanic James fixed Kowasaki-2 Used to LikeNew
+Mechanic James fixed KTM-2 Used to LikeNew
+Mechanic James did not fix the Used Bigfoot-3
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Bigfoot-3 Used to LikeNew
 The FNCD salespeople are selling...
-The FNCD has 2 buyers today...
-Buyer Leia-9 wants a Pickup (NeedsOne)
-Buyer Leia-9 is buying! Salesperson Rachel gets a bonus of $750.00!
-Buyer Leia-9 bought Clean LikeNew Ranger-2 for $62,280.00
-Buyer Han-9 wants a Pickup (WantsOne)
-Buyer Han-9 is buying! Salesperson Rachel gets a bonus of $750.00!
-Buyer Han-9 bought Clean LikeNew Tundra for $57,210.00
+The FNCD has 0 buyers today...
 No-one on the staff is leaving!
-Vehicles in inventory 22
-Vehicles sold count 22
-Money in the budget $1,102,007.76
+Vehicles in inventory 24
+Vehicles sold count 18
+Money in the budget $696,882.95
 That's it for the day.
->>> End Simulation Day 13 Fri
+>>> End Simulation Day 13 Thur
 
+hello

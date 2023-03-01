@@ -1,9 +1,61 @@
->>> Start Simulation Day 22 Sun
-The FNCD drivers are racing...
-Driver Momo finished in 12 place with Kowasaki-2 Motercycle
-Driver PJ finished in 9 place with Yamaha-2 Motercycle
-Driver PJ finished in 2 place with Kowasaki Motercycle
-Driver PJ got a bonus of $200.00!
-Sorry, FNCD is closed on Sun
->>> End Simulation Day 22 Sun
+>>> Start Simulation Day 22 Sat
+The FNCD is opening...
+Bought Taurus-2, a Clean LikeNew Car for $17,848.00
+Bought Corvette-4, a Dirty Used PerfCar for $20,755.20
+Bought F-250-4, a Dirty Used Pickup for $26,104.00
+Bought Avenger-3, a Dirty Used Monstertruck for $34,040.00
+Bought Bigfoot-4, a Clean Broken Monstertruck for $16,763.00
+The FNCD interns are washing...
+Intern Fred got a bonus of $100.00for Detailed wash!
+Intern Fred washed Corvette-3 Dirty to Clean
+Intern Fred got a bonus of $100.00for Detailed wash!
+Intern Fred washed Corvette-4 Dirty to Sparkling
+Intern Ethel got a bonus of $75.00for Chemical Wash!
+Intern Ethel washed F-250-4 Dirty to Clean
+Intern Ethel got a bonus of $75.00for Chemical Wash!
+Intern Ethel washed Avenger-3 Dirty to Sparkling
+Intern Lucy washed Corvette-3 Clean to Clean
+Intern Lucy got a bonus of $75.00for Detailed Wash!
+Intern Lucy washed KTM-2 Clean to Sparkling
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Corvette-4 Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed F-250-4 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Avenger-3 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Bigfoot-4 Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Bigfoot-4 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 8 buyers today...
+Buyer Leia-16 wants a Pickup (WantsOne)
+Buyer Leia-16 is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Leia-16 bought Dirty LikeNew F-250-4 for $65,260.00
+Buyer Han-16 wants a Motercycle (JustLooking)
+Buyer Han-16 decided not to buy.
+Buyer Chewy-16 wants a Car (WantsOne)
+Buyer Chewy-16 is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Chewy-16 bought Clean LikeNew Taurus-2 for $35,696.00
+Buyer Luke-17 wants a Car (NeedsOne)
+Buyer Luke-17 is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Luke-17 bought Clean LikeNew Escort-2 for $29,613.75
+Buyer Leia-17 wants a Monstertruck (JustLooking)
+Buyer Leia-17 decided not to buy.
+Buyer Han-17 wants a Pickup (JustLooking)
+Buyer Han-17 decided not to buy.
+Buyer Chewy-17 wants a PerfCar (NeedsOne)
+Buyer Chewy-17 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Chewy-17 bought Clean LikeNew Cayman-4 for $58,460.62
+Buyer Luke-18 wants a Car (WantsOne)
+Buyer Luke-18 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Luke-18 bought Sparkling LikeNew Probe for $24,068.00
+No-one on the staff is leaving!
+Vehicles in inventory 19
+Vehicles sold count 39
+Money in the budget $1,589,867.31
+That's it for the day.
+>>> End Simulation Day 22 Sat
 
+hello
