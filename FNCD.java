@@ -84,6 +84,9 @@ public class FNCD implements SysOut {
                 //30% driver gets injured
                 if(Math.random() <= .3){
                     out("Driver "+d.name+" got injured in todays race.");
+                    //this is so we don't add them back into the array since they got hurt.
+                    tempDriverArray.remove(d);
+                    departedStaff.add(d);
                 }
             }
             threeRacers++;
@@ -94,8 +97,11 @@ public class FNCD implements SysOut {
         }
         for(int i = 0; i < tempRaceArray.size()-1; i++){
             inventory.add(tempRaceArray.get(i));
+            //drivers.add(tempDriverArray.get(i));
+        }
+        for(int i = 0; i < tempDriverArray.size()-1; i++){
+            //inventory.add(tempRaceArray.get(i));
             drivers.add(tempDriverArray.get(i));
-            
         }
 
     }
