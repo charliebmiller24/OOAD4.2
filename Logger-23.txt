@@ -1,0 +1,39 @@
+>>> Start Simulation Day 23 Mon
+The FNCD is opening...
+Bought Corvette-3, a Dirty LikeNew PerfCar for $35,402.00
+Bought Tundra-3, a Sparkling Broken Pickup for $16,539.50
+Bought KTM-2, a Dirty Used Motercycle for $8,482.40
+Bought Zombie-3, a Dirty Broken Monstertruck for $24,731.00
+The FNCD interns are washing...
+Intern Fred got a bonus of $100.00for Chemical Wash!
+Intern Fred washed Corvette-3 Dirty to Clean
+Intern Fred got a bonus of $75.00for Detailed wash!
+Intern Fred washed KTM-2 Dirty to Clean
+Intern Ethel got a bonus of $75.00 for elbow grease wash!
+Intern Ethel washed Zombie-3 Dirty to Sparkling
+Intern Ethel got a bonus of $100.00for Elbow grease Wash!
+Intern Ethel washed Cayman-2 Clean to Sparkling
+Intern Lucy washed Zombie-2 Clean to Clean
+Intern Lucy got a bonus of $75.00for Detailed Wash!
+Intern Lucy washed Gravedigger-2 Clean to Sparkling
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Tundra-3 Broken to Used
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed KTM-2 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Tundra-3 Used to LikeNew
+Mechanic Scotty did not fix the Broken Zombie-3
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Zombie-3 Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Leia-14 wants a PerfCar (JustLooking)
+Buyer Leia-14 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 30
+Money in the budget $1,349,545.04
+That's it for the day.
+>>> End Simulation Day 23 Mon
+

@@ -1,0 +1,7 @@
+>>> Start Simulation Day 8 Sun
+The FNCD drivers are racing...
+Driver PJ finished in 9 place with Bigfoot-2 Monstertruck
+No more Monstertruck vehicles
+Sorry, FNCD is closed on Sun
+>>> End Simulation Day 8 Sun
+

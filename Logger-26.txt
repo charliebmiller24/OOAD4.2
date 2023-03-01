@@ -1,0 +1,43 @@
+>>> Start Simulation Day 26 Thur
+The FNCD is opening...
+Bought Avenger-3, a Clean Used Monstertruck for $35,455.20
+The FNCD interns are washing...
+Intern Fred got a bonus of $75.00for Chemical Wash!
+Intern Fred washed F-250-2 Dirty to Clean
+Intern Fred got a bonus of $75.00 for elbow grease wash!
+Intern Fred washed Ranger-4 Dirty to Clean
+Intern Ethel got a bonus of $75.00for Detailed wash!
+Intern Ethel washed Nissan-leaf-2 Dirty to Sparkling
+Intern Ethel washed Fiesta-2 Clean to Clean
+Intern Lucy washed Fiesta-2 Clean to Clean
+Intern Lucy washed Probe-3 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Broken Gravedigger-3
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Avenger-3 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Gravedigger-3 Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Gravedigger-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Han-16 wants a Car (NeedsOne)
+Buyer Han-16 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Han-16 bought Clean LikeNew Fiesta-3 for $35,381.25
+Buyer Chewy-16 wants a Motercycle (NeedsOne)
+Buyer Chewy-16 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Chewy-16 bought Sparkling LikeNew Kowasaki-2 for $73,072.50
+Buyer Luke-17 wants a Pickup (WantsOne)
+Buyer Luke-17 decided not to buy.
+Buyer Leia-17 wants a Pickup (JustLooking)
+Buyer Leia-17 decided not to buy.
+Buyer Han-17 wants a Monstertruck (WantsOne)
+Buyer Han-17 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Han-17 bought Dirty LikeNew Avenger-3 for $88,638.00
+No-one on the staff is leaving!
+Vehicles in inventory 21
+Vehicles sold count 36
+Money in the budget $1,674,392.04
+That's it for the day.
+>>> End Simulation Day 26 Thur
+

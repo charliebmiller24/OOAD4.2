@@ -1,0 +1,9 @@
+>>> Start Simulation Day 22 Sun
+The FNCD drivers are racing...
+Driver Momo finished in 12 place with Kowasaki-2 Motercycle
+Driver PJ finished in 9 place with Yamaha-2 Motercycle
+Driver PJ finished in 2 place with Kowasaki Motercycle
+Driver PJ got a bonus of $200.00!
+Sorry, FNCD is closed on Sun
+>>> End Simulation Day 22 Sun
+

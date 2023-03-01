@@ -1,0 +1,53 @@
+>>> Start Simulation Day 9 Mon
+The FNCD is opening...
+Bought Taurus-2, a Clean Broken Car for $9,484.50
+Bought Europa-3, a Clean Used PerfCar for $27,794.40
+Bought Zombie-2, a Clean LikeNew Monstertruck for $41,488.00
+Bought Gravedigger-2, a Dirty Broken Monstertruck for $16,987.50
+Bought Avenger-2, a Dirty LikeNew Monstertruck for $46,524.00
+Bought Bigfoot-3, a Clean LikeNew Monstertruck for $30,515.00
+The FNCD interns are washing...
+Intern Fred got a bonus of $100.00 for elbow grease wash!
+Intern Fred washed Cayman-2 Dirty to Clean
+Intern Fred got a bonus of $100.00for Detailed wash!
+Intern Fred washed Corvette-2 Dirty to Clean
+Intern Ethel got a bonus of $75.00 for elbow grease wash!
+Intern Ethel washed Tesla-x-2 Dirty to Clean
+Intern Ethel got a bonus of $75.00for Chemical Wash!
+Intern Ethel washed Gravedigger-2 Dirty to Clean
+Intern Lucy got a bonus of $75.00 for elbow grease wash!
+Intern Lucy washed Avenger-2 Dirty to Clean
+Intern Lucy washed Escort Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Taurus-2 Broken to Used
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Europa-3 Used to LikeNew
+Mechanic Scotty did not fix the Used Taurus-2
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Gravedigger-2 Broken to Used
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Taurus-2 Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Gravedigger-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Han-5 wants a PerfCar (WantsOne)
+Buyer Han-5 decided not to buy.
+Buyer Chewy-5 wants a PerfCar (JustLooking)
+Buyer Chewy-5 decided not to buy.
+Buyer Luke-6 wants a Car (WantsOne)
+Buyer Luke-6 is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Luke-6 bought Dirty LikeNew Taurus-2 for $35,566.88
+Buyer Leia-6 wants a Electric (JustLooking)
+Buyer Leia-6 decided not to buy.
+Buyer Han-6 wants a PerfCar (WantsOne)
+Buyer Han-6 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Han-6 bought Clean LikeNew Corvette-2 for $71,216.25
+No-one on the staff is leaving!
+Vehicles in inventory 22
+Vehicles sold count 16
+Money in the budget $878,168.57
+That's it for the day.
+>>> End Simulation Day 9 Mon
+

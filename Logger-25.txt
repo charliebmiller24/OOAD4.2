@@ -1,0 +1,54 @@
+>>> Start Simulation Day 25 Wed
+The FNCD drivers are racing...
+Driver Momo finished in 10 place with F-250 Pickup
+Driver Momo finished in 15 place with F-250-2 Pickup
+Driver Momo got injured in todays race.
+Driver PJ finished in 2 place with Tundra-3 Pickup
+Driver PJ got a bonus of $200.00!
+The FNCD is opening...
+Bought Ranger-4, a Dirty Used Pickup for $28,746.40
+Bought Nissan-leaf-2, a Clean Used Electric for $16,170.40
+Bought Gravedigger-3, a Dirty Broken Monstertruck for $22,382.00
+The FNCD interns are washing...
+Intern Fred got a bonus of $75.00for Chemical Wash!
+Intern Fred washed Ranger-4 Dirty to Sparkling
+Intern Fred got a bonus of $75.00 for elbow grease wash!
+Intern Fred washed Gravedigger-3 Dirty to Clean
+Intern Ethel washed Zombie-2 Clean to Dirty
+Intern Ethel got a bonus of $75.00for Detailed Wash!
+Intern Ethel washed Bigfoot-3 Clean to Sparkling
+Intern Lucy got a bonus of $75.00for Chemical Wash!
+Intern Lucy washed Zombie-2 Dirty to Clean
+Intern Lucy got a bonus of $75.00for Detailed Wash!
+Intern Lucy washed Zombie-2 Clean to Sparkling
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Broken F-250-2
+Mechanic James did not fix the Used Ranger-4
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed F-250-2 Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Ranger-4 Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed F-250-2 Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Nissan-leaf-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Leia-15 wants a Monstertruck (WantsOne)
+Buyer Leia-15 decided not to buy.
+Buyer Han-15 wants a Motercycle (WantsOne)
+Buyer Han-15 decided not to buy.
+Buyer Chewy-15 wants a Monstertruck (NeedsOne)
+Buyer Chewy-15 is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Chewy-15 bought Sparkling LikeNew Zombie-2 for $82,976.00
+Buyer Luke-16 wants a Electric (WantsOne)
+Buyer Luke-16 decided not to buy.
+Buyer Leia-16 wants a Motercycle (JustLooking)
+Buyer Leia-16 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 23
+Vehicles sold count 33
+Money in the budget $1,514,015.49
+That's it for the day.
+>>> End Simulation Day 25 Wed
+

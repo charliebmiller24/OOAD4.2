@@ -1,0 +1,38 @@
+>>> Start Simulation Day 14 Sat
+The FNCD is opening...
+Bought Colorado-2, a Clean Used Pickup for $31,176.00
+Bought Tundra-2, a Dirty Used Pickup for $26,229.60
+The FNCD interns are washing...
+Intern Fred got a bonus of $75.00for Chemical Wash!
+Intern Fred washed Kowasaki-2 Dirty to Clean
+Intern Fred got a bonus of $75.00for Chemical Wash!
+Intern Fred washed Tundra-2 Dirty to Clean
+Intern Ethel washed F-250 Clean to Clean
+Intern Ethel washed Tesla-x Clean to Clean
+Intern Lucy washed F-250 Clean to Clean
+Intern Lucy got a bonus of $75.00for Detailed Wash!
+Intern Lucy washed Tesla-x Clean to Sparkling
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Colorado-2 Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Tundra-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Chewy-9 wants a Electric (NeedsOne)
+Buyer Chewy-9 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Chewy-9 bought Clean LikeNew Tesla-x-2 for $77,412.00
+Buyer Luke-10 wants a Electric (JustLooking)
+Buyer Luke-10 decided not to buy.
+Buyer Leia-10 wants a Car (NeedsOne)
+Buyer Leia-10 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Leia-10 bought Clean LikeNew Taurus-3 for $30,010.00
+Buyer Han-10 wants a PerfCar (JustLooking)
+Buyer Han-10 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 22
+Vehicles sold count 24
+Money in the budget $1,150,764.16
+That's it for the day.
+>>> End Simulation Day 14 Sat
+
