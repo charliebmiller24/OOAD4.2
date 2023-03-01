@@ -1,10 +1,26 @@
->>> Start Simulation Day 16 Sun
-The FNCD drivers are racing...
-Driver PJ finished in 7 place with Yamaha Motercycle
-Driver Fredrick finished in 14 place with KTM Motercycle
-Driver Momo finished in 2 place with Harley-2 Motercycle
-Driver Momo got a bonus of $200.00!
-Sorry, FNCD is closed on Sun
->>> End Simulation Day 16 Sun
+>>> Start Simulation Day 16 Tue
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred got a bonus of $75.00 for elbow grease wash!
+Intern Fred washed tesla-y Dirty to Clean
+Intern Fred got a bonus of $75.00 for elbow grease wash!
+Intern Fred washed Zombie-2 Dirty to Clean
+Intern Ethel washed tesla-y Clean to Clean
+Intern Ethel washed Kowasaki Clean to Clean
+Intern Lucy got a bonus of $75.00for Detailed Wash!
+Intern Lucy washed tesla-y Clean to Sparkling
+Intern Lucy washed Kowasaki Clean to Dirty
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Leia-9 wants a Car (NeedsOne)
+Buyer Leia-9 decided not to buy.
+Buyer Han-9 wants a Car (WantsOne)
+Buyer Han-9 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 16
+Money in the budget $609,281.20
+That's it for the day.
+>>> End Simulation Day 16 Tue
 
-hello

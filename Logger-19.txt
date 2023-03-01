@@ -1,47 +1,30 @@
->>> Start Simulation Day 19 Wed
-The FNCD drivers are racing...
-Driver Fredrick finished in 4 place with Ranger Pickup
-Driver Fredrick finished in 17 place with Tundra-3 Pickup
-Driver Fredrick finished in 8 place with F-250-3 Pickup
+>>> Start Simulation Day 19 Fri
 The FNCD is opening...
-Bought Ranger-4, a Clean LikeNew Pickup for $17,497.00
+Bought Gravedigger-2, a Clean LikeNew Monstertruck for $42,352.00
+Bought Avenger-2, a Dirty LikeNew Monstertruck for $43,689.00
 The FNCD interns are washing...
 Intern Fred got a bonus of $75.00for Detailed wash!
-Intern Fred washed Zombie-3 Dirty to Sparkling
-Intern Fred got a bonus of $20.00for Detailed wash!
-Intern Fred washed Escort-2 Dirty to Clean
-Intern Ethel got a bonus of $75.00for Detailed Wash!
-Intern Ethel washed Ford-electric Clean to Sparkling
-Intern Ethel got a bonus of $75.00for Chemical Wash!
-Intern Ethel washed Nissan-leaf Clean to Sparkling
-Intern Lucy got a bonus of $75.00for Detailed Wash!
-Intern Lucy washed Bigfoot Clean to Sparkling
-Intern Lucy got a bonus of $75.00for Elbow grease Wash!
-Intern Lucy washed Avenger Clean to Sparkling
+Intern Fred washed Avenger-2 Dirty to Clean
+Intern Fred got a bonus of $75.00for Detailed Wash!
+Intern Fred washed KTM Clean to Sparkling
+Intern Ethel washed Bigfoot Clean to Clean
+Intern Ethel washed Europa-2 Clean to Clean
+Intern Lucy washed Bigfoot Clean to Dirty
+Intern Lucy washed Europa-2 Clean to Clean
 The FNCD mechanics are repairing...
-Mechanic James got a bonus of $200.00!
-Mechanic James fixed Tundra-3 Broken to Used
-Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Tundra-3 Used to LikeNew
 The FNCD salespeople are selling...
-The FNCD has 5 buyers today...
-Buyer Han-13 wants a PerfCar (WantsOne)
-Buyer Han-13 is buying! Salesperson Rachel gets a bonus of $1,000.00!
-Buyer Han-13 bought Clean LikeNew Mustang-3 for $69,564.38
-Buyer Chewy-13 wants a Pickup (WantsOne)
-Buyer Chewy-13 decided not to buy.
-Buyer Luke-14 wants a PerfCar (NeedsOne)
-Buyer Luke-14 is buying! Salesperson Rachel gets a bonus of $1,000.00!
-Buyer Luke-14 bought Clean LikeNew Cayman-2 for $54,190.00
-Buyer Leia-14 wants a PerfCar (JustLooking)
-Buyer Leia-14 decided not to buy.
-Buyer Han-14 wants a Pickup (WantsOne)
-Buyer Han-14 decided not to buy.
+The FNCD has 3 buyers today...
+Buyer Han-10 wants a PerfCar (NeedsOne)
+Buyer Han-10 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Han-10 bought Clean LikeNew Europa-3 for $71,572.00
+Buyer Chewy-10 wants a PerfCar (WantsOne)
+Buyer Chewy-10 decided not to buy.
+Buyer Luke-11 wants a PerfCar (JustLooking)
+Buyer Luke-11 decided not to buy.
 No-one on the staff is leaving!
-Vehicles in inventory 22
-Vehicles sold count 29
-Money in the budget $1,150,956.90
+Vehicles in inventory 23
+Vehicles sold count 19
+Money in the budget $726,288.20
 That's it for the day.
->>> End Simulation Day 19 Wed
+>>> End Simulation Day 19 Fri
 
-hello

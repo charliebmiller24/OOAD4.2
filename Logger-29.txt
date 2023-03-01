@@ -1,42 +1,46 @@
->>> Start Simulation Day 29 Sat
+>>> Start Simulation Day 29 Mon
 The FNCD is opening...
-Bought Ford-electric-2, a Clean Used Electric for $20,968.80
+Hired a new Driver named Momo-3
+Hired a new Driver named Carl-3
+Bought Cayman-4, a Dirty Broken PerfCar for $18,842.50
+Bought Corvette-4, a Dirty LikeNew PerfCar for $33,414.00
+Bought Colorado-3, a Dirty LikeNew Pickup for $38,725.00
+Bought Yamaha-4, a Clean Broken Motercycle for $8,420.00
+Bought Kowasaki-4, a Dirty LikeNew Motercycle for $27,514.00
+Bought Gravedigger-3, a Dirty Broken Monstertruck for $19,932.50
 The FNCD interns are washing...
-Intern Fred got a bonus of $75.00for Detailed wash!
-Intern Fred washed KTM Dirty to Clean
-Intern Fred washed KTM Clean to Clean
-Intern Ethel washed KTM Clean to Clean
-Intern Ethel washed Ranger-4 Clean to Clean
-Intern Lucy washed KTM Clean to Clean
-Intern Lucy washed Ranger-4 Clean to Clean
+Intern Fred got a bonus of $100.00for Chemical Wash!
+Intern Fred washed Europa-4 Dirty to Clean
+Intern Fred got a bonus of $75.00for Chemical Wash!
+Intern Fred washed F-250-3 Dirty to Clean
+Intern Ethel got a bonus of $75.00for Chemical Wash!
+Intern Ethel washed Zombie-3 Dirty to Sparkling
+Intern Ethel got a bonus of $100.00 for elbow grease wash!
+Intern Ethel washed Cayman-4 Dirty to Clean
+Intern Lucy washed Corvette-4 Dirty to Dirty
+Intern Lucy got a bonus of $75.00 for elbow grease wash!
+Intern Lucy washed Colorado-3 Dirty to Clean
 The FNCD mechanics are repairing...
-Mechanic James got a bonus of $200.00!
-Mechanic James fixed Ford-electric-2 Used to LikeNew
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Europa-4 Used to LikeNew
+Mechanic James did not fix the Broken KTM-3
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed KTM-3 Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed KTM Broken to Used
+Mechanic James-2 did not fix the Used KTM-3
+Mechanic James-2 got a bonus of $200.00!
+Mechanic James-2 fixed KTM Used to LikeNew
 The FNCD salespeople are selling...
-The FNCD has 8 buyers today...
-Buyer Luke-21 wants a Pickup (WantsOne)
-Buyer Luke-21 decided not to buy.
-Buyer Leia-21 wants a Car (WantsOne)
-Buyer Leia-21 is buying! Salesperson Phoebe gets a bonus of $500.00!
-Buyer Leia-21 bought Sparkling LikeNew Probe-3 for $35,348.00
-Buyer Han-21 wants a PerfCar (WantsOne)
-Buyer Han-21 decided not to buy.
-Buyer Chewy-21 wants a Car (JustLooking)
-Buyer Chewy-21 decided not to buy.
-Buyer Luke-22 wants a PerfCar (JustLooking)
-Buyer Luke-22 decided not to buy.
-Buyer Leia-22 wants a Motercycle (JustLooking)
-Buyer Leia-22 decided not to buy.
-Buyer Han-22 wants a Electric (WantsOne)
-Buyer Han-22 decided not to buy.
-Buyer Chewy-22 wants a Electric (JustLooking)
-Buyer Chewy-22 is buying! Salesperson Phoebe gets a bonus of $750.00!
-Buyer Chewy-22 bought Sparkling LikeNew Nissan-leaf for $54,922.00
+The FNCD has 2 buyers today...
+Buyer Luke-18 wants a Electric (JustLooking)
+Buyer Luke-18 decided not to buy.
+Buyer Leia-18 wants a Car (JustLooking)
+Buyer Leia-18 decided not to buy.
 No-one on the staff is leaving!
-Vehicles in inventory 22
-Vehicles sold count 47
-Money in the budget $1,816,936.33
+Vehicles in inventory 24
+Vehicles sold count 33
+Money in the budget $1,183,254.52
 That's it for the day.
->>> End Simulation Day 29 Sat
+>>> End Simulation Day 29 Mon
 
-hello

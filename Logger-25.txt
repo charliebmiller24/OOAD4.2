@@ -1,31 +1,28 @@
->>> Start Simulation Day 25 Tue
+>>> Start Simulation Day 25 Thur
 The FNCD is opening...
-Bought Europa-5, a Clean LikeNew PerfCar for $30,407.00
-Bought Zombie-4, a Dirty Broken Monstertruck for $17,238.00
 The FNCD interns are washing...
 Intern Fred got a bonus of $100.00for Detailed wash!
-Intern Fred washed Corvette-3 Dirty to Clean
-Intern Fred got a bonus of $75.00for Chemical Wash!
-Intern Fred washed tesla-y-2 Dirty to Clean
-Intern Ethel got a bonus of $20.00for Detailed wash!
-Intern Ethel washed Fiesta-2 Dirty to Sparkling
-Intern Ethel washed Colorado-4 Dirty to Dirty
-Intern Lucy washed Colorado-4 Dirty to Dirty
-Intern Lucy washed Tundra-4 Dirty to Dirty
+Intern Fred washed Corvette-2 Dirty to Sparkling
+Intern Fred washed Yamaha-3 Dirty to Dirty
+Intern Ethel got a bonus of $75.00for Chemical Wash!
+Intern Ethel washed Yamaha-3 Dirty to Clean
+Intern Ethel washed tesla-y-2 Clean to Clean
+Intern Lucy washed tesla-y-2 Clean to Clean
+Intern Lucy washed Taurus-2 Clean to Clean
 The FNCD mechanics are repairing...
-Mechanic James got a bonus of $200.00!
-Mechanic James fixed Colorado-4 Used to LikeNew
-Mechanic James got a bonus of $200.00!
-Mechanic James fixed Zombie-4 Broken to Used
-Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Zombie-4 Used to LikeNew
 The FNCD salespeople are selling...
-The FNCD has 0 buyers today...
+The FNCD has 3 buyers today...
+Buyer Luke-14 wants a Motercycle (NeedsOne)
+Buyer Luke-14 is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Luke-14 bought Clean LikeNew Yamaha-3 for $68,516.25
+Buyer Leia-14 wants a PerfCar (WantsOne)
+Buyer Leia-14 decided not to buy.
+Buyer Han-14 wants a Pickup (JustLooking)
+Buyer Han-14 decided not to buy.
 No-one on the staff is leaving!
-Vehicles in inventory 24
-Vehicles sold count 41
-Money in the budget $1,597,563.51
+Vehicles in inventory 23
+Vehicles sold count 22
+Money in the budget $732,713.45
 That's it for the day.
->>> End Simulation Day 25 Tue
+>>> End Simulation Day 25 Thur
 
-hello

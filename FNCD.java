@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Random;
 
 // This represents the FNCD business and things they would control
 public class FNCD implements SysOut {
@@ -8,6 +9,7 @@ public class FNCD implements SysOut {
     ArrayList<Staff> departedStaff;   // folks that left
     ArrayList<Vehicle> inventory;   // vehicles at the FNCD
     ArrayList<Vehicle> soldVehicles;   // vehicles the buyers bought
+
     private double budget;   // big money pile
     FNCD() {
         staff = new ArrayList<>();
@@ -24,10 +26,28 @@ public class FNCD implements SysOut {
     }
     void moneyOut(double cash) {   // I check for budget overruns on every payout
         budget -= cash;
+
         if (budget<0) {
             budget += 250000;
             out("***Budget overrun*** Added $250K, budget now: " + Utility.asDollar(budget));
         }
+    }
+
+    int totalStaffSalary;
+
+    void calculateStaffSal(){
+        for(Staff s: staff){
+            totalStaffSalary += s.salaryEarned;
+            totalStaffSalary += s.bonusEarned;
+        }
+    }
+
+    void resetTotalStaffSalary() {
+        totalStaffSalary = 0;
+    }
+
+    int getTotalStaffSalary(){
+        return totalStaffSalary;
     }
 
     // Here's where I process daily activities
@@ -55,6 +75,7 @@ public class FNCD implements SysOut {
         rankings.addAll(Arrays.asList(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20));
         int threeRacers = 0;
         for (Staff s:drivers) {
+            drivers = Staff.getStaffByType(staff, Enums.StaffType.Driver);
             int randomDriver = Utility.rndFromRange(0, drivers.size()-1);
             Driver d = (Driver) drivers.get(randomDriver);
             Vehicle vehic = d.raceVehicles(inventory, carType.get(rand)); //sends in our inventory along with the car type for that race, and it returns vehicle. Picks same vehicle for all drivers
@@ -63,7 +84,7 @@ public class FNCD implements SysOut {
             }
             tempRaceArray.add(vehic);
             tempDriverArray.add(d);
-            //drivers.remove(Driver.valueOf(d));
+            staff.remove(d);
             inventory.remove(vehic);
             int randNum = (int) Utility.rndFromRange(0, rankings.size()-1);
             int placement = rankings.get(randNum); //gets a random number out of 20 always picks 1,2,3
@@ -101,7 +122,7 @@ public class FNCD implements SysOut {
         }
         for(int i = 0; i < tempDriverArray.size()-1; i++){
             //inventory.add(tempRaceArray.get(i));
-            drivers.add(tempDriverArray.get(i));
+            staff.add(tempDriverArray.get(i));
         }
 
     }
@@ -235,8 +256,76 @@ public class FNCD implements SysOut {
     // Huh - no one wants to quit my FNCD!
     // I left this as an exercise to the reader...
     void checkForQuitters() {
-        out("No-one on the staff is leaving!");
+        boolean someoneQuit = false;
 
+        Random rand = new Random();
+
+        int internQuit = rand.nextInt(100);
+        int salesQuit = rand.nextInt(100);
+        int mechanicQuit = rand.nextInt(100);
+
+        if(internQuit <= .1){
+            ArrayList<Staff> interns = Staff.getStaffByType(staff, Enums.StaffType.Intern);
+            int randomIntern = Utility.rndFromRange(0, interns.size()-1);
+            Intern i = (Intern) interns.get(randomIntern);
+            departedStaff.add(i);
+            staff.remove(i);
+            someoneQuit = true;
+            out(i.name + "(Intern) quit.");
+        }
+
+        if(salesQuit <= .1){
+            ArrayList<Staff> sales = Staff.getStaffByType(staff, Enums.StaffType.Salesperson);
+            int randomSales = Utility.rndFromRange(0, sales.size()-1);
+            Salesperson s = (Salesperson) sales.get(randomSales);
+            departedStaff.add(s);
+            staff.remove(s);
+            out(s.name + "(Salesperson) quit.");
+
+            //Promoting an intern
+            for(Staff staf: staff){
+                  if(staf.type == Enums.StaffType.Intern){
+                      Salesperson sal = new Salesperson();
+                      sal.name = staf.name;
+                      sal.salaryEarned = staf.salaryEarned;
+                      sal.bonusEarned = staf.bonusEarned;
+                      sal.daysWorked = staf.daysWorked;
+                      //staf.type = Enums.StaffType.Mechanic;
+                      out(sal.name+" has got promoted to "+sal.type+"!");
+                      break;
+                  }
+              }
+
+            someoneQuit = true;
+        }
+
+        if(mechanicQuit <= .1){
+            ArrayList<Staff> mech = Staff.getStaffByType(staff, Enums.StaffType.Mechanic);
+            int randomMech = Utility.rndFromRange(0, mech.size()-1);
+            Mechanic m = (Mechanic) mech.get(randomMech);
+            departedStaff.add(m);
+            staff.remove(m);
+            out(m.name + "(Mechanic) quit.");
+
+            //Promoting an intern
+            for(Staff staf: staff){
+                if(staf.type == Enums.StaffType.Intern){
+                    Mechanic mec = new Mechanic();
+                    mec.name = staf.name;
+                    mec.salaryEarned = staf.salaryEarned;
+                    mec.bonusEarned = staf.bonusEarned;
+                    mec.daysWorked = staf.daysWorked;
+                    //staf.type = Enums.StaffType.Mechanic;
+                    out(mec.name+" has got promoted to "+mec.type+"!");
+                    break;
+                }
+            }
+            someoneQuit = true;
+        }
+
+        if(someoneQuit == false){
+            out("No-one on the staff is leaving!");
+        }
         // I would check the percentages here
         // Move quitters to the departedStaff list
         // If an intern quits, you're good

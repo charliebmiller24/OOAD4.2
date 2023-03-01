@@ -1,9 +1,42 @@
->>> Start Simulation Day 30 Sun
-The FNCD drivers are racing...
-Driver Momo finished in 18 place with Mustang PerfCar
-Driver Momo got injured in todays race.
-No more PerfCar vehicles
-Sorry, FNCD is closed on Sun
->>> End Simulation Day 30 Sun
+>>> Start Simulation Day 30 Tue
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred washed Europa-4 Dirty to Dirty
+Intern Fred washed KTM-3 Dirty to Dirty
+Intern Ethel got a bonus of $100.00 for elbow grease wash!
+Intern Ethel washed Europa-4 Dirty to Clean
+Intern Ethel got a bonus of $75.00for Detailed wash!
+Intern Ethel washed KTM-3 Dirty to Clean
+Intern Lucy got a bonus of $75.00for Detailed wash!
+Intern Lucy washed KTM Dirty to Clean
+Intern Lucy washed Corvette-4 Dirty to Dirty
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed KTM-3 Used to LikeNew
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cayman-4 Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Cayman-4 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Yamaha-4 Broken to Used
+Mechanic James-2 got a bonus of $200.00!
+Mechanic James-2 fixed Yamaha-4 Used to LikeNew
+Mechanic James-2 got a bonus of $200.00!
+Mechanic James-2 fixed Gravedigger-3 Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Han-18 wants a Electric (JustLooking)
+Buyer Han-18 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Han-18 bought Clean LikeNew tesla-y-2 for $60,440.00
+Buyer Chewy-18 wants a Motercycle (NeedsOne)
+Buyer Chewy-18 decided not to buy.
+Buyer Luke-19 wants a PerfCar (JustLooking)
+Buyer Luke-19 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Luke-19 bought Dirty LikeNew Cayman-4 for $70,659.38
+No-one on the staff is leaving!
+Vehicles in inventory 22
+Vehicles sold count 35
+Money in the budget $1,313,093.90
+That's it for the day.
+>>> End Simulation Day 30 Tue
 
-hello

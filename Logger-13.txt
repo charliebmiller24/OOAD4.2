@@ -1,30 +1,31 @@
->>> Start Simulation Day 13 Thur
+>>> Start Simulation Day 13 Sat
 The FNCD is opening...
-Bought KTM-2, a Dirty Used Motercycle for $26,236.00
-Bought Bigfoot-3, a Clean Used Monstertruck for $37,521.60
+Bought Taurus-2, a Dirty LikeNew Car for $16,757.00
+Bought KTM-2, a Dirty LikeNew Motercycle for $15,697.00
 The FNCD interns are washing...
-Intern Fred got a bonus of $75.00 for elbow grease wash!
-Intern Fred washed KTM Dirty to Clean
-Intern Fred washed Harley-2 Dirty to Dirty
-Intern Ethel got a bonus of $75.00for Chemical Wash!
-Intern Ethel washed Harley-2 Dirty to Clean
+Intern Fred washed tesla-y-2 Dirty to Dirty
+Intern Fred got a bonus of $20.00for Chemical Wash!
+Intern Fred washed Taurus-2 Dirty to Clean
 Intern Ethel got a bonus of $75.00 for elbow grease wash!
-Intern Ethel washed KTM-2 Dirty to Sparkling
-Intern Lucy washed Tesla-x Clean to Dirty
-Intern Lucy washed Ford-electric Clean to Clean
+Intern Ethel washed tesla-y-2 Dirty to Clean
+Intern Ethel got a bonus of $75.00for Detailed wash!
+Intern Ethel washed KTM-2 Dirty to Clean
+Intern Lucy washed Tesla-x Clean to Clean
+Intern Lucy washed tesla-y Clean to Dirty
 The FNCD mechanics are repairing...
-Mechanic James got a bonus of $200.00!
-Mechanic James fixed KTM-2 Used to LikeNew
-Mechanic James did not fix the Used Bigfoot-3
-Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Bigfoot-3 Used to LikeNew
 The FNCD salespeople are selling...
-The FNCD has 0 buyers today...
+The FNCD has 3 buyers today...
+Buyer Han-8 wants a PerfCar (WantsOne)
+Buyer Han-8 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Han-8 bought Clean LikeNew Mustang-2 for $57,648.75
+Buyer Chewy-8 wants a PerfCar (NeedsOne)
+Buyer Chewy-8 decided not to buy.
+Buyer Luke-9 wants a Electric (JustLooking)
+Buyer Luke-9 decided not to buy.
 No-one on the staff is leaving!
-Vehicles in inventory 24
-Vehicles sold count 18
-Money in the budget $696,882.95
+Vehicles in inventory 23
+Vehicles sold count 16
+Money in the budget $672,024.80
 That's it for the day.
->>> End Simulation Day 13 Thur
+>>> End Simulation Day 13 Sat
 
-hello

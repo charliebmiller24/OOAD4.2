@@ -1,32 +1,9 @@
->>> Start Simulation Day 28 Fri
-The FNCD is opening...
-The FNCD interns are washing...
-Intern Fred got a bonus of $75.00for Detailed wash!
-Intern Fred washed Kowasaki-3 Dirty to Sparkling
-Intern Fred got a bonus of $75.00for Chemical Wash!
-Intern Fred washed Harley-3 Dirty to Sparkling
-Intern Ethel washed KTM Clean to Dirty
-Intern Ethel washed Yamaha-3 Clean to Clean
-Intern Lucy washed KTM Dirty to Dirty
-Intern Lucy got a bonus of $75.00for Detailed Wash!
-Intern Lucy washed Yamaha-3 Clean to Sparkling
-The FNCD mechanics are repairing...
-The FNCD salespeople are selling...
-The FNCD has 4 buyers today...
-Buyer Luke-20 wants a Motercycle (NeedsOne)
-Buyer Luke-20 decided not to buy.
-Buyer Leia-20 wants a Pickup (NeedsOne)
-Buyer Leia-20 decided not to buy.
-Buyer Han-20 wants a Electric (NeedsOne)
-Buyer Han-20 is buying! Salesperson Phoebe gets a bonus of $750.00!
-Buyer Han-20 bought Sparkling LikeNew tesla-y-2 for $56,398.12
-Buyer Chewy-20 wants a Electric (WantsOne)
-Buyer Chewy-20 decided not to buy.
-No-one on the staff is leaving!
-Vehicles in inventory 23
-Vehicles sold count 45
-Money in the budget $1,748,895.13
-That's it for the day.
->>> End Simulation Day 28 Fri
+>>> Start Simulation Day 28 Sun
+The FNCD drivers are racing...
+Driver Fredrick-3 finished in 15 place with KTM Motercycle
+Driver Fredrick-3 got injured in todays race.
+Driver PJ-2 finished in 12 place with Kowasaki Motercycle
+No more Motercycle vehicles
+Sorry, FNCD is closed on Sun
+>>> End Simulation Day 28 Sun
 
-hello

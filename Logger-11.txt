@@ -1,31 +1,37 @@
->>> Start Simulation Day 11 Tue
+>>> Start Simulation Day 11 Thur
 The FNCD is opening...
-Bought Corvette-3, a Dirty Broken PerfCar for $14,206.00
+Bought Mustang-2, a Clean Broken PerfCar for $15,373.00
+Bought Tundra-2, a Clean Broken Pickup for $16,717.50
+Bought Bigfoot-2, a Dirty LikeNew Monstertruck for $42,986.00
 The FNCD interns are washing...
+Intern Fred got a bonus of $100.00 for elbow grease wash!
+Intern Fred washed Corvette-2 Dirty to Clean
 Intern Fred got a bonus of $75.00for Detailed wash!
-Intern Fred washed Tundra Dirty to Clean
-Intern Fred got a bonus of $75.00for Chemical Wash!
-Intern Fred washed Ranger-3 Dirty to Clean
-Intern Ethel got a bonus of $100.00for Detailed wash!
-Intern Ethel washed Corvette-3 Dirty to Clean
-Intern Ethel got a bonus of $20.00for Detailed Wash!
-Intern Ethel washed Fiesta Clean to Sparkling
-Intern Lucy washed Tesla-x Clean to Dirty
-Intern Lucy washed Ford-electric Clean to Clean
+Intern Fred washed Kowasaki-2 Dirty to Sparkling
+Intern Ethel got a bonus of $75.00for Chemical Wash!
+Intern Ethel washed Bigfoot-2 Dirty to Clean
+Intern Ethel washed Tesla-x Clean to Clean
+Intern Lucy washed Tesla-x Clean to Clean
+Intern Lucy washed tesla-y Clean to Clean
 The FNCD mechanics are repairing...
+Mechanic James did not fix the Used Harley-2
 Mechanic James got a bonus of $300.00!
-Mechanic James fixed Corvette-3 Broken to Used
+Mechanic James fixed Mustang-2 Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Harley-2 Used to LikeNew
 Mechanic Scotty got a bonus of $300.00!
-Mechanic Scotty fixed Corvette-3 Used to LikeNew
+Mechanic Scotty fixed Mustang-2 Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Tundra-2 Broken to Used
 The FNCD salespeople are selling...
 The FNCD has 1 buyers today...
-Buyer Leia-8 wants a PerfCar (WantsOne)
-Buyer Leia-8 decided not to buy.
+Buyer Han-6 wants a Electric (NeedsOne)
+Buyer Han-6 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Han-6 bought Clean LikeNew Tesla-x-2 for $53,144.00
 No-one on the staff is leaving!
-Vehicles in inventory 24
-Vehicles sold count 16
-Money in the budget $629,229.05
+Vehicles in inventory 23
+Vehicles sold count 13
+Money in the budget $584,335.93
 That's it for the day.
->>> End Simulation Day 11 Tue
+>>> End Simulation Day 11 Thur
 
-hello

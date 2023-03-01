@@ -2,6 +2,8 @@
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintStream;
+import java.io.Console;
+
 public class Simulator implements SysOut {
     final int numDays;
     Enums.DayOfWeek dayOfWeek;
@@ -40,6 +42,15 @@ public class Simulator implements SysOut {
                 
                 dayOfWeek = getNextDay(dayOfWeek);  // increment to the next day
                 file.close();
+
+                Console cons = System.console();
+                cons.printf("Tracker: Day "+day+" \n");
+                fncd.calculateStaffSal();
+                cons.printf("Total Money Earned By All Staff: "+Utility.asDollar(fncd.getTotalStaffSalary())+" \n");
+                fncd.resetTotalStaffSalary();
+                cons.printf("Total Money Earned By the FNCD: "+Utility.asDollar(fncd.getBudget())+"\n");
+                cons.printf("\n");
+                cons.flush();
             }
             catch(IOException e){
                 System.out.println("We have a problem");

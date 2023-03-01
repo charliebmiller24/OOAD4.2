@@ -1,38 +1,46 @@
->>> Start Simulation Day 4 Tue
+>>> Start Simulation Day 4 Thur
 The FNCD is opening...
-Bought Corvette-2, a Clean Broken PerfCar for $16,947.50
-Bought Kowasaki-2, a Dirty LikeNew Motercycle for $24,220.00
+Bought Probe-2, a Dirty Used Car for $15,672.80
+Bought Escort-2, a Dirty Broken Car for $6,258.00
 The FNCD interns are washing...
-Intern Fred got a bonus of $100.00for Chemical Wash!
-Intern Fred washed Mustang Dirty to Clean
 Intern Fred got a bonus of $75.00 for elbow grease wash!
-Intern Fred washed Ranger Dirty to Clean
+Intern Fred washed Tesla-x Dirty to Clean
+Intern Fred washed Ford-electric Dirty to Dirty
 Intern Ethel got a bonus of $75.00for Detailed wash!
-Intern Ethel washed Tesla-x Dirty to Clean
-Intern Ethel washed Ford-electric Dirty to Dirty
+Intern Ethel washed Ford-electric Dirty to Sparkling
+Intern Ethel got a bonus of $75.00for Detailed wash!
+Intern Ethel washed Yamaha Dirty to Clean
 Intern Lucy got a bonus of $75.00 for elbow grease wash!
-Intern Lucy washed Ford-electric Dirty to Clean
+Intern Lucy washed Kowasaki Dirty to Clean
 Intern Lucy got a bonus of $75.00for Chemical Wash!
-Intern Lucy washed Nissan-leaf Dirty to Clean
+Intern Lucy washed Harley Dirty to Sparkling
 The FNCD mechanics are repairing...
-Mechanic James got a bonus of $200.00!
-Mechanic James fixed Ford-electric Used to LikeNew
 Mechanic James did not fix the Broken KTM
+Mechanic James did not fix the Broken Avenger
 Mechanic Scotty got a bonus of $200.00!
 Mechanic Scotty fixed KTM Broken to Used
 Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Bigfoot Broken to Used
+Mechanic Scotty fixed Avenger Broken to Used
 Mechanic Spock got a bonus of $200.00!
 Mechanic Spock fixed KTM Used to LikeNew
-Mechanic Spock got a bonus of $200.00!
-Mechanic Spock fixed Bigfoot Used to LikeNew
+Mechanic Spock did not fix the Used Avenger
 The FNCD salespeople are selling...
-The FNCD has 0 buyers today...
+The FNCD has 5 buyers today...
+Buyer Luke-2 wants a Motercycle (WantsOne)
+Buyer Luke-2 is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Luke-2 bought Sparkling LikeNew Harley for $76,678.00
+Buyer Leia-2 wants a Electric (NeedsOne)
+Buyer Leia-2 decided not to buy.
+Buyer Han-2 wants a Electric (JustLooking)
+Buyer Han-2 decided not to buy.
+Buyer Chewy-2 wants a Monstertruck (NeedsOne)
+Buyer Chewy-2 decided not to buy.
+Buyer Luke-3 wants a Pickup (JustLooking)
+Buyer Luke-3 decided not to buy.
 No-one on the staff is leaving!
-Vehicles in inventory 24
-Vehicles sold count 7
-Money in the budget $319,483.52
+Vehicles in inventory 23
+Vehicles sold count 3
+Money in the budget $233,531.00
 That's it for the day.
->>> End Simulation Day 4 Tue
+>>> End Simulation Day 4 Thur
 
-hello

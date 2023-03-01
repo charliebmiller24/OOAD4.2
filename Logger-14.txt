@@ -1,37 +1,8 @@
->>> Start Simulation Day 14 Fri
-The FNCD is opening...
-The FNCD interns are washing...
-Intern Fred got a bonus of $75.00 for elbow grease wash!
-Intern Fred washed Tesla-x Dirty to Clean
-Intern Fred got a bonus of $75.00 for elbow grease wash!
-Intern Fred washed Bigfoot-3 Dirty to Sparkling
-Intern Ethel washed Tesla-x Clean to Dirty
-Intern Ethel washed Ford-electric Clean to Clean
-Intern Lucy got a bonus of $75.00 for elbow grease wash!
-Intern Lucy washed Tesla-x Dirty to Clean
-Intern Lucy washed Tesla-x Clean to Dirty
-The FNCD mechanics are repairing...
-The FNCD salespeople are selling...
-The FNCD has 5 buyers today...
-Buyer Han-9 wants a Pickup (NeedsOne)
-Buyer Han-9 is buying! Salesperson Rachel gets a bonus of $750.00!
-Buyer Han-9 bought Clean LikeNew Ranger-3 for $74,110.00
-Buyer Chewy-9 wants a Car (WantsOne)
-Buyer Chewy-9 is buying! Salesperson Monica gets a bonus of $500.00!
-Buyer Chewy-9 bought Sparkling LikeNew Taurus for $32,756.00
-Buyer Luke-10 wants a Electric (WantsOne)
-Buyer Luke-10 is buying! Salesperson Monica gets a bonus of $750.00!
-Buyer Luke-10 bought Clean LikeNew Tesla-x-2 for $75,712.00
-Buyer Leia-10 wants a Pickup (NeedsOne)
-Buyer Leia-10 is buying! Salesperson Phoebe gets a bonus of $750.00!
-Buyer Leia-10 bought Clean LikeNew Tundra for $47,051.25
-Buyer Han-10 wants a Electric (WantsOne)
-Buyer Han-10 decided not to buy.
-No-one on the staff is leaving!
-Vehicles in inventory 20
-Vehicles sold count 22
-Money in the budget $925,252.20
-That's it for the day.
->>> End Simulation Day 14 Fri
+>>> Start Simulation Day 14 Sun
+The FNCD drivers are racing...
+Driver Momo finished in 6 place with Bigfoot-2 Monstertruck
+Driver PJ-2 finished in 5 place with Gravedigger Monstertruck
+Driver Fredrick-2 finished in 15 place with Avenger Monstertruck
+Sorry, FNCD is closed on Sun
+>>> End Simulation Day 14 Sun
 
-hello

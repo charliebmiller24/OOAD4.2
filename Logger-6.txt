@@ -1,43 +1,41 @@
->>> Start Simulation Day 6 Thur
+>>> Start Simulation Day 6 Sat
 The FNCD is opening...
-Bought Europa-3, a Clean Used PerfCar for $24,908.80
+Bought Tesla-x-2, a Dirty Used Electric for $21,257.60
 The FNCD interns are washing...
-Intern Fred got a bonus of $75.00for Chemical Wash!
-Intern Fred washed Zombie Dirty to Clean
-Intern Fred got a bonus of $75.00for Chemical Wash!
-Intern Fred washed Yamaha Dirty to Clean
-Intern Ethel got a bonus of $100.00 for elbow grease wash!
-Intern Ethel washed Cayman-2 Dirty to Clean
-Intern Ethel got a bonus of $75.00for Chemical Wash!
-Intern Ethel washed Ranger-2 Dirty to Clean
-Intern Lucy got a bonus of $75.00 for elbow grease wash!
-Intern Lucy washed F-250-2 Dirty to Clean
-Intern Lucy got a bonus of $75.00 for elbow grease wash!
-Intern Lucy washed Yamaha-2 Dirty to Clean
+Intern Fred got a bonus of $75.00for Detailed wash!
+Intern Fred washed Avenger Dirty to Clean
+Intern Fred got a bonus of $100.00 for elbow grease wash!
+Intern Fred washed Europa-2 Dirty to Clean
+Intern Ethel got a bonus of $20.00for Detailed wash!
+Intern Ethel washed Escort-2 Dirty to Clean
+Intern Ethel got a bonus of $75.00 for elbow grease wash!
+Intern Ethel washed Yamaha-2 Dirty to Clean
+Intern Lucy got a bonus of $75.00for Chemical Wash!
+Intern Lucy washed Tesla-x-2 Dirty to Clean
+Intern Lucy got a bonus of $20.00for Chemical Wash!
+Intern Lucy washed Escort Clean to Sparkling
 The FNCD mechanics are repairing...
+Mechanic James did not fix the Used Escort-2
 Mechanic James got a bonus of $200.00!
-Mechanic James fixed Bigfoot-2 Used to LikeNew
-Mechanic James got a bonus of $300.00!
-Mechanic James fixed Corvette-2 Used to LikeNew
-Mechanic Scotty got a bonus of $300.00!
-Mechanic Scotty fixed Europa-3 Used to LikeNew
+Mechanic James fixed Yamaha-2 Used to LikeNew
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Escort-2 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Tesla-x-2 Used to LikeNew
 The FNCD salespeople are selling...
-The FNCD has 4 buyers today...
-Buyer Han-3 wants a Pickup (JustLooking)
-Buyer Han-3 decided not to buy.
-Buyer Chewy-3 wants a Pickup (NeedsOne)
-Buyer Chewy-3 is buying! Salesperson Phoebe gets a bonus of $750.00!
-Buyer Chewy-3 bought Clean LikeNew Ranger-2 for $52,004.00
-Buyer Luke-4 wants a Monstertruck (NeedsOne)
-Buyer Luke-4 is buying! Salesperson Monica gets a bonus of $750.00!
-Buyer Luke-4 bought Clean LikeNew Zombie for $96,974.00
-Buyer Leia-4 wants a Electric (JustLooking)
-Buyer Leia-4 decided not to buy.
+The FNCD has 3 buyers today...
+Buyer Chewy-3 wants a Pickup (WantsOne)
+Buyer Chewy-3 decided not to buy.
+Buyer Luke-4 wants a Pickup (NeedsOne)
+Buyer Luke-4 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-4 bought Clean LikeNew Tundra for $78,222.00
+Buyer Leia-4 wants a Pickup (WantsOne)
+Buyer Leia-4 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Leia-4 bought Clean LikeNew F-250 for $31,232.00
 No-one on the staff is leaving!
 Vehicles in inventory 22
-Vehicles sold count 10
-Money in the budget $471,673.72
+Vehicles sold count 6
+Money in the budget $349,498.60
 That's it for the day.
->>> End Simulation Day 6 Thur
+>>> End Simulation Day 6 Sat
 
-hello

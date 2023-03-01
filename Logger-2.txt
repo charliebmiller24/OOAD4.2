@@ -1,11 +1,37 @@
->>> Start Simulation Day 2 Sun
-The FNCD drivers are racing...
-Driver PJ finished in 12 place with Kowasaki Motercycle
-Driver Momo finished in 1 place with Yamaha Motercycle
-Driver Momo got a bonus of $200.00!
-Driver PJ finished in 2 place with Harley Motercycle
-Driver PJ got a bonus of $200.00!
-Sorry, FNCD is closed on Sun
->>> End Simulation Day 2 Sun
+>>> Start Simulation Day 2 Tue
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred got a bonus of $20.00for Chemical Wash!
+Intern Fred washed Probe Dirty to Clean
+Intern Fred washed Corvette Dirty to Dirty
+Intern Ethel got a bonus of $100.00for Chemical Wash!
+Intern Ethel washed Corvette Dirty to Clean
+Intern Ethel got a bonus of $100.00for Detailed wash!
+Intern Ethel washed Mustang Dirty to Clean
+Intern Lucy got a bonus of $75.00 for elbow grease wash!
+Intern Lucy washed F-250 Dirty to Clean
+Intern Lucy got a bonus of $75.00 for elbow grease wash!
+Intern Lucy washed Colorado Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Broken Ranger
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Colorado Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Ranger Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Colorado Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Ranger Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Tesla-x Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Luke wants a Motercycle (WantsOne)
+Buyer Luke decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 0
+Money in the budget $129,680.80
+That's it for the day.
+>>> End Simulation Day 2 Tue
 
-hello
