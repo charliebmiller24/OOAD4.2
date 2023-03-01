@@ -40,7 +40,8 @@ public class FNCD implements SysOut {
     
     void raceday()
     {
-        ArrayList<Vehicle> tempRaceArray = new ArrayList<Vehicle>();  
+        ArrayList<Vehicle> tempRaceArray = new ArrayList<Vehicle>(); 
+        ArrayList<Staff> tempDriverArray = new ArrayList<Staff>();  
 
         out("The FNCD drivers are racing...");
         ArrayList<Staff> drivers = Staff.getStaffByType(staff, Enums.StaffType.Driver);
@@ -57,10 +58,12 @@ public class FNCD implements SysOut {
             int randomDriver = Utility.rndFromRange(0, drivers.size()-1);
             Driver d = (Driver) drivers.get(randomDriver);
             Vehicle vehic = d.raceVehicles(inventory, carType.get(rand)); //sends in our inventory along with the car type for that race, and it returns vehicle. Picks same vehicle for all drivers
-            if(vehic == null){
+            if(vehic == null || drivers.size() == 0){
                 break;
             }
             tempRaceArray.add(vehic);
+            tempDriverArray.add(d);
+            //drivers.remove(Driver.valueOf(d));
             inventory.remove(vehic);
             int randNum = (int) Utility.rndFromRange(0, rankings.size()-1);
             int placement = rankings.get(randNum); //gets a random number out of 20 always picks 1,2,3
@@ -89,9 +92,11 @@ public class FNCD implements SysOut {
             }
 
         }
-        // for(int i = 0; i > tempRaceArray.size()-1; i++){
-        //     inventory.add(tempRaceArray.get(i));
-        // }
+        for(int i = 0; i < tempRaceArray.size()-1; i++){
+            inventory.add(tempRaceArray.get(i));
+            drivers.add(tempDriverArray.get(i));
+            
+        }
 
     }
 
