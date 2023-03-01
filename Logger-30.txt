@@ -1,47 +1,9 @@
->>> Start Simulation Day 30 Mon
-The FNCD is opening...
-Bought Escort-4, a Clean LikeNew Car for $14,922.00
-Bought Cayman-4, a Clean Broken PerfCar for $11,390.00
-Bought Tesla-x-3, a Clean LikeNew Electric for $24,713.00
-Bought tesla-y-3, a Dirty Broken Electric for $12,359.00
-Bought Kowasaki-3, a Dirty Broken Motercycle for $6,872.50
-Bought Harley-3, a Clean Used Motercycle for $31,977.60
-Bought Zombie-4, a Dirty Used Monstertruck for $34,917.60
-The FNCD interns are washing...
-Intern Fred got a bonus of $100.00for Chemical Wash!
-Intern Fred washed Europa-4 Dirty to Sparkling
-Intern Fred got a bonus of $75.00for Chemical Wash!
-Intern Fred washed tesla-y-3 Dirty to Clean
-Intern Ethel got a bonus of $75.00for Detailed wash!
-Intern Ethel washed Kowasaki-3 Dirty to Clean
-Intern Ethel got a bonus of $75.00 for elbow grease wash!
-Intern Ethel washed Zombie-4 Dirty to Clean
-Intern Lucy washed Probe-3 Clean to Dirty
-Intern Lucy washed Colorado-3 Clean to Clean
-The FNCD mechanics are repairing...
-Mechanic James did not fix the Broken Cayman-4
-Mechanic James got a bonus of $200.00!
-Mechanic James fixed tesla-y-3 Broken to Used
-Mechanic Scotty got a bonus of $300.00!
-Mechanic Scotty fixed Cayman-4 Broken to Used
-Mechanic Scotty did not fix the Used tesla-y-3
-Mechanic Spock got a bonus of $300.00!
-Mechanic Spock fixed Cayman-4 Used to LikeNew
-Mechanic Spock got a bonus of $200.00!
-Mechanic Spock fixed tesla-y-3 Used to LikeNew
-The FNCD salespeople are selling...
-The FNCD has 3 buyers today...
-Buyer Luke-20 wants a Electric (JustLooking)
-Buyer Luke-20 decided not to buy.
-Buyer Leia-20 wants a PerfCar (JustLooking)
-Buyer Leia-20 is buying! Salesperson Rachel gets a bonus of $1,000.00!
-Buyer Leia-20 bought Sparkling LikeNew Europa-4 for $62,796.00
-Buyer Han-20 wants a PerfCar (WantsOne)
-Buyer Han-20 decided not to buy.
-No-one on the staff is leaving!
-Vehicles in inventory 23
-Vehicles sold count 45
-Money in the budget $1,968,020.94
-That's it for the day.
->>> End Simulation Day 30 Mon
+>>> Start Simulation Day 30 Sun
+The FNCD drivers are racing...
+Driver Momo finished in 18 place with Mustang PerfCar
+Driver Momo got injured in todays race.
+No more PerfCar vehicles
+Sorry, FNCD is closed on Sun
+>>> End Simulation Day 30 Sun
 
+hello

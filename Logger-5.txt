@@ -1,35 +1,49 @@
->>> Start Simulation Day 5 Thur
+>>> Start Simulation Day 5 Wed
+The FNCD drivers are racing...
+Driver Fredrick finished in 1 place with Mustang PerfCar
+Driver Fredrick got a bonus of $300.00!
+Driver Fredrick finished in 18 place with Europa-2 PerfCar
+Driver Fredrick got injured in todays race.
+No more PerfCar vehicles
 The FNCD is opening...
+Bought Mustang-2, a Dirty LikeNew PerfCar for $30,641.00
 The FNCD interns are washing...
-Intern Fred got a bonus of $75.00 for elbow grease wash!
-Intern Fred washed F-250 Dirty to Clean
-Intern Fred washed Tundra Dirty to Dirty
-Intern Ethel got a bonus of $75.00 for elbow grease wash!
-Intern Ethel washed Tundra Dirty to Clean
+Intern Fred got a bonus of $75.00for Chemical Wash!
+Intern Fred washed Ford-electric Dirty to Clean
+Intern Fred got a bonus of $75.00for Detailed wash!
+Intern Fred washed KTM Dirty to Clean
 Intern Ethel got a bonus of $75.00for Chemical Wash!
-Intern Ethel washed tesla-y Dirty to Clean
+Intern Ethel washed Bigfoot Dirty to Clean
+Intern Ethel washed Avenger Dirty to Dirty
+Intern Lucy got a bonus of $75.00for Chemical Wash!
+Intern Lucy washed Avenger Dirty to Clean
 Intern Lucy got a bonus of $75.00 for elbow grease wash!
-Intern Lucy washed Ford-electric Dirty to Clean
-Intern Lucy got a bonus of $75.00 for elbow grease wash!
-Intern Lucy washed Kowasaki Dirty to Sparkling
+Intern Lucy washed Yamaha Dirty to Clean
 The FNCD mechanics are repairing...
 Mechanic James got a bonus of $200.00!
-Mechanic James fixed tesla-y Used to LikeNew
-Mechanic James did not fix the Used Nissan-leaf
+Mechanic James fixed Zombie Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Yamaha Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Cayman-2 Used to LikeNew
 Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Nissan-leaf Used to LikeNew
-Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Yamaha Broken to Used
+Mechanic Scotty fixed Yamaha-2 Used to LikeNew
 Mechanic Spock got a bonus of $200.00!
-Mechanic Spock fixed Yamaha Used to LikeNew
-Mechanic Spock got a bonus of $200.00!
-Mechanic Spock fixed Kowasaki Used to LikeNew
+Mechanic Spock fixed Bigfoot-2 Broken to Used
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Corvette-2 Broken to Used
 The FNCD salespeople are selling...
-The FNCD has 0 buyers today...
+The FNCD has 2 buyers today...
+Buyer Luke-3 wants a PerfCar (JustLooking)
+Buyer Luke-3 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Luke-3 bought Dirty LikeNew Mustang-2 for $61,282.00
+Buyer Leia-3 wants a Electric (JustLooking)
+Buyer Leia-3 decided not to buy.
 No-one on the staff is leaving!
-Vehicles in inventory 24
-Vehicles sold count 5
-Money in the budget $442,600.90
+Vehicles in inventory 23
+Vehicles sold count 8
+Money in the budget $348,864.52
 That's it for the day.
->>> End Simulation Day 5 Thur
+>>> End Simulation Day 5 Wed
 
+hello

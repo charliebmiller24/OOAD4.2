@@ -1,8 +1,52 @@
->>> Start Simulation Day 15 Sun
-The FNCD drivers are racing...
-Driver PJ finished in 9 place with Tundra-2 Pickup
-Driver Momo finished in 8 place with F-250-2 Pickup
-Driver Fredrick finished in 7 place with Colorado-2 Pickup
-Sorry, FNCD is closed on Sun
->>> End Simulation Day 15 Sun
+>>> Start Simulation Day 15 Sat
+The FNCD is opening...
+Bought Probe-2, a Clean LikeNew Car for $19,090.00
+Bought F-250-3, a Dirty LikeNew Pickup for $21,235.00
+Bought Colorado-3, a Dirty Broken Pickup for $19,902.00
+Bought tesla-y-2, a Dirty Broken Electric for $15,039.50
+The FNCD interns are washing...
+Intern Fred got a bonus of $75.00for Chemical Wash!
+Intern Fred washed Tesla-x Dirty to Clean
+Intern Fred washed F-250-3 Dirty to Dirty
+Intern Ethel got a bonus of $75.00 for elbow grease wash!
+Intern Ethel washed F-250-3 Dirty to Clean
+Intern Ethel washed Colorado-3 Dirty to Dirty
+Intern Lucy got a bonus of $75.00 for elbow grease wash!
+Intern Lucy washed Colorado-3 Dirty to Clean
+Intern Lucy got a bonus of $75.00for Chemical Wash!
+Intern Lucy washed tesla-y-2 Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Colorado-3 Broken to Used
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed tesla-y-2 Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Colorado-3 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed tesla-y-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 6 buyers today...
+Buyer Chewy-10 wants a Pickup (JustLooking)
+Buyer Chewy-10 decided not to buy.
+Buyer Luke-11 wants a Pickup (WantsOne)
+Buyer Luke-11 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Luke-11 bought Dirty LikeNew Colorado-3 for $74,632.50
+Buyer Leia-11 wants a Motercycle (WantsOne)
+Buyer Leia-11 decided not to buy.
+Buyer Han-11 wants a Monstertruck (JustLooking)
+Buyer Han-11 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Han-11 bought Sparkling LikeNew Bigfoot-3 for $93,804.00
+Buyer Chewy-11 wants a Monstertruck (NeedsOne)
+Buyer Chewy-11 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Chewy-11 bought Clean LikeNew Bigfoot-2 for $63,523.12
+Buyer Luke-12 wants a PerfCar (WantsOne)
+Buyer Luke-12 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Luke-12 bought Clean LikeNew Europa-3 for $62,272.00
+No-one on the staff is leaving!
+Vehicles in inventory 20
+Vehicles sold count 26
+Money in the budget $1,142,957.32
+That's it for the day.
+>>> End Simulation Day 15 Sat
 
+hello
