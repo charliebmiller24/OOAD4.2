@@ -1,0 +1,31 @@
+>>> Start Simulation Day 19 Thur
+The FNCD is opening...
+Bought Colorado-3, a Dirty Broken Pickup for $8,330.50
+The FNCD interns are washing...
+Intern Fred got a bonus of $75.00for Detailed wash!
+Intern Fred washed Nissan-leaf Dirty to Sparkling
+Intern Fred got a bonus of $75.00for Detailed wash!
+Intern Fred washed Yamaha-2 Dirty to Clean
+Intern Ethel washed Kowasaki-2 Dirty to Dirty
+Intern Ethel got a bonus of $75.00 for elbow grease wash!
+Intern Ethel washed Ford-electric-2 Dirty to Clean
+Intern Lucy got a bonus of $75.00for Chemical Wash!
+Intern Lucy washed Kowasaki-2 Dirty to Sparkling
+Intern Lucy got a bonus of $75.00for Detailed wash!
+Intern Lucy washed Colorado-3 Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Harley-2 Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Colorado-3 Broken to Used
+Mechanic Scotty did not fix the Used Colorado-3
+Mechanic Spock did not fix the Used Colorado-3
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 27
+Money in the budget $1,214,083.94
+That's it for the day.
+>>> End Simulation Day 19 Thur
+

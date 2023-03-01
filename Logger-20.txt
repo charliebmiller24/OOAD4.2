@@ -1,0 +1,32 @@
+>>> Start Simulation Day 20 Fri
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred got a bonus of $75.00 for elbow grease wash!
+Intern Fred washed Harley-2 Dirty to Clean
+Intern Fred got a bonus of $75.00for Chemical Wash!
+Intern Fred washed Colorado-3 Dirty to Clean
+Intern Ethel washed Cayman-2 Clean to Clean
+Intern Ethel got a bonus of $100.00for Elbow grease Wash!
+Intern Ethel washed Mustang-2 Clean to Sparkling
+Intern Lucy washed Cayman-2 Clean to Clean
+Intern Lucy washed Zombie-2 Clean to Dirty
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Colorado-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Luke-12 wants a PerfCar (JustLooking)
+Buyer Luke-12 decided not to buy.
+Buyer Leia-12 wants a Car (WantsOne)
+Buyer Leia-12 decided not to buy.
+Buyer Han-12 wants a Monstertruck (WantsOne)
+Buyer Han-12 decided not to buy.
+Buyer Chewy-12 wants a PerfCar (JustLooking)
+Buyer Chewy-12 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 27
+Money in the budget $1,212,823.94
+That's it for the day.
+>>> End Simulation Day 20 Fri
+

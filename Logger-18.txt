@@ -1,0 +1,48 @@
+>>> Start Simulation Day 18 Wed
+The FNCD drivers are racing...
+Driver PJ finished in 18 place with Yamaha-2 Motercycle
+Driver Fredrick finished in 19 place with Kowasaki-2 Motercycle
+Driver PJ finished in 17 place with KTM Motercycle
+The FNCD is opening...
+Bought Ford-electric-2, a Dirty Used Electric for $20,641.60
+Bought Harley-2, a Dirty Broken Motercycle for $14,335.50
+The FNCD interns are washing...
+Intern Fred washed Ford-electric Dirty to Dirty
+Intern Fred got a bonus of $75.00for Detailed wash!
+Intern Fred washed Ford-electric-2 Dirty to Clean
+Intern Ethel got a bonus of $75.00for Detailed wash!
+Intern Ethel washed Ford-electric Dirty to Clean
+Intern Ethel got a bonus of $75.00 for elbow grease wash!
+Intern Ethel washed Harley-2 Dirty to Sparkling
+Intern Lucy got a bonus of $75.00for Detailed Wash!
+Intern Lucy washed Ford-electric Clean to Sparkling
+Intern Lucy washed Nissan-leaf Clean to Dirty
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Yamaha-2 Broken to Used
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Kowasaki-2 Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Yamaha-2 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Kowasaki-2 Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Ford-electric-2 Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Harley-2 Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Leia-11 wants a Pickup (NeedsOne)
+Buyer Leia-11 is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Leia-11 bought Clean LikeNew F-250-3 for $61,350.00
+Buyer Han-11 wants a Electric (WantsOne)
+Buyer Han-11 decided not to buy.
+Buyer Chewy-11 wants a PerfCar (WantsOne)
+Buyer Chewy-11 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 23
+Vehicles sold count 27
+Money in the budget $1,223,674.44
+That's it for the day.
+>>> End Simulation Day 18 Wed
+

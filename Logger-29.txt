@@ -1,0 +1,9 @@
+>>> Start Simulation Day 29 Sun
+The FNCD drivers are racing...
+Driver PJ finished in 4 place with Yamaha-3 Motercycle
+Driver Momo finished in 9 place with KTM-2 Motercycle
+Driver Momo finished in 18 place with Yamaha-2 Motercycle
+Driver Momo got injured in todays race.
+Sorry, FNCD is closed on Sun
+>>> End Simulation Day 29 Sun
+

@@ -1,0 +1,32 @@
+>>> Start Simulation Day 24 Tue
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred got a bonus of $75.00 for elbow grease wash!
+Intern Fred washed Tundra-3 Dirty to Clean
+Intern Fred got a bonus of $75.00for Detailed wash!
+Intern Fred washed KTM-2 Dirty to Sparkling
+Intern Ethel got a bonus of $75.00 for elbow grease wash!
+Intern Ethel washed Zombie-3 Dirty to Clean
+Intern Ethel washed Zombie-2 Clean to Clean
+Intern Lucy washed Zombie-2 Clean to Clean
+Intern Lucy washed Bigfoot-3 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Zombie-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Han-14 wants a Electric (NeedsOne)
+Buyer Han-14 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Han-14 bought Sparkling LikeNew Tesla-x for $58,572.00
+Buyer Chewy-14 wants a Car (WantsOne)
+Buyer Chewy-14 decided not to buy.
+Buyer Luke-15 wants a Monstertruck (NeedsOne)
+Buyer Luke-15 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-15 bought Dirty LikeNew Zombie-3 for $92,741.25
+No-one on the staff is leaving!
+Vehicles in inventory 22
+Vehicles sold count 32
+Money in the budget $1,499,598.29
+That's it for the day.
+>>> End Simulation Day 24 Tue
+

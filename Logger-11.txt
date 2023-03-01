@@ -1,0 +1,45 @@
+>>> Start Simulation Day 11 Wed
+The FNCD drivers are racing...
+Driver Fredrick finished in 19 place with Yamaha Motercycle
+Driver Momo finished in 8 place with Kowasaki Motercycle
+Driver PJ finished in 1 place with Harley Motercycle
+Driver PJ got a bonus of $200.00!
+The FNCD is opening...
+Bought Probe-3, a Dirty Broken Car for $5,201.00
+Bought Escort-3, a Dirty Broken Car for $9,718.00
+Bought Yamaha-2, a Dirty LikeNew Motercycle for $10,041.00
+The FNCD interns are washing...
+Intern Fred got a bonus of $20.00for Chemical Wash!
+Intern Fred washed Fiesta-2 Dirty to Clean
+Intern Fred got a bonus of $100.00 for elbow grease wash!
+Intern Fred washed Cayman-3 Dirty to Clean
+Intern Ethel washed Probe-3 Dirty to Dirty
+Intern Ethel got a bonus of $20.00 for elbow grease wash!
+Intern Ethel washed Escort-3 Dirty to Clean
+Intern Lucy washed Probe-3 Dirty to Dirty
+Intern Lucy washed Yamaha-2 Dirty to Dirty
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Yamaha Broken to Used
+Mechanic James did not fix the Broken Probe-3
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Yamaha Used to LikeNew
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Probe-3 Broken to Used
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Probe-3 Used to LikeNew
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Escort-3 Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Han-7 wants a Car (NeedsOne)
+Buyer Han-7 decided not to buy.
+Buyer Chewy-7 wants a Car (NeedsOne)
+Buyer Chewy-7 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 18
+Money in the budget $876,603.12
+That's it for the day.
+>>> End Simulation Day 11 Wed
+

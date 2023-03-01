@@ -1,0 +1,5 @@
+>>> Start Simulation Day 1 Sun
+The FNCD drivers are racing...
+Sorry, FNCD is closed on Sun
+>>> End Simulation Day 1 Sun
+

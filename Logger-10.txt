@@ -1,0 +1,41 @@
+>>> Start Simulation Day 10 Tue
+The FNCD is opening...
+Bought Fiesta-2, a Dirty Broken Car for $5,111.50
+Bought Cayman-3, a Dirty Used PerfCar for $28,447.20
+The FNCD interns are washing...
+Intern Fred got a bonus of $100.00for Detailed wash!
+Intern Fred washed Europa-3 Dirty to Sparkling
+Intern Fred washed Gravedigger-2 Dirty to Dirty
+Intern Ethel got a bonus of $75.00 for elbow grease wash!
+Intern Ethel washed Gravedigger-2 Dirty to Clean
+Intern Ethel got a bonus of $20.00for Chemical Wash!
+Intern Ethel washed Fiesta-2 Dirty to Clean
+Intern Lucy got a bonus of $100.00 for elbow grease wash!
+Intern Lucy washed Cayman-3 Dirty to Sparkling
+Intern Lucy got a bonus of $20.00for Detailed Wash!
+Intern Lucy washed Escort Clean to Sparkling
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Fiesta-2 Broken to Used
+Mechanic James did not fix the Used Cayman-3
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Fiesta-2 Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Cayman-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Chewy-6 wants a Electric (WantsOne)
+Buyer Chewy-6 decided not to buy.
+Buyer Luke-7 wants a Car (JustLooking)
+Buyer Luke-7 is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Luke-7 bought Sparkling LikeNew Escort for $30,902.00
+Buyer Leia-7 wants a Car (NeedsOne)
+Buyer Leia-7 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Leia-7 bought Clean LikeNew Taurus for $28,571.25
+No-one on the staff is leaving!
+Vehicles in inventory 22
+Vehicles sold count 18
+Money in the budget $902,823.12
+That's it for the day.
+>>> End Simulation Day 10 Tue
+

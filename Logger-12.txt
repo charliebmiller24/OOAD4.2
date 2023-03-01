@@ -1,0 +1,36 @@
+>>> Start Simulation Day 12 Thur
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred got a bonus of $75.00for Detailed wash!
+Intern Fred washed Yamaha Dirty to Sparkling
+Intern Fred washed Probe-3 Dirty to Dirty
+Intern Ethel washed Probe-3 Dirty to Dirty
+Intern Ethel washed Escort-3 Dirty to Dirty
+Intern Lucy got a bonus of $20.00for Detailed wash!
+Intern Lucy washed Probe-3 Dirty to Clean
+Intern Lucy got a bonus of $20.00for Chemical Wash!
+Intern Lucy washed Escort-3 Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Escort-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Luke-8 wants a Car (WantsOne)
+Buyer Luke-8 is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Luke-8 bought Dirty LikeNew Escort-3 for $36,442.50
+Buyer Leia-8 wants a PerfCar (JustLooking)
+Buyer Leia-8 decided not to buy.
+Buyer Han-8 wants a Electric (WantsOne)
+Buyer Han-8 decided not to buy.
+Buyer Chewy-8 wants a PerfCar (WantsOne)
+Buyer Chewy-8 decided not to buy.
+Buyer Luke-9 wants a Motercycle (JustLooking)
+Buyer Luke-9 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Luke-9 bought Sparkling LikeNew Yamaha for $102,585.94
+No-one on the staff is leaving!
+Vehicles in inventory 22
+Vehicles sold count 20
+Money in the budget $1,014,371.56
+That's it for the day.
+>>> End Simulation Day 12 Thur
+

@@ -1,0 +1,42 @@
+>>> Start Simulation Day 4 Wed
+The FNCD drivers are racing...
+Driver Momo finished in 16 place with Europa-2 PerfCar
+Driver Fredrick finished in 9 place with Mustang PerfCar
+Driver Momo finished in 12 place with Europa PerfCar
+The FNCD is opening...
+Bought Probe-2, a Clean Broken Car for $8,801.50
+Bought Cayman-2, a Sparkling Broken PerfCar for $13,764.00
+Bought F-250-2, a Sparkling LikeNew Pickup for $24,307.00
+Bought Bigfoot-2, a Dirty LikeNew Monstertruck for $32,639.00
+The FNCD interns are washing...
+Intern Fred got a bonus of $20.00for Detailed wash!
+Intern Fred washed Taurus Dirty to Clean
+Intern Fred got a bonus of $75.00for Chemical Wash!
+Intern Fred washed F-250 Dirty to Clean
+Intern Ethel got a bonus of $75.00 for elbow grease wash!
+Intern Ethel washed Tundra Dirty to Clean
+Intern Ethel washed Ford-electric Dirty to Dirty
+Intern Lucy got a bonus of $75.00 for elbow grease wash!
+Intern Lucy washed Ford-electric Dirty to Clean
+Intern Lucy washed Kowasaki Dirty to Dirty
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Used F-250
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Tundra Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed F-250 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Tundra Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed tesla-y Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Ford-electric Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 5
+Money in the budget $443,860.90
+That's it for the day.
+>>> End Simulation Day 4 Wed
+

@@ -1,4 +1,7 @@
 // Simulator to cycle for select number of days
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintStream;
 public class Simulator implements SysOut {
     final int numDays;
     Enums.DayOfWeek dayOfWeek;
@@ -21,6 +24,22 @@ public class Simulator implements SysOut {
     void run() {
         FNCD fncd = new FNCD();
         for (int day = 1; day <= numDays; ++day) {
+            try{
+                String fileName = "Logger-"+ day + ".txt";
+                FileWriter file = new FileWriter(fileName);
+                PrintStream fileStream = new PrintStream(fileName);
+                System.setOut(fileStream);
+            }
+            catch(IOException e){
+                System.out.println("We have a problem");
+                
+            }
+
+
+
+
+
+
             out(">>> Start Simulation Day "+day+" "+dayOfWeek);
             //System.out.println("-------------" + dayOfWeek + "-------------------");
             if(dayOfWeek == Enums.DayOfWeek.Sun || dayOfWeek == Enums.DayOfWeek.Wed){

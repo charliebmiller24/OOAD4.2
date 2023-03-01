@@ -1,0 +1,35 @@
+>>> Start Simulation Day 5 Thur
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred got a bonus of $75.00 for elbow grease wash!
+Intern Fred washed F-250 Dirty to Clean
+Intern Fred washed Tundra Dirty to Dirty
+Intern Ethel got a bonus of $75.00 for elbow grease wash!
+Intern Ethel washed Tundra Dirty to Clean
+Intern Ethel got a bonus of $75.00for Chemical Wash!
+Intern Ethel washed tesla-y Dirty to Clean
+Intern Lucy got a bonus of $75.00 for elbow grease wash!
+Intern Lucy washed Ford-electric Dirty to Clean
+Intern Lucy got a bonus of $75.00 for elbow grease wash!
+Intern Lucy washed Kowasaki Dirty to Sparkling
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed tesla-y Used to LikeNew
+Mechanic James did not fix the Used Nissan-leaf
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Nissan-leaf Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Yamaha Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Yamaha Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Kowasaki Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 5
+Money in the budget $442,600.90
+That's it for the day.
+>>> End Simulation Day 5 Thur
+
