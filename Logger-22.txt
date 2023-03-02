@@ -1,28 +1,9 @@
->>> Start Simulation Day 22 Mon
-The FNCD is opening...
-Hired a new Driver named Fredrick-3
-Bought Bigfoot-3, a Sparkling LikeNew Monstertruck for $43,521.00
-The FNCD interns are washing...
-Intern Fred washed Europa-2 Clean to Clean
-Intern Fred washed Escort-2 Clean to Clean
-Intern Ethel washed Europa-2 Clean to Clean
-Intern Ethel washed Escort-2 Clean to Clean
-Intern Lucy washed Europa-2 Clean to Clean
-Intern Lucy washed Escort-2 Clean to Clean
-The FNCD mechanics are repairing...
-The FNCD salespeople are selling...
-The FNCD has 3 buyers today...
-Buyer Leia-12 wants a Monstertruck (JustLooking)
-Buyer Leia-12 decided not to buy.
-Buyer Han-12 wants a PerfCar (JustLooking)
-Buyer Han-12 decided not to buy.
-Buyer Chewy-12 wants a PerfCar (NeedsOne)
-Buyer Chewy-12 is buying! Salesperson Monica gets a bonus of $1,000.00!
-Buyer Chewy-12 bought Clean LikeNew Cayman-3 for $62,092.00
-No-one on the staff is leaving!
-Vehicles in inventory 23
-Vehicles sold count 20
-Money in the budget $711,293.20
-That's it for the day.
->>> End Simulation Day 22 Mon
+>>> Start Simulation Day 22 Sun
+The FNCD drivers are racing...
+Driver Fredrick-2 finished in 12 place with Bigfoot-2 Monstertruck
+Driver Fredrick finished in 2 place with Gravedigger-3 Monstertruck
+Driver Fredrick got a bonus of $250.00!
+No more Monstertruck vehicles
+Sorry, FNCD is closed on Sun
+>>> End Simulation Day 22 Sun
 

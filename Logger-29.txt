@@ -1,46 +1,7 @@
->>> Start Simulation Day 29 Mon
-The FNCD is opening...
-Hired a new Driver named Momo-3
-Hired a new Driver named Carl-3
-Bought Cayman-4, a Dirty Broken PerfCar for $18,842.50
-Bought Corvette-4, a Dirty LikeNew PerfCar for $33,414.00
-Bought Colorado-3, a Dirty LikeNew Pickup for $38,725.00
-Bought Yamaha-4, a Clean Broken Motercycle for $8,420.00
-Bought Kowasaki-4, a Dirty LikeNew Motercycle for $27,514.00
-Bought Gravedigger-3, a Dirty Broken Monstertruck for $19,932.50
-The FNCD interns are washing...
-Intern Fred got a bonus of $100.00for Chemical Wash!
-Intern Fred washed Europa-4 Dirty to Clean
-Intern Fred got a bonus of $75.00for Chemical Wash!
-Intern Fred washed F-250-3 Dirty to Clean
-Intern Ethel got a bonus of $75.00for Chemical Wash!
-Intern Ethel washed Zombie-3 Dirty to Sparkling
-Intern Ethel got a bonus of $100.00 for elbow grease wash!
-Intern Ethel washed Cayman-4 Dirty to Clean
-Intern Lucy washed Corvette-4 Dirty to Dirty
-Intern Lucy got a bonus of $75.00 for elbow grease wash!
-Intern Lucy washed Colorado-3 Dirty to Clean
-The FNCD mechanics are repairing...
-Mechanic James got a bonus of $300.00!
-Mechanic James fixed Europa-4 Used to LikeNew
-Mechanic James did not fix the Broken KTM-3
-Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed KTM-3 Broken to Used
-Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed KTM Broken to Used
-Mechanic James-2 did not fix the Used KTM-3
-Mechanic James-2 got a bonus of $200.00!
-Mechanic James-2 fixed KTM Used to LikeNew
-The FNCD salespeople are selling...
-The FNCD has 2 buyers today...
-Buyer Luke-18 wants a Electric (JustLooking)
-Buyer Luke-18 decided not to buy.
-Buyer Leia-18 wants a Car (JustLooking)
-Buyer Leia-18 decided not to buy.
-No-one on the staff is leaving!
-Vehicles in inventory 24
-Vehicles sold count 33
-Money in the budget $1,183,254.52
-That's it for the day.
->>> End Simulation Day 29 Mon
+>>> Start Simulation Day 29 Sun
+The FNCD drivers are racing...
+Driver Fredrick-3 finished in 13 place with Mustang-4 PerfCar
+No more PerfCar vehicles
+Sorry, FNCD is closed on Sun
+>>> End Simulation Day 29 Sun
 

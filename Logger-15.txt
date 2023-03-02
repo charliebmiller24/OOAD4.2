@@ -1,29 +1,8 @@
->>> Start Simulation Day 15 Mon
-The FNCD is opening...
-Hired a new Driver named Momo-2
-Bought Europa-3, a Dirty LikeNew PerfCar for $35,786.00
-Bought Zombie-2, a Dirty Used Monstertruck for $24,437.60
-The FNCD interns are washing...
-Intern Fred got a bonus of $75.00for Chemical Wash!
-Intern Fred washed tesla-y Dirty to Clean
-Intern Fred got a bonus of $100.00 for elbow grease wash!
-Intern Fred washed Europa-3 Dirty to Clean
-Intern Ethel washed Zombie-2 Dirty to Dirty
-Intern Ethel got a bonus of $75.00for Elbow grease Wash!
-Intern Ethel washed Tesla-x Clean to Sparkling
-Intern Lucy got a bonus of $75.00for Chemical Wash!
-Intern Lucy washed Zombie-2 Dirty to Clean
-Intern Lucy washed tesla-y Clean to Dirty
-The FNCD mechanics are repairing...
-Mechanic James did not fix the Used Zombie-2
-Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Zombie-2 Used to LikeNew
-The FNCD salespeople are selling...
-The FNCD has 0 buyers today...
-No-one on the staff is leaving!
-Vehicles in inventory 24
-Vehicles sold count 16
-Money in the budget $610,541.20
-That's it for the day.
->>> End Simulation Day 15 Mon
+>>> Start Simulation Day 15 Sun
+The FNCD drivers are racing...
+Driver Fredrick finished in 17 place with Europa-3 PerfCar
+Driver PJ finished in 9 place with Cayman PerfCar
+No more PerfCar vehicles
+Sorry, FNCD is closed on Sun
+>>> End Simulation Day 15 Sun
 

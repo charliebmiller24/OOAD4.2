@@ -1,9 +1,37 @@
->>> Start Simulation Day 28 Sun
-The FNCD drivers are racing...
-Driver Fredrick-3 finished in 15 place with KTM Motercycle
-Driver Fredrick-3 got injured in todays race.
-Driver PJ-2 finished in 12 place with Kowasaki Motercycle
-No more Motercycle vehicles
-Sorry, FNCD is closed on Sun
->>> End Simulation Day 28 Sun
+>>> Start Simulation Day 28 Sat
+The FNCD is opening...
+Bought Taurus-3, a Clean Broken Car for $7,147.00
+Bought Mustang-4, a Clean Used PerfCar for $18,276.80
+The FNCD interns are washing...
+Intern Fred got a bonus of $75.00for Chemical Wash!
+Intern Fred washed Tundra-5 Dirty to Clean
+Intern Fred washed Escort Clean to Clean
+Intern Ethel washed Escort Clean to Clean
+Intern Ethel washed Tundra-2 Clean to Clean
+Intern Lucy washed Escort Clean to Clean
+Intern Lucy washed Tundra-2 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Taurus-3 Broken to Used
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Mustang-4 Used to LikeNew
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Taurus-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Chewy-25 wants a PerfCar (NeedsOne)
+Buyer Chewy-25 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Chewy-25 bought Clean LikeNew Cayman-4 for $59,698.00
+Buyer Chewy-25 added a road rescue coverage, increasing the price to 60891.0
+Buyer Luke-26 wants a PerfCar (NeedsOne)
+Buyer Luke-26 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Luke-26 bought Clean LikeNew Mustang-3 for $47,362.50
+Buyer Leia-26 wants a Electric (WantsOne)
+Buyer Leia-26 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 22
+Vehicles sold count 58
+Money in the budget $2,228,600.60
+That's it for the day.
+>>> End Simulation Day 28 Sat
 

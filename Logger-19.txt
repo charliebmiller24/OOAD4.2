@@ -1,30 +1,29 @@
->>> Start Simulation Day 19 Fri
+>>> Start Simulation Day 19 Thur
 The FNCD is opening...
-Bought Gravedigger-2, a Clean LikeNew Monstertruck for $42,352.00
-Bought Avenger-2, a Dirty LikeNew Monstertruck for $43,689.00
+Bought Ranger-5, a Dirty LikeNew Pickup for $16,841.00
+Bought tesla-y-3, a Clean LikeNew Electric for $39,577.00
 The FNCD interns are washing...
+Intern Fred got a bonus of $75.00 for elbow grease wash!
+Intern Fred washed Yamaha Dirty to Clean
 Intern Fred got a bonus of $75.00for Detailed wash!
-Intern Fred washed Avenger-2 Dirty to Clean
-Intern Fred got a bonus of $75.00for Detailed Wash!
-Intern Fred washed KTM Clean to Sparkling
-Intern Ethel washed Bigfoot Clean to Clean
-Intern Ethel washed Europa-2 Clean to Clean
-Intern Lucy washed Bigfoot Clean to Dirty
-Intern Lucy washed Europa-2 Clean to Clean
+Intern Fred washed Harley-2 Dirty to Clean
+Intern Ethel got a bonus of $75.00for Chemical Wash!
+Intern Ethel washed Ranger-5 Dirty to Clean
+Intern Ethel washed Escort Clean to Clean
+Intern Lucy washed Escort Clean to Clean
+Intern Lucy washed Corvette Clean to Clean
 The FNCD mechanics are repairing...
 The FNCD salespeople are selling...
-The FNCD has 3 buyers today...
-Buyer Han-10 wants a PerfCar (NeedsOne)
-Buyer Han-10 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
-Buyer Han-10 bought Clean LikeNew Europa-3 for $71,572.00
-Buyer Chewy-10 wants a PerfCar (WantsOne)
-Buyer Chewy-10 decided not to buy.
-Buyer Luke-11 wants a PerfCar (JustLooking)
-Buyer Luke-11 decided not to buy.
+The FNCD has 2 buyers today...
+Buyer Chewy-15 wants a Pickup (JustLooking)
+Buyer Chewy-15 decided not to buy.
+Buyer Luke-16 wants a Motercycle (NeedsOne)
+Buyer Luke-16 is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Luke-16 bought Clean LikeNew Harley-2 for $60,795.00
 No-one on the staff is leaving!
 Vehicles in inventory 23
-Vehicles sold count 19
-Money in the budget $726,288.20
+Vehicles sold count 40
+Money in the budget $1,639,216.25
 That's it for the day.
->>> End Simulation Day 19 Fri
+>>> End Simulation Day 19 Thur
 

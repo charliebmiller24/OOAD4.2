@@ -1,55 +1,47 @@
->>> Start Simulation Day 27 Sat
+>>> Start Simulation Day 27 Fri
 The FNCD is opening...
-Bought Fiesta-2, a Dirty LikeNew Car for $16,224.00
-Bought Europa-4, a Sparkling Broken PerfCar for $13,885.00
-Bought F-250-3, a Dirty Broken Pickup for $6,534.00
-Bought Harley-3, a Clean Used Motercycle for $25,117.60
-Bought KTM-3, a Dirty Broken Motercycle for $14,625.00
-Bought Zombie-3, a Dirty LikeNew Monstertruck for $37,145.00
+Bought Escort-3, a Dirty Broken Car for $8,712.00
+Bought Tundra-5, a Clean Used Pickup for $23,923.20
 The FNCD interns are washing...
-Intern Fred washed Fiesta-2 Dirty to Dirty
-Intern Fred got a bonus of $75.00 for elbow grease wash!
-Intern Fred washed F-250-3 Dirty to Clean
-Intern Ethel got a bonus of $20.00for Chemical Wash!
-Intern Ethel washed Fiesta-2 Dirty to Clean
-Intern Ethel got a bonus of $75.00for Detailed wash!
-Intern Ethel washed KTM-3 Dirty to Clean
-Intern Lucy washed Zombie-3 Dirty to Dirty
-Intern Lucy washed tesla-y-2 Clean to Clean
+Intern Fred got a bonus of $75.00for Detailed wash!
+Intern Fred washed Tesla-x-4 Dirty to Clean
+Intern Fred got a bonus of $20.00for Chemical Wash!
+Intern Fred washed Escort-3 Dirty to Clean
+Intern Ethel washed Escort Clean to Clean
+Intern Ethel got a bonus of $75.00for Elbow grease Wash!
+Intern Ethel washed Ford-electric Clean to Sparkling
+Intern Lucy washed Escort Clean to Clean
+Intern Lucy washed Tundra-2 Clean to Clean
 The FNCD mechanics are repairing...
-Mechanic James did not fix the Broken Europa-4
+Mechanic James did not fix the Broken Escort-3
 Mechanic James got a bonus of $200.00!
-Mechanic James fixed F-250-3 Broken to Used
-Mechanic Scotty did not fix the Broken Europa-4
-Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed F-250-3 Used to LikeNew
-Mechanic James-2 got a bonus of $300.00!
-Mechanic James-2 fixed Europa-4 Broken to Used
-Mechanic James-2 got a bonus of $200.00!
-Mechanic James-2 fixed Harley-3 Used to LikeNew
+Mechanic James fixed Tundra-5 Used to LikeNew
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Escort-3 Broken to Used
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Escort-3 Used to LikeNew
 The FNCD salespeople are selling...
-The FNCD has 6 buyers today...
-Buyer Han-16 wants a PerfCar (NeedsOne)
-Buyer Han-16 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
-Buyer Han-16 bought Sparkling LikeNew Europa-2 for $56,823.75
-Buyer Chewy-16 wants a Motercycle (WantsOne)
-Buyer Chewy-16 is buying! Salesperson Rachel gets a bonus of $750.00!
-Buyer Chewy-16 bought Dirty LikeNew Harley-3 for $62,794.00
-Buyer Luke-17 wants a Monstertruck (NeedsOne)
-Buyer Luke-17 is buying! Salesperson Phoebe gets a bonus of $750.00!
-Buyer Luke-17 bought Sparkling LikeNew Bigfoot-3 for $87,042.00
-Buyer Leia-17 wants a PerfCar (NeedsOne)
-Buyer Leia-17 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
-Buyer Leia-17 bought Sparkling LikeNew Corvette-2 for $52,042.50
-Buyer Han-17 wants a Pickup (NeedsOne)
-Buyer Han-17 is buying! Salesperson Monica gets a bonus of $750.00!
-Buyer Han-17 bought Clean LikeNew Ranger-3 for $73,147.50
-Buyer Chewy-17 wants a Monstertruck (JustLooking)
-Buyer Chewy-17 decided not to buy.
+The FNCD has 7 buyers today...
+Buyer Luke-24 wants a PerfCar (NeedsOne)
+Buyer Luke-24 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Luke-24 bought Clean LikeNew Corvette-4 for $62,236.00
+Buyer Leia-24 wants a PerfCar (WantsOne)
+Buyer Leia-24 decided not to buy.
+Buyer Han-24 wants a PerfCar (JustLooking)
+Buyer Han-24 decided not to buy.
+Buyer Chewy-24 wants a Car (NeedsOne)
+Buyer Chewy-24 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Chewy-24 bought Dirty LikeNew Escort-3 for $32,670.00
+Buyer Luke-25 wants a Car (JustLooking)
+Buyer Luke-25 decided not to buy.
+Buyer Leia-25 wants a Pickup (WantsOne)
+Buyer Leia-25 decided not to buy.
+Buyer Han-25 wants a Motercycle (WantsOne)
+Buyer Han-25 decided not to buy.
 No-one on the staff is leaving!
-Vehicles in inventory 19
-Vehicles sold count 33
-Money in the budget $1,331,362.52
+Vehicles in inventory 22
+Vehicles sold count 56
+Money in the budget $2,148,223.90
 That's it for the day.
->>> End Simulation Day 27 Sat
+>>> End Simulation Day 27 Fri
 

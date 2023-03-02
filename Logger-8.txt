@@ -1,39 +1,9 @@
->>> Start Simulation Day 8 Mon
-The FNCD is opening...
-Hired a new Driver named Fredrick-2
-Bought Cayman-2, a Dirty Broken PerfCar for $12,811.00
-Bought Ranger-2, a Dirty LikeNew Pickup for $22,603.00
-Bought F-250-2, a Dirty LikeNew Pickup for $30,589.00
-The FNCD interns are washing...
-Intern Fred got a bonus of $20.00for Chemical Wash!
-Intern Fred washed Escort-2 Dirty to Clean
-Intern Fred got a bonus of $75.00for Chemical Wash!
-Intern Fred washed Yamaha-2 Dirty to Clean
-Intern Ethel washed Tesla-x-2 Dirty to Dirty
-Intern Ethel got a bonus of $100.00for Detailed wash!
-Intern Ethel washed Cayman-2 Dirty to Clean
-Intern Lucy got a bonus of $75.00for Detailed wash!
-Intern Lucy washed Tesla-x-2 Dirty to Clean
-Intern Lucy got a bonus of $75.00for Chemical Wash!
-Intern Lucy washed Ranger-2 Dirty to Sparkling
-The FNCD mechanics are repairing...
-Mechanic James got a bonus of $300.00!
-Mechanic James fixed Mustang Broken to Used
-Mechanic James got a bonus of $300.00!
-Mechanic James fixed Cayman-2 Broken to Used
-Mechanic Scotty did not fix the Used Mustang
-Mechanic Scotty got a bonus of $300.00!
-Mechanic Scotty fixed Cayman-2 Used to LikeNew
-Mechanic Spock got a bonus of $300.00!
-Mechanic Spock fixed Mustang Used to LikeNew
-The FNCD salespeople are selling...
-The FNCD has 1 buyers today...
-Buyer Han-4 wants a Monstertruck (NeedsOne)
-Buyer Han-4 decided not to buy.
-No-one on the staff is leaving!
-Vehicles in inventory 24
-Vehicles sold count 6
-Money in the budget $282,235.60
-That's it for the day.
->>> End Simulation Day 8 Mon
+>>> Start Simulation Day 8 Sun
+The FNCD drivers are racing...
+Driver Fredrick finished in 3 place with Ranger Pickup
+Driver Fredrick got a bonus of $200.00!
+Driver Momo finished in 17 place with Tundra Pickup
+No more Pickup vehicles
+Sorry, FNCD is closed on Sun
+>>> End Simulation Day 8 Sun
 

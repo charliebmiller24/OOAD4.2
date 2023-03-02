@@ -1,29 +1,49 @@
->>> Start Simulation Day 23 Tue
+>>> Start Simulation Day 23 Mon
 The FNCD is opening...
-Bought Corvette-3, a Dirty Used PerfCar for $24,124.00
+Hired a new Driver named Carl-2
+Bought Cayman-4, a Dirty LikeNew PerfCar for $29,849.00
+Bought Corvette-4, a Dirty Used PerfCar for $24,894.40
+Bought Yamaha-3, a Clean Used Motercycle for $30,389.60
+Bought Bigfoot-4, a Dirty Broken Monstertruck for $15,482.50
+Bought Zombie-4, a Dirty Used Monstertruck for $31,626.40
+Bought Gravedigger-4, a Dirty Used Monstertruck for $32,192.80
 The FNCD interns are washing...
-Intern Fred got a bonus of $100.00for Chemical Wash!
-Intern Fred washed Corvette-3 Dirty to Clean
-Intern Fred got a bonus of $100.00for Elbow grease Wash!
-Intern Fred washed Europa-2 Clean to Sparkling
-Intern Ethel washed Escort-2 Clean to Clean
-Intern Ethel washed Cayman-2 Clean to Clean
-Intern Lucy washed Escort-2 Clean to Clean
-Intern Lucy washed Cayman-2 Clean to Clean
+Intern Fred got a bonus of $75.00for Detailed wash!
+Intern Fred washed F-250-5 Dirty to Sparkling
+Intern Fred washed Ford-electric-3 Dirty to Dirty
+Intern Ethel washed Ford-electric-3 Dirty to Dirty
+Intern Ethel got a bonus of $100.00for Chemical Wash!
+Intern Ethel washed Cayman-4 Dirty to Clean
+Intern Lucy got a bonus of $75.00for Chemical Wash!
+Intern Lucy washed Ford-electric-3 Dirty to Sparkling
+Intern Lucy got a bonus of $100.00 for elbow grease wash!
+Intern Lucy washed Corvette-4 Dirty to Clean
 The FNCD mechanics are repairing...
-Mechanic James got a bonus of $300.00!
-Mechanic James fixed Corvette-3 Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Ford-electric-3 Used to LikeNew
+Mechanic James did not fix the Used Corvette-4
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Corvette-4 Used to LikeNew
+Mechanic Scotty did not fix the Used Yamaha-3
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Yamaha-3 Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Bigfoot-4 Broken to Used
 The FNCD salespeople are selling...
-The FNCD has 2 buyers today...
-Buyer Luke-13 wants a Motercycle (JustLooking)
-Buyer Luke-13 is buying! Salesperson Monica gets a bonus of $750.00!
-Buyer Luke-13 bought Clean LikeNew Harley-2 for $37,902.00
-Buyer Leia-13 wants a Pickup (JustLooking)
-Buyer Leia-13 decided not to buy.
+The FNCD has 4 buyers today...
+Buyer Luke-20 wants a Monstertruck (WantsOne)
+Buyer Luke-20 decided not to buy.
+Buyer Leia-20 wants a Pickup (NeedsOne)
+Buyer Leia-20 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Leia-20 bought Clean LikeNew Colorado-3 for $27,838.00
+Buyer Han-20 wants a Motercycle (WantsOne)
+Buyer Han-20 decided not to buy.
+Buyer Chewy-20 wants a PerfCar (WantsOne)
+Buyer Chewy-20 decided not to buy.
 No-one on the staff is leaving!
 Vehicles in inventory 23
-Vehicles sold count 21
-Money in the budget $723,811.20
+Vehicles sold count 49
+Money in the budget $1,940,565.87
 That's it for the day.
->>> End Simulation Day 23 Tue
+>>> End Simulation Day 23 Mon
 

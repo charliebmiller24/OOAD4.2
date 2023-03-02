@@ -3,6 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Arrays;
 import java.lang.Math;
+import java.util.Random;
 
 public abstract class Staff implements SysOut {
     String name;
@@ -238,8 +239,34 @@ class Salesperson extends Staff {
             double chance = Utility.rnd();
             if (chance<=saleChance) {  // sold!
                 bonusEarned += v.sale_bonus;
+
                 out("Buyer "+b.name+" is buying! Salesperson "+name+" gets a bonus of "+Utility.asDollar(v.sale_bonus)+"!");
                 out("Buyer "+b.name+" bought "+v.cleanliness+" "+v.condition+" "+v.name+" for "+Utility.asDollar(v.price));
+
+                Random rand = new Random();
+
+                int extended = rand.nextInt(100);
+                int undercoating = rand.nextInt(100);
+                int road = rand.nextInt(100);
+                int radio = rand.nextInt(100);
+
+                if(extended <= .25){
+                    Vehicle vExtend = new ExtendedWarrenty(v);
+                    System.out.println("Buyer "+b.name+" added an extended warrenty, increasing the price to "+vExtend.price);
+                }
+                if(undercoating <= .1){
+                    Vehicle vUnder = new UnderCoating(v);
+                    System.out.println("Buyer "+b.name+" added an undercoating, increasing the price to "+vUnder.price);
+                }
+                if(road <= .05){
+                    Vehicle vRRC = new RRC(v);
+                    System.out.println("Buyer "+b.name+" added a road rescue coverage, increasing the price to "+vRRC.price);
+                }
+                if(radio <= .4){
+                    Vehicle vRadio = new SatelliteRadio(v);
+                    System.out.println("Buyer "+b.name+" added a satellite radio, increasing the price to "+vRadio.price);
+                }
+
                 return v;
             }
             else {  // no sale!

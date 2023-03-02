@@ -1,32 +1,37 @@
->>> Start Simulation Day 20 Sat
+>>> Start Simulation Day 20 Fri
 The FNCD is opening...
-Bought Cayman-3, a Dirty LikeNew PerfCar for $31,046.00
+Bought KTM-2, a Clean LikeNew Motercycle for $24,611.00
 The FNCD interns are washing...
-Intern Fred got a bonus of $75.00 for elbow grease wash!
-Intern Fred washed Bigfoot Dirty to Clean
-Intern Fred got a bonus of $100.00for Chemical Wash!
-Intern Fred washed Cayman-3 Dirty to Clean
-Intern Ethel washed Bigfoot Clean to Dirty
-Intern Ethel washed Europa-2 Clean to Dirty
-Intern Lucy got a bonus of $75.00for Detailed wash!
-Intern Lucy washed Bigfoot Dirty to Sparkling
-Intern Lucy got a bonus of $100.00for Chemical Wash!
-Intern Lucy washed Europa-2 Dirty to Clean
+Intern Fred washed Escort Clean to Clean
+Intern Fred washed Corvette Clean to Clean
+Intern Ethel washed Escort Clean to Clean
+Intern Ethel washed Corvette Clean to Clean
+Intern Lucy washed Escort Clean to Clean
+Intern Lucy washed Corvette Clean to Clean
 The FNCD mechanics are repairing...
 The FNCD salespeople are selling...
-The FNCD has 4 buyers today...
-Buyer Leia-11 wants a Electric (JustLooking)
-Buyer Leia-11 decided not to buy.
-Buyer Han-11 wants a Pickup (NeedsOne)
-Buyer Han-11 decided not to buy.
-Buyer Chewy-11 wants a Electric (JustLooking)
-Buyer Chewy-11 decided not to buy.
-Buyer Luke-12 wants a Pickup (JustLooking)
-Buyer Luke-12 decided not to buy.
+The FNCD has 7 buyers today...
+Buyer Leia-16 wants a Electric (WantsOne)
+Buyer Leia-16 decided not to buy.
+Buyer Han-16 wants a Car (JustLooking)
+Buyer Han-16 is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Han-16 bought Clean LikeNew Fiesta-2 for $36,600.00
+Buyer Chewy-16 wants a PerfCar (WantsOne)
+Buyer Chewy-16 decided not to buy.
+Buyer Luke-17 wants a Car (JustLooking)
+Buyer Luke-17 decided not to buy.
+Buyer Leia-17 wants a Pickup (NeedsOne)
+Buyer Leia-17 is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Leia-17 bought Clean LikeNew Ranger-5 for $33,682.00
+Buyer Han-17 wants a Electric (NeedsOne)
+Buyer Han-17 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Han-17 bought Clean LikeNew tesla-y-3 for $79,154.00
+Buyer Chewy-17 wants a Electric (NeedsOne)
+Buyer Chewy-17 decided not to buy.
 No-one on the staff is leaving!
-Vehicles in inventory 24
-Vehicles sold count 19
-Money in the budget $693,982.20
+Vehicles in inventory 21
+Vehicles sold count 43
+Money in the budget $1,762,781.25
 That's it for the day.
->>> End Simulation Day 20 Sat
+>>> End Simulation Day 20 Fri
 
