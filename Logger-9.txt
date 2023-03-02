@@ -1,51 +1,53 @@
->>> Start Simulation Day 9 Mon
+>>> Start Simulation Day 9 Sat
 The FNCD is opening...
-Hired a new Driver named Carl
-Bought Mustang-2, a Dirty Broken PerfCar for $18,262.00
-Bought Colorado-2, a Dirty Used Pickup for $29,984.80
-Bought Tundra-2, a Clean LikeNew Pickup for $12,926.00
-Bought Ranger-3, a Sparkling Used Pickup for $26,676.80
-Bought tesla-y-2, a Dirty Broken Electric for $13,285.00
+Bought Escort-2, a Dirty Used Car for $11,508.80
+Bought Harley-2, a Dirty Used Motercycle for $14,987.20
 The FNCD interns are washing...
-Intern Fred washed Zombie-2 Dirty to Dirty
-Intern Fred got a bonus of $100.00 for elbow grease wash!
-Intern Fred washed Mustang-2 Dirty to Clean
-Intern Ethel got a bonus of $75.00for Chemical Wash!
-Intern Ethel washed Zombie-2 Dirty to Clean
-Intern Ethel got a bonus of $75.00for Chemical Wash!
-Intern Ethel washed Colorado-2 Dirty to Clean
+Intern Fred got a bonus of $75.00 for elbow grease wash!
+Intern Fred washed Gravedigger Dirty to Clean
+Intern Fred got a bonus of $75.00for Chemical Wash!
+Intern Fred washed F-250-2 Dirty to Clean
+Intern Ethel got a bonus of $75.00for Detailed wash!
+Intern Ethel washed Yamaha-2 Dirty to Sparkling
+Intern Ethel washed Escort-2 Dirty to Dirty
+Intern Lucy got a bonus of $20.00 for elbow grease wash!
+Intern Lucy washed Escort-2 Dirty to Clean
 Intern Lucy got a bonus of $75.00 for elbow grease wash!
-Intern Lucy washed tesla-y-2 Dirty to Clean
-Intern Lucy washed Escort Clean to Clean
+Intern Lucy washed Harley-2 Dirty to Clean
 The FNCD mechanics are repairing...
+Mechanic James did not fix the Broken Probe-2
 Mechanic James got a bonus of $200.00!
-Mechanic James fixed Gravedigger-2 Broken to Used
-Mechanic James got a bonus of $300.00!
-Mechanic James fixed Mustang-2 Broken to Used
+Mechanic James fixed Colorado-2 Broken to Used
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Probe-2 Broken to Used
 Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Gravedigger-2 Used to LikeNew
-Mechanic Scotty did not fix the Used Mustang-2
-Mechanic Spock got a bonus of $300.00!
-Mechanic Spock fixed Mustang-2 Used to LikeNew
+Mechanic Scotty fixed Colorado-2 Used to LikeNew
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Probe-2 Used to LikeNew
 Mechanic Spock got a bonus of $200.00!
-Mechanic Spock fixed Colorado-2 Used to LikeNew
+Mechanic Spock fixed Kowasaki-2 Broken to Used
 The FNCD salespeople are selling...
 The FNCD has 4 buyers today...
-Buyer Leia-6 wants a Pickup (WantsOne)
-Buyer Leia-6 decided not to buy.
-Buyer Han-6 wants a Monstertruck (JustLooking)
-Buyer Han-6 is buying! Salesperson Rachel gets a bonus of $750.00!
-Buyer Han-6 bought Dirty LikeNew Gravedigger-2 for $87,997.50
-Buyer Chewy-6 wants a Electric (WantsOne)
-Buyer Chewy-6 is buying! Salesperson Phoebe gets a bonus of $750.00!
-Buyer Chewy-6 bought Clean LikeNew tesla-y for $59,431.88
-Buyer Luke-7 wants a Pickup (WantsOne)
-Buyer Luke-7 is buying! Salesperson Rachel gets a bonus of $750.00!
-Buyer Luke-7 bought Dirty LikeNew Colorado-2 for $74,962.00
+Buyer Chewy-5 wants a Pickup (NeedsOne)
+Buyer Chewy-5 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Chewy-5 bought Clean LikeNew F-250-2 for $36,958.12
+Buyer Chewy-5 added a satellite radio, increasing the price to $38,806.00
+Buyer Luke-6 wants a Pickup (WantsOne)
+Buyer Luke-6 is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Luke-6 bought Dirty LikeNew Colorado-2 for $35,006.25
+Buyer Luke-6 added a satellite radio, increasing the price to $36,756.00
+Buyer Leia-6 wants a Motercycle (NeedsOne)
+Buyer Leia-6 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Leia-6 bought Sparkling LikeNew Yamaha-2 for $52,910.00
+Buyer Han-6 wants a Motercycle (WantsOne)
+Buyer Han-6 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Han-6 bought Clean LikeNew Harley for $47,570.00
+Buyer Han-6 added an extended warrenty, increasing the price to $57,084.00
+TEST: Harley
 No-one on the staff is leaving!
-Vehicles in inventory 21
-Vehicles sold count 17
-Money in the budget $836,047.72
+Vehicles in inventory 20
+Vehicles sold count 14
+Money in the budget $670,396.78
 That's it for the day.
->>> End Simulation Day 9 Mon
+>>> End Simulation Day 9 Sat
 

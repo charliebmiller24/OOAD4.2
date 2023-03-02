@@ -1,37 +1,31 @@
->>> Start Simulation Day 28 Sat
+>>> Start Simulation Day 28 Thur
 The FNCD is opening...
-Bought Taurus-3, a Clean Broken Car for $7,147.00
-Bought Mustang-4, a Clean Used PerfCar for $18,276.80
+Bought Zombie-3, a Dirty Used Monstertruck for $39,688.80
 The FNCD interns are washing...
 Intern Fred got a bonus of $75.00for Chemical Wash!
-Intern Fred washed Tundra-5 Dirty to Clean
-Intern Fred washed Escort Clean to Clean
-Intern Ethel washed Escort Clean to Clean
-Intern Ethel washed Tundra-2 Clean to Clean
-Intern Lucy washed Escort Clean to Clean
-Intern Lucy washed Tundra-2 Clean to Clean
+Intern Fred washed Zombie-3 Dirty to Clean
+Intern Fred washed Taurus-2 Clean to Clean
+Intern Ethel washed Taurus-2 Clean to Clean
+Intern Ethel washed KTM-3 Clean to Dirty
+Intern Lucy got a bonus of $75.00for Detailed wash!
+Intern Lucy washed KTM-3 Dirty to Clean
+Intern Lucy washed Taurus-2 Clean to Dirty
 The FNCD mechanics are repairing...
-Mechanic James got a bonus of $100.00!
-Mechanic James fixed Taurus-3 Broken to Used
-Mechanic James got a bonus of $300.00!
-Mechanic James fixed Mustang-4 Used to LikeNew
-Mechanic Scotty got a bonus of $100.00!
-Mechanic Scotty fixed Taurus-3 Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Zombie-3 Used to LikeNew
 The FNCD salespeople are selling...
 The FNCD has 3 buyers today...
-Buyer Chewy-25 wants a PerfCar (NeedsOne)
-Buyer Chewy-25 is buying! Salesperson Monica gets a bonus of $1,000.00!
-Buyer Chewy-25 bought Clean LikeNew Cayman-4 for $59,698.00
-Buyer Chewy-25 added a road rescue coverage, increasing the price to 60891.0
-Buyer Luke-26 wants a PerfCar (NeedsOne)
-Buyer Luke-26 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
-Buyer Luke-26 bought Clean LikeNew Mustang-3 for $47,362.50
-Buyer Leia-26 wants a Electric (WantsOne)
-Buyer Leia-26 decided not to buy.
+Buyer Leia-21 wants a Electric (NeedsOne)
+Buyer Leia-21 decided not to buy.
+Buyer Han-21 wants a Car (WantsOne)
+Buyer Han-21 decided not to buy.
+Buyer Chewy-21 wants a Monstertruck (WantsOne)
+Buyer Chewy-21 is buying! Salesperson Ross gets a bonus of $750.00!
+Buyer Chewy-21 bought Dirty LikeNew Zombie-3 for $99,222.00
 No-one on the staff is leaving!
-Vehicles in inventory 22
-Vehicles sold count 58
-Money in the budget $2,228,600.60
+Vehicles in inventory 23
+Vehicles sold count 39
+Money in the budget $1,502,795.45
 That's it for the day.
->>> End Simulation Day 28 Sat
+>>> End Simulation Day 28 Thur
 

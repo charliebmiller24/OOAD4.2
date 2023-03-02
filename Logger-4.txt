@@ -1,52 +1,40 @@
->>> Start Simulation Day 4 Wed
-The FNCD drivers are racing...
-No more Monstertruck vehicles
+>>> Start Simulation Day 4 Mon
 The FNCD is opening...
-Bought Cayman-2, a Dirty LikeNew PerfCar for $31,278.00
+Bought Ranger-2, a Dirty Used Pickup for $10,223.20
 The FNCD interns are washing...
-Intern Fred washed Escort Dirty to Dirty
-Intern Fred got a bonus of $100.00for Detailed wash!
-Intern Fred washed Cayman Dirty to Clean
-Intern Ethel got a bonus of $20.00for Chemical Wash!
-Intern Ethel washed Escort Dirty to Clean
+Intern Fred got a bonus of $20.00for Detailed wash!
+Intern Fred washed Taurus Dirty to Clean
+Intern Fred got a bonus of $20.00 for elbow grease wash!
+Intern Fred washed Fiesta Dirty to Sparkling
+Intern Ethel washed Europa Dirty to Dirty
 Intern Ethel got a bonus of $100.00for Detailed wash!
-Intern Ethel washed Corvette Dirty to Clean
-Intern Lucy washed Mustang Dirty to Dirty
-Intern Lucy got a bonus of $75.00for Detailed wash!
-Intern Lucy washed F-250 Dirty to Sparkling
+Intern Ethel washed Cayman Dirty to Clean
+Intern Lucy got a bonus of $100.00 for elbow grease wash!
+Intern Lucy washed Europa Dirty to Clean
+Intern Lucy got a bonus of $75.00 for elbow grease wash!
+Intern Lucy washed Ford-electric Dirty to Clean
 The FNCD mechanics are repairing...
-Mechanic James did not fix the Used F-250
-Mechanic James did not fix the Broken Tesla-x
-Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed F-250 Used to LikeNew
-Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Tesla-x Broken to Used
-Mechanic Spock got a bonus of $200.00!
-Mechanic Spock fixed Tesla-x Used to LikeNew
-Mechanic Spock got a bonus of $200.00!
-Mechanic Spock fixed tesla-y Broken to Used
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cayman Used to LikeNew
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Mustang Used to LikeNew
+Mechanic Scotty did not fix the Used Ranger
+Mechanic Scotty did not fix the Broken F-250
+Mechanic Spock did not fix the Used Ranger
+Mechanic Spock did not fix the Broken F-250
 The FNCD salespeople are selling...
-The FNCD has 5 buyers today...
-Buyer Chewy-2 wants a Pickup (NeedsOne)
-Buyer Chewy-2 is buying! Salesperson Monica gets a bonus of $750.00!
-Buyer Chewy-2 bought Dirty LikeNew F-250 for $45,102.00
-Buyer Luke-3 wants a Monstertruck (WantsOne)
+The FNCD has 2 buyers today...
+Buyer Chewy-2 wants a Motercycle (JustLooking)
+Buyer Chewy-2 decided not to buy.
+Buyer Luke-3 wants a Pickup (NeedsOne)
 Buyer Luke-3 is buying! Salesperson Rachel gets a bonus of $750.00!
-Buyer Luke-3 bought Dirty LikeNew Zombie for $76,910.00
-Buyer Leia-3 wants a Car (NeedsOne)
-Buyer Leia-3 is buying! Salesperson Rachel gets a bonus of $500.00!
-Buyer Leia-3 bought Clean LikeNew Probe for $32,164.00
-Buyer Leia-3 added an extended warrenty, increasing the price to 38596.0
-Buyer Han-3 wants a Pickup (NeedsOne)
-Buyer Han-3 is buying! Salesperson Phoebe gets a bonus of $750.00!
-Buyer Han-3 bought Clean LikeNew Colorado for $31,344.00
-Buyer Chewy-3 wants a PerfCar (NeedsOne)
-Buyer Chewy-3 is buying! Salesperson Monica gets a bonus of $1,000.00!
-Buyer Chewy-3 bought Dirty LikeNew Cayman-2 for $62,556.00
+Buyer Luke-3 bought Dirty Used Ranger-2 for $20,446.40
+Buyer Luke-3 added an extended warrenty, increasing the price to $24,535.00
+TEST: Ranger-2
 No-one on the staff is leaving!
-Vehicles in inventory 19
-Vehicles sold count 7
-Money in the budget $459,732.60
+Vehicles in inventory 23
+Vehicles sold count 3
+Money in the budget $178,711.00
 That's it for the day.
->>> End Simulation Day 4 Wed
+>>> End Simulation Day 4 Mon
 

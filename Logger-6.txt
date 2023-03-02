@@ -1,41 +1,54 @@
->>> Start Simulation Day 6 Fri
+>>> Start Simulation Day 6 Wed
+The FNCD drivers are racing...
+Driver PJ finished in 2 place with Yamaha Motercycle
+Driver PJ got a bonus of $200.00!
+Driver Momo finished in 8 place with KTM Motercycle
+Driver Fredrick finished in 14 place with Kowasaki Motercycle
 The FNCD is opening...
-Bought Tesla-x-2, a Dirty Used Electric for $28,188.00
-Bought Zombie-2, a Dirty Broken Monstertruck for $23,249.50
+Hired a new Driver named Carl
+Bought Yamaha-2, a Dirty Used Motercycle for $21,164.00
 The FNCD interns are washing...
-Intern Fred washed tesla-y Dirty to Dirty
+Intern Fred got a bonus of $75.00for Chemical Wash!
+Intern Fred washed Ranger Dirty to Clean
 Intern Fred got a bonus of $75.00for Detailed wash!
-Intern Fred washed Ford-electric Dirty to Clean
+Intern Fred washed F-250 Dirty to Sparkling
 Intern Ethel got a bonus of $75.00for Chemical Wash!
-Intern Ethel washed tesla-y Dirty to Clean
+Intern Ethel washed Colorado Dirty to Clean
 Intern Ethel got a bonus of $75.00for Detailed wash!
-Intern Ethel washed KTM Dirty to Sparkling
+Intern Ethel washed Tesla-x Dirty to Sparkling
 Intern Lucy got a bonus of $75.00for Detailed wash!
-Intern Lucy washed Ranger-2 Dirty to Sparkling
-Intern Lucy got a bonus of $75.00for Chemical Wash!
-Intern Lucy washed Bigfoot-2 Dirty to Clean
+Intern Lucy washed Nissan-leaf Dirty to Clean
+Intern Lucy got a bonus of $75.00for Detailed wash!
+Intern Lucy washed Bigfoot Dirty to Sparkling
 The FNCD mechanics are repairing...
-Mechanic James did not fix the Broken Avenger
-Mechanic James got a bonus of $300.00!
-Mechanic James fixed Corvette-2 Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Colorado Broken to Used
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Tesla-x Used to LikeNew
 Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Avenger Broken to Used
+Mechanic Scotty fixed Colorado Used to LikeNew
 Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Ranger-2 Broken to Used
-Mechanic Spock did not fix the Used Avenger
+Mechanic Scotty fixed tesla-y Broken to Used
 Mechanic Spock got a bonus of $200.00!
-Mechanic Spock fixed Ranger-2 Used to LikeNew
+Mechanic Spock fixed tesla-y Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Ford-electric Broken to Used
 The FNCD salespeople are selling...
-The FNCD has 2 buyers today...
-Buyer Chewy-4 wants a Car (NeedsOne)
-Buyer Chewy-4 decided not to buy.
-Buyer Luke-5 wants a Monstertruck (NeedsOne)
-Buyer Luke-5 is buying! Salesperson Rachel gets a bonus of $750.00!
-Buyer Luke-5 bought Clean LikeNew Bigfoot for $66,796.00
+The FNCD has 3 buyers today...
+Buyer Han-3 wants a Pickup (WantsOne)
+Buyer Han-3 is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Han-3 bought Dirty LikeNew Colorado for $71,319.38
+Buyer Chewy-3 wants a Car (WantsOne)
+Buyer Chewy-3 is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Chewy-3 bought Sparkling LikeNew Fiesta for $37,005.00
+Buyer Chewy-3 added an undercoating, increasing the price to $38,855.00
+Buyer Luke-4 wants a Motercycle (NeedsOne)
+Buyer Luke-4 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Luke-4 bought Dirty LikeNew Yamaha for $57,376.00
 No-one on the staff is leaving!
-Vehicles in inventory 23
-Vehicles sold count 10
-Money in the budget $512,548.70
+Vehicles in inventory 21
+Vehicles sold count 6
+Money in the budget $312,721.88
 That's it for the day.
->>> End Simulation Day 6 Fri
+>>> End Simulation Day 6 Wed
 

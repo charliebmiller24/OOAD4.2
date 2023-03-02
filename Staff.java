@@ -250,21 +250,22 @@ class Salesperson extends Staff {
                 int road = rand.nextInt(100);
                 int radio = rand.nextInt(100);
 
-                if(extended <= .25){
-                    Vehicle vExtend = new ExtendedWarrenty(v);
-                    System.out.println("Buyer "+b.name+" added an extended warrenty, increasing the price to "+vExtend.price);
+                //Probability
+                if(extended <= 25 ){
+                    v = new ExtendedWarrenty(v);
+                    System.out.println("Buyer "+b.name+" added an extended warrenty, increasing the price to "+Utility.asDollar(v.price));
                 }
-                if(undercoating <= .1){
-                    Vehicle vUnder = new UnderCoating(v);
-                    System.out.println("Buyer "+b.name+" added an undercoating, increasing the price to "+vUnder.price);
+                if(undercoating <= 10){
+                    v = new UnderCoating(v);
+                    System.out.println("Buyer "+b.name+" added an undercoating, increasing the price to "+Utility.asDollar(v.price));
                 }
-                if(road <= .05){
-                    Vehicle vRRC = new RRC(v);
-                    System.out.println("Buyer "+b.name+" added a road rescue coverage, increasing the price to "+vRRC.price);
+                if(road <= 5){
+                    v = new RRC(v);
+                    System.out.println("Buyer "+b.name+" added a road rescue coverage, increasing the price to "+Utility.asDollar(v.price));
                 }
-                if(radio <= .4){
-                    Vehicle vRadio = new SatelliteRadio(v);
-                    System.out.println("Buyer "+b.name+" added a satellite radio, increasing the price to "+vRadio.price);
+                if(radio <= 40){
+                    v = new SatelliteRadio(v);
+                    System.out.println("Buyer "+b.name+" added a satellite radio, increasing the price to "+Utility.asDollar(v.price));
                 }
 
                 return v;

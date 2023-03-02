@@ -1,47 +1,32 @@
->>> Start Simulation Day 18 Wed
-The FNCD drivers are racing...
-Driver Fredrick finished in 15 place with Yamaha Motercycle
-Driver Fredrick-2 finished in 6 place with KTM Motercycle
-Driver PJ-2 finished in 1 place with Harley Motercycle
-Driver PJ-2 got a bonus of $200.00!
+>>> Start Simulation Day 18 Mon
 The FNCD is opening...
 Hired a new Driver named Momo-2
-Bought Tundra-4, a Dirty LikeNew Pickup for $15,353.00
-Bought Tesla-x-3, a Sparkling LikeNew Electric for $36,341.00
-Bought Harley-2, a Clean Broken Motercycle for $16,212.00
-Bought Avenger-3, a Sparkling Used Monstertruck for $29,150.40
+Bought Cayman-2, a Clean Used PerfCar for $29,712.80
+Bought Harley-3, a Dirty LikeNew Motercycle for $39,937.00
+Bought KTM-3, a Clean Broken Motercycle for $8,660.50
 The FNCD interns are washing...
-Intern Fred got a bonus of $100.00for Chemical Wash!
-Intern Fred washed Europa-4 Dirty to Clean
-Intern Fred washed Tundra-4 Dirty to Dirty
-Intern Ethel washed Tundra-4 Dirty to Dirty
-Intern Ethel washed Escort Clean to Clean
-Intern Lucy got a bonus of $75.00 for elbow grease wash!
-Intern Lucy washed Tundra-4 Dirty to Clean
-Intern Lucy washed Escort Clean to Clean
+Intern Fred got a bonus of $75.00for Detailed wash!
+Intern Fred washed Tundra-3 Dirty to Sparkling
+Intern Fred got a bonus of $75.00 for elbow grease wash!
+Intern Fred washed Harley-3 Dirty to Clean
+Intern Ethel washed Mustang Clean to Dirty
+Intern Ethel washed Ranger Clean to Clean
+Intern Lucy got a bonus of $100.00for Chemical Wash!
+Intern Lucy washed Mustang Dirty to Clean
+Intern Lucy washed Mustang Clean to Dirty
 The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cayman-2 Used to LikeNew
 Mechanic James got a bonus of $200.00!
-Mechanic James fixed Yamaha Broken to Used
-Mechanic James got a bonus of $200.00!
-Mechanic James fixed Harley-2 Broken to Used
+Mechanic James fixed KTM-3 Broken to Used
 Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Yamaha Used to LikeNew
-Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Harley-2 Used to LikeNew
-Mechanic Spock got a bonus of $200.00!
-Mechanic Spock fixed Avenger-3 Used to LikeNew
+Mechanic Scotty fixed KTM-3 Used to LikeNew
 The FNCD salespeople are selling...
-The FNCD has 2 buyers today...
-Buyer Leia-15 wants a Electric (WantsOne)
-Buyer Leia-15 is buying! Salesperson Monica gets a bonus of $750.00!
-Buyer Leia-15 bought Sparkling LikeNew Tesla-x-3 for $72,682.00
-Buyer Han-15 wants a Pickup (WantsOne)
-Buyer Han-15 is buying! Salesperson Rachel gets a bonus of $750.00!
-Buyer Han-15 bought Clean LikeNew Tundra-4 for $30,706.00
+The FNCD has 0 buyers today...
 No-one on the staff is leaving!
-Vehicles in inventory 22
-Vehicles sold count 39
-Money in the budget $1,636,099.25
+Vehicles in inventory 24
+Vehicles sold count 25
+Money in the budget $911,071.45
 That's it for the day.
->>> End Simulation Day 18 Wed
+>>> End Simulation Day 18 Mon
 

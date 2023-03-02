@@ -1,8 +1,51 @@
->>> Start Simulation Day 15 Sun
-The FNCD drivers are racing...
-Driver Fredrick finished in 17 place with Europa-3 PerfCar
-Driver PJ finished in 9 place with Cayman PerfCar
-No more PerfCar vehicles
-Sorry, FNCD is closed on Sun
->>> End Simulation Day 15 Sun
+>>> Start Simulation Day 15 Fri
+The FNCD is opening...
+Bought Fiesta-2, a Sparkling Used Car for $14,488.80
+Bought Colorado-3, a Clean Broken Pickup for $7,841.00
+The FNCD interns are washing...
+Intern Fred got a bonus of $20.00 for elbow grease wash!
+Intern Fred washed Taurus-2 Dirty to Clean
+Intern Fred got a bonus of $100.00for Chemical Wash!
+Intern Fred washed Europa-2 Dirty to Clean
+Intern Ethel washed Taurus Clean to Clean
+Intern Ethel washed Cayman Clean to Dirty
+Intern Lucy got a bonus of $100.00for Detailed wash!
+Intern Lucy washed Cayman Dirty to Clean
+Intern Lucy got a bonus of $20.00for Elbow grease Wash!
+Intern Lucy washed Taurus Clean to Sparkling
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Europa-2 Used to LikeNew
+Mechanic James did not fix the Used Fiesta-2
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Fiesta-2 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Colorado-3 Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Colorado-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 6 buyers today...
+Buyer Chewy-10 wants a Electric (JustLooking)
+Buyer Chewy-10 decided not to buy.
+Buyer Luke-11 wants a Monstertruck (JustLooking)
+Buyer Luke-11 decided not to buy.
+Buyer Leia-11 wants a PerfCar (JustLooking)
+Buyer Leia-11 decided not to buy.
+Buyer Han-11 wants a Pickup (WantsOne)
+Buyer Han-11 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Han-11 bought Clean LikeNew F-250-3 for $50,918.00
+Buyer Han-11 added a satellite radio, increasing the price to $53,463.00
+Buyer Chewy-11 wants a Pickup (WantsOne)
+Buyer Chewy-11 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Chewy-11 bought Sparkling LikeNew F-250 for $31,211.25
+Buyer Luke-12 wants a Electric (WantsOne)
+Buyer Luke-12 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Luke-12 bought Clean LikeNew Tesla-x-2 for $52,534.00
+Buyer Luke-12 added a satellite radio, increasing the price to $55,160.00
+No-one on the staff is leaving!
+Vehicles in inventory 21
+Vehicles sold count 23
+Money in the budget $936,397.95
+That's it for the day.
+>>> End Simulation Day 15 Fri
 

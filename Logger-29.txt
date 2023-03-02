@@ -1,7 +1,32 @@
->>> Start Simulation Day 29 Sun
-The FNCD drivers are racing...
-Driver Fredrick-3 finished in 13 place with Mustang-4 PerfCar
-No more PerfCar vehicles
-Sorry, FNCD is closed on Sun
->>> End Simulation Day 29 Sun
+>>> Start Simulation Day 29 Fri
+The FNCD is opening...
+Bought Gravedigger-3, a Dirty LikeNew Monstertruck for $44,485.00
+The FNCD interns are washing...
+Intern Fred got a bonus of $20.00 for elbow grease wash!
+Intern Fred washed Taurus-2 Dirty to Clean
+Intern Fred washed Gravedigger-3 Dirty to Dirty
+Intern Ethel got a bonus of $75.00for Chemical Wash!
+Intern Ethel washed Gravedigger-3 Dirty to Clean
+Intern Ethel washed Taurus-2 Clean to Dirty
+Intern Lucy got a bonus of $20.00for Detailed wash!
+Intern Lucy washed Taurus-2 Dirty to Clean
+Intern Lucy washed Taurus-2 Clean to Clean
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Luke-22 wants a Motercycle (WantsOne)
+Buyer Luke-22 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Luke-22 bought Clean LikeNew Kowasaki-4 for $69,790.00
+Buyer Luke-22 added an extended warrenty, increasing the price to $83,748.00
+TEST: Kowasaki-4
+Buyer Luke-22 added a satellite radio, increasing the price to $87,935.00
+Buyer Leia-22 wants a Pickup (JustLooking)
+Buyer Leia-22 is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Leia-22 bought Clean LikeNew Tundra-4 for $37,474.00
+No-one on the staff is leaving!
+Vehicles in inventory 22
+Vehicles sold count 41
+Money in the budget $1,582,459.45
+That's it for the day.
+>>> End Simulation Day 29 Fri
 

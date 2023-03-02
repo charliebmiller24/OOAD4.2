@@ -1,29 +1,37 @@
->>> Start Simulation Day 19 Thur
+>>> Start Simulation Day 19 Tue
 The FNCD is opening...
-Bought Ranger-5, a Dirty LikeNew Pickup for $16,841.00
-Bought tesla-y-3, a Clean LikeNew Electric for $39,577.00
 The FNCD interns are washing...
-Intern Fred got a bonus of $75.00 for elbow grease wash!
-Intern Fred washed Yamaha Dirty to Clean
-Intern Fred got a bonus of $75.00for Detailed wash!
-Intern Fred washed Harley-2 Dirty to Clean
+Intern Fred got a bonus of $100.00for Chemical Wash!
+Intern Fred washed Mustang Dirty to Clean
+Intern Fred got a bonus of $100.00for Chemical Wash!
+Intern Fred washed Cayman-2 Dirty to Clean
 Intern Ethel got a bonus of $75.00for Chemical Wash!
-Intern Ethel washed Ranger-5 Dirty to Clean
-Intern Ethel washed Escort Clean to Clean
-Intern Lucy washed Escort Clean to Clean
-Intern Lucy washed Corvette Clean to Clean
+Intern Ethel washed KTM-3 Dirty to Clean
+Intern Ethel washed Mustang Clean to Dirty
+Intern Lucy washed Mustang Dirty to Dirty
+Intern Lucy washed Ranger Clean to Clean
 The FNCD mechanics are repairing...
 The FNCD salespeople are selling...
-The FNCD has 2 buyers today...
-Buyer Chewy-15 wants a Pickup (JustLooking)
-Buyer Chewy-15 decided not to buy.
-Buyer Luke-16 wants a Motercycle (NeedsOne)
-Buyer Luke-16 is buying! Salesperson Monica gets a bonus of $750.00!
-Buyer Luke-16 bought Clean LikeNew Harley-2 for $60,795.00
+The FNCD has 5 buyers today...
+Buyer Chewy-12 wants a Pickup (JustLooking)
+Buyer Chewy-12 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Chewy-12 bought Sparkling LikeNew Tundra-3 for $61,208.00
+Buyer Chewy-12 added a road rescue coverage, increasing the price to $62,432.00
+Buyer Luke-13 wants a Motercycle (WantsOne)
+Buyer Luke-13 decided not to buy.
+Buyer Leia-13 wants a Electric (WantsOne)
+Buyer Leia-13 decided not to buy.
+Buyer Han-13 wants a PerfCar (WantsOne)
+Buyer Han-13 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Han-13 bought Clean LikeNew Cayman-2 for $74,282.00
+Buyer Chewy-13 wants a Car (NeedsOne)
+Buyer Chewy-13 is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Chewy-13 bought Clean LikeNew Fiesta-2 for $36,222.00
+Buyer Chewy-13 added a satellite radio, increasing the price to $38,033.00
 No-one on the staff is leaving!
-Vehicles in inventory 23
-Vehicles sold count 40
-Money in the budget $1,639,216.25
+Vehicles in inventory 21
+Vehicles sold count 28
+Money in the budget $1,084,558.45
 That's it for the day.
->>> End Simulation Day 19 Thur
+>>> End Simulation Day 19 Tue
 

@@ -1,49 +1,50 @@
->>> Start Simulation Day 23 Mon
+>>> Start Simulation Day 23 Sat
 The FNCD is opening...
-Hired a new Driver named Carl-2
-Bought Cayman-4, a Dirty LikeNew PerfCar for $29,849.00
-Bought Corvette-4, a Dirty Used PerfCar for $24,894.40
-Bought Yamaha-3, a Clean Used Motercycle for $30,389.60
-Bought Bigfoot-4, a Dirty Broken Monstertruck for $15,482.50
-Bought Zombie-4, a Dirty Used Monstertruck for $31,626.40
-Bought Gravedigger-4, a Dirty Used Monstertruck for $32,192.80
 The FNCD interns are washing...
-Intern Fred got a bonus of $75.00for Detailed wash!
-Intern Fred washed F-250-5 Dirty to Sparkling
-Intern Fred washed Ford-electric-3 Dirty to Dirty
-Intern Ethel washed Ford-electric-3 Dirty to Dirty
-Intern Ethel got a bonus of $100.00for Chemical Wash!
-Intern Ethel washed Cayman-4 Dirty to Clean
-Intern Lucy got a bonus of $75.00for Chemical Wash!
-Intern Lucy washed Ford-electric-3 Dirty to Sparkling
-Intern Lucy got a bonus of $100.00 for elbow grease wash!
-Intern Lucy washed Corvette-4 Dirty to Clean
+Intern Fred got a bonus of $100.00for Chemical Wash!
+Intern Fred washed Corvette-2 Dirty to Sparkling
+Intern Fred got a bonus of $75.00 for elbow grease wash!
+Intern Fred washed Avenger-2 Dirty to Clean
+Intern Ethel got a bonus of $20.00for Chemical Wash!
+Intern Ethel washed Escort-3 Dirty to Clean
+Intern Ethel got a bonus of $75.00for Chemical Wash!
+Intern Ethel washed Nissan-leaf-2 Dirty to Sparkling
+Intern Lucy got a bonus of $75.00for Detailed Wash!
+Intern Lucy washed Ranger Clean to Sparkling
+Intern Lucy got a bonus of $75.00for Elbow grease Wash!
+Intern Lucy washed tesla-y Clean to Sparkling
 The FNCD mechanics are repairing...
 Mechanic James got a bonus of $200.00!
-Mechanic James fixed Ford-electric-3 Used to LikeNew
-Mechanic James did not fix the Used Corvette-4
-Mechanic Scotty got a bonus of $300.00!
-Mechanic Scotty fixed Corvette-4 Used to LikeNew
-Mechanic Scotty did not fix the Used Yamaha-3
-Mechanic Spock got a bonus of $200.00!
-Mechanic Spock fixed Yamaha-3 Used to LikeNew
-Mechanic Spock got a bonus of $200.00!
-Mechanic Spock fixed Bigfoot-4 Broken to Used
+Mechanic James fixed Nissan-leaf-2 Used to LikeNew
 The FNCD salespeople are selling...
-The FNCD has 4 buyers today...
-Buyer Luke-20 wants a Monstertruck (WantsOne)
-Buyer Luke-20 decided not to buy.
-Buyer Leia-20 wants a Pickup (NeedsOne)
-Buyer Leia-20 is buying! Salesperson Phoebe gets a bonus of $750.00!
-Buyer Leia-20 bought Clean LikeNew Colorado-3 for $27,838.00
-Buyer Han-20 wants a Motercycle (WantsOne)
-Buyer Han-20 decided not to buy.
-Buyer Chewy-20 wants a PerfCar (WantsOne)
-Buyer Chewy-20 decided not to buy.
+The FNCD has 8 buyers today...
+Buyer Han-16 wants a Motercycle (WantsOne)
+Buyer Han-16 is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Han-16 bought Clean LikeNew Harley-3 for $79,874.00
+Buyer Han-16 added a satellite radio, increasing the price to $83,867.00
+Buyer Chewy-16 wants a Pickup (WantsOne)
+Buyer Chewy-16 is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Chewy-16 bought Clean LikeNew Colorado-4 for $79,232.00
+Buyer Chewy-16 added an extended warrenty, increasing the price to $95,078.00
+TEST: Colorado-4
+Buyer Luke-17 wants a Car (WantsOne)
+Buyer Luke-17 decided not to buy.
+Buyer Leia-17 wants a Car (JustLooking)
+Buyer Leia-17 decided not to buy.
+Buyer Han-17 wants a Pickup (WantsOne)
+Buyer Han-17 decided not to buy.
+Buyer Chewy-17 wants a PerfCar (JustLooking)
+Buyer Chewy-17 decided not to buy.
+Buyer Luke-18 wants a PerfCar (NeedsOne)
+Buyer Luke-18 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Luke-18 bought Sparkling LikeNew Mustang for $72,168.00
+Buyer Luke-18 added an undercoating, increasing the price to $75,776.00
+Buyer Leia-18 wants a Motercycle (JustLooking)
+Buyer Leia-18 decided not to buy.
 No-one on the staff is leaving!
-Vehicles in inventory 23
-Vehicles sold count 49
-Money in the budget $1,940,565.87
+Vehicles in inventory 21
+Vehicles sold count 35
+Money in the budget $1,405,904.45
 That's it for the day.
->>> End Simulation Day 23 Mon
+>>> End Simulation Day 23 Sat
 

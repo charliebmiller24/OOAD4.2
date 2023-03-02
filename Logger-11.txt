@@ -1,43 +1,52 @@
->>> Start Simulation Day 11 Wed
-The FNCD drivers are racing...
-Driver Fredrick finished in 11 place with Tundra-2 Pickup
-Driver PJ finished in 17 place with Ranger-3 Pickup
-Driver Carl finished in 7 place with F-250-3 Pickup
+>>> Start Simulation Day 11 Mon
 The FNCD is opening...
 Hired a new Driver named Fredrick-2
-Bought Europa-3, a Dirty Broken PerfCar for $12,665.50
-Bought Colorado-3, a Clean LikeNew Pickup for $13,919.00
-Bought Yamaha-2, a Clean Used Motercycle for $26,322.40
+Bought Tundra-2, a Dirty Used Pickup for $29,712.80
+Bought Ranger-3, a Clean Broken Pickup for $19,439.00
+Bought KTM-2, a Dirty Used Motercycle for $12,364.00
+Bought Yamaha-3, a Clean LikeNew Motercycle for $32,490.00
+Bought Kowasaki-3, a Dirty Used Motercycle for $30,633.60
 The FNCD interns are washing...
-Intern Fred got a bonus of $75.00for Chemical Wash!
-Intern Fred washed tesla-y-2 Dirty to Sparkling
+Intern Fred got a bonus of $20.00 for elbow grease wash!
+Intern Fred washed Probe-2 Dirty to Clean
 Intern Fred got a bonus of $75.00 for elbow grease wash!
-Intern Fred washed Ford-electric-2 Dirty to Clean
-Intern Ethel washed Avenger-2 Dirty to Dirty
-Intern Ethel got a bonus of $100.00for Chemical Wash!
-Intern Ethel washed Europa-3 Dirty to Clean
+Intern Fred washed Kowasaki-2 Dirty to Clean
+Intern Ethel got a bonus of $75.00for Detailed wash!
+Intern Ethel washed Tundra-2 Dirty to Clean
+Intern Ethel washed KTM-2 Dirty to Dirty
 Intern Lucy got a bonus of $75.00for Chemical Wash!
-Intern Lucy washed Avenger-2 Dirty to Clean
-Intern Lucy washed Escort Clean to Clean
+Intern Lucy washed KTM-2 Dirty to Clean
+Intern Lucy got a bonus of $75.00for Chemical Wash!
+Intern Lucy washed Kowasaki-3 Dirty to Sparkling
 The FNCD mechanics are repairing...
+Mechanic James did not fix the Used Kowasaki-2
 Mechanic James got a bonus of $200.00!
-Mechanic James fixed Avenger-2 Used to LikeNew
-Mechanic James got a bonus of $200.00!
-Mechanic James fixed Ranger-3 Broken to Used
+Mechanic James fixed Tesla-x-2 Used to LikeNew
 Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Ranger-3 Used to LikeNew
-Mechanic Scotty got a bonus of $300.00!
-Mechanic Scotty fixed Europa-3 Broken to Used
-Mechanic Spock got a bonus of $300.00!
-Mechanic Spock fixed Europa-3 Used to LikeNew
+Mechanic Scotty fixed Kowasaki-2 Used to LikeNew
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Escort-2 Used to LikeNew
 Mechanic Spock got a bonus of $200.00!
-Mechanic Spock fixed Yamaha-2 Used to LikeNew
+Mechanic Spock fixed Tundra-2 Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Ranger-3 Broken to Used
 The FNCD salespeople are selling...
-The FNCD has 0 buyers today...
+The FNCD has 3 buyers today...
+Buyer Chewy-6 wants a Pickup (WantsOne)
+Buyer Chewy-6 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Chewy-6 bought Dirty LikeNew Tundra-2 for $74,282.00
+Buyer Chewy-6 added an extended warrenty, increasing the price to $89,138.00
+TEST: Tundra-2
+Buyer Chewy-6 added an undercoating, increasing the price to $93,594.00
+Buyer Chewy-6 added a satellite radio, increasing the price to $98,273.00
+Buyer Luke-7 wants a Monstertruck (JustLooking)
+Buyer Luke-7 decided not to buy.
+Buyer Leia-7 wants a Car (NeedsOne)
+Buyer Leia-7 decided not to buy.
 No-one on the staff is leaving!
-Vehicles in inventory 24
-Vehicles sold count 19
-Money in the budget $840,231.92
+Vehicles in inventory 23
+Vehicles sold count 15
+Money in the budget $642,770.38
 That's it for the day.
->>> End Simulation Day 11 Wed
+>>> End Simulation Day 11 Mon
 

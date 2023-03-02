@@ -1,41 +1,6 @@
->>> Start Simulation Day 3 Tue
-The FNCD is opening...
-Bought Europa-2, a Dirty LikeNew PerfCar for $37,238.00
-The FNCD interns are washing...
-Intern Fred got a bonus of $20.00for Chemical Wash!
-Intern Fred washed Probe Dirty to Clean
-Intern Fred got a bonus of $20.00 for elbow grease wash!
-Intern Fred washed Escort Dirty to Clean
-Intern Ethel got a bonus of $20.00for Chemical Wash!
-Intern Ethel washed Taurus Dirty to Sparkling
-Intern Ethel got a bonus of $75.00for Chemical Wash!
-Intern Ethel washed Colorado Dirty to Clean
-Intern Lucy got a bonus of $75.00 for elbow grease wash!
-Intern Lucy washed Tesla-x Dirty to Clean
-Intern Lucy washed Nissan-leaf Dirty to Dirty
-The FNCD mechanics are repairing...
-Mechanic James got a bonus of $100.00!
-Mechanic James fixed Escort Used to LikeNew
-Mechanic James got a bonus of $300.00!
-Mechanic James fixed Cayman Broken to Used
-Mechanic Scotty got a bonus of $300.00!
-Mechanic Scotty fixed Cayman Used to LikeNew
-Mechanic Scotty got a bonus of $300.00!
-Mechanic Scotty fixed Corvette Used to LikeNew
-Mechanic Spock got a bonus of $300.00!
-Mechanic Spock fixed Mustang Used to LikeNew
-Mechanic Spock did not fix the Used F-250
-The FNCD salespeople are selling...
-The FNCD has 2 buyers today...
-Buyer Leia-2 wants a PerfCar (JustLooking)
-Buyer Leia-2 decided not to buy.
-Buyer Han-2 wants a PerfCar (JustLooking)
-Buyer Han-2 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
-Buyer Han-2 bought Dirty LikeNew Europa-2 for $74,476.00
-No-one on the staff is leaving!
-Vehicles in inventory 23
-Vehicles sold count 2
-Money in the budget $244,194.60
-That's it for the day.
->>> End Simulation Day 3 Tue
+>>> Start Simulation Day 3 Sun
+The FNCD drivers are racing...
+No more Monstertruck vehicles
+Sorry, FNCD is closed on Sun
+>>> End Simulation Day 3 Sun
 

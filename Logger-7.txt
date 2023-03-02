@@ -1,46 +1,53 @@
->>> Start Simulation Day 7 Sat
+>>> Start Simulation Day 7 Thur
 The FNCD is opening...
-Bought Gravedigger-2, a Sparkling Broken Monstertruck for $23,466.00
+Bought Probe-2, a Dirty Broken Car for $9,475.50
+Bought Colorado-2, a Dirty Broken Pickup for $9,335.00
+Bought Kowasaki-2, a Dirty Broken Motercycle for $7,571.00
 The FNCD interns are washing...
 Intern Fred got a bonus of $75.00for Detailed wash!
-Intern Fred washed Avenger Dirty to Sparkling
-Intern Fred got a bonus of $100.00for Chemical Wash!
-Intern Fred washed Corvette-2 Dirty to Clean
-Intern Ethel got a bonus of $75.00for Chemical Wash!
-Intern Ethel washed Ranger-2 Dirty to Clean
-Intern Ethel got a bonus of $75.00for Chemical Wash!
-Intern Ethel washed Tesla-x-2 Dirty to Sparkling
-Intern Lucy washed Zombie-2 Dirty to Dirty
-Intern Lucy washed Escort Clean to Clean
+Intern Fred washed tesla-y Dirty to Clean
+Intern Fred got a bonus of $75.00for Detailed wash!
+Intern Fred washed Ford-electric Dirty to Clean
+Intern Ethel washed Zombie Dirty to Dirty
+Intern Ethel got a bonus of $75.00 for elbow grease wash!
+Intern Ethel washed Gravedigger Dirty to Sparkling
+Intern Lucy got a bonus of $75.00for Detailed wash!
+Intern Lucy washed Zombie Dirty to Sparkling
+Intern Lucy got a bonus of $75.00for Detailed wash!
+Intern Lucy washed F-250-2 Dirty to Clean
 The FNCD mechanics are repairing...
 Mechanic James got a bonus of $200.00!
-Mechanic James fixed Avenger Used to LikeNew
-Mechanic James did not fix the Used Tesla-x-2
-Mechanic Scotty did not fix the Used Tesla-x-2
+Mechanic James fixed Ford-electric Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Nissan-leaf Broken to Used
+Mechanic Scotty did not fix the Used Nissan-leaf
 Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Zombie-2 Broken to Used
+Mechanic Scotty fixed Zombie Used to LikeNew
 Mechanic Spock got a bonus of $200.00!
-Mechanic Spock fixed Tesla-x-2 Used to LikeNew
+Mechanic Spock fixed Nissan-leaf Used to LikeNew
 Mechanic Spock got a bonus of $200.00!
-Mechanic Spock fixed Zombie-2 Used to LikeNew
+Mechanic Spock fixed Gravedigger Broken to Used
 The FNCD salespeople are selling...
 The FNCD has 4 buyers today...
-Buyer Leia-5 wants a Electric (NeedsOne)
-Buyer Leia-5 is buying! Salesperson Monica gets a bonus of $750.00!
-Buyer Leia-5 bought Dirty LikeNew Tesla-x-2 for $70,470.00
-Buyer Han-5 wants a PerfCar (NeedsOne)
-Buyer Han-5 is buying! Salesperson Rachel gets a bonus of $1,000.00!
-Buyer Han-5 bought Clean LikeNew Corvette-2 for $77,156.00
-Buyer Chewy-5 wants a Pickup (NeedsOne)
-Buyer Chewy-5 is buying! Salesperson Monica gets a bonus of $750.00!
-Buyer Chewy-5 bought Clean LikeNew F-250-2 for $48,746.00
-Buyer Luke-6 wants a Pickup (NeedsOne)
-Buyer Luke-6 is buying! Salesperson Rachel gets a bonus of $750.00!
-Buyer Luke-6 bought Clean LikeNew Ranger-2 for $31,856.25
+Buyer Leia-4 wants a PerfCar (JustLooking)
+Buyer Leia-4 decided not to buy.
+Buyer Han-4 wants a Monstertruck (WantsOne)
+Buyer Han-4 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Han-4 bought Clean LikeNew Bigfoot-2 for $92,056.00
+Buyer Han-4 added an extended warrenty, increasing the price to $110,467.00
+TEST: Bigfoot-2
+Buyer Chewy-4 wants a Electric (NeedsOne)
+Buyer Chewy-4 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Chewy-4 bought Dirty LikeNew Ford-electric for $66,811.88
+Buyer Chewy-4 added an extended warrenty, increasing the price to $80,174.00
+TEST: Ford-electric
+Buyer Chewy-4 added an undercoating, increasing the price to $84,182.00
+Buyer Luke-5 wants a PerfCar (JustLooking)
+Buyer Luke-5 decided not to buy.
 No-one on the staff is leaving!
-Vehicles in inventory 20
-Vehicles sold count 14
-Money in the budget $716,050.95
+Vehicles in inventory 22
+Vehicles sold count 8
+Money in the budget $479,729.38
 That's it for the day.
->>> End Simulation Day 7 Sat
+>>> End Simulation Day 7 Thur
 

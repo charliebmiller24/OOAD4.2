@@ -1,47 +1,9 @@
->>> Start Simulation Day 17 Tue
-The FNCD is opening...
-Bought Colorado-4, a Clean LikeNew Pickup for $31,921.00
-Bought Nissan-leaf-2, a Dirty LikeNew Electric for $27,673.00
-Bought Gravedigger-3, a Clean LikeNew Monstertruck for $30,724.00
-The FNCD interns are washing...
-Intern Fred got a bonus of $20.00for Detailed wash!
-Intern Fred washed Taurus-2 Dirty to Clean
-Intern Fred got a bonus of $100.00 for elbow grease wash!
-Intern Fred washed Europa-3 Dirty to Clean
-Intern Ethel washed Mustang-3 Dirty to Dirty
-Intern Ethel got a bonus of $100.00 for elbow grease wash!
-Intern Ethel washed Europa-4 Dirty to Clean
-Intern Lucy got a bonus of $100.00for Chemical Wash!
-Intern Lucy washed Mustang-3 Dirty to Clean
-Intern Lucy got a bonus of $75.00 for elbow grease wash!
-Intern Lucy washed Nissan-leaf-2 Dirty to Clean
-The FNCD mechanics are repairing...
-Mechanic James did not fix the Broken Europa-4
-Mechanic James got a bonus of $200.00!
-Mechanic James fixed Zombie-3 Used to LikeNew
-Mechanic Scotty got a bonus of $300.00!
-Mechanic Scotty fixed Europa-4 Broken to Used
-Mechanic Spock got a bonus of $300.00!
-Mechanic Spock fixed Europa-4 Used to LikeNew
-The FNCD salespeople are selling...
-The FNCD has 5 buyers today...
-Buyer Luke-14 wants a Electric (JustLooking)
-Buyer Luke-14 decided not to buy.
-Buyer Leia-14 wants a Electric (JustLooking)
-Buyer Leia-14 is buying! Salesperson Rachel gets a bonus of $750.00!
-Buyer Leia-14 bought Clean LikeNew Nissan-leaf-2 for $55,346.00
-Buyer Han-14 wants a Pickup (NeedsOne)
-Buyer Han-14 is buying! Salesperson Monica gets a bonus of $750.00!
-Buyer Han-14 bought Clean LikeNew Colorado-4 for $63,842.00
-Buyer Chewy-14 wants a Monstertruck (JustLooking)
-Buyer Chewy-14 is buying! Salesperson Rachel gets a bonus of $750.00!
-Buyer Chewy-14 bought Dirty LikeNew Zombie-3 for $82,636.00
-Buyer Luke-15 wants a Pickup (JustLooking)
-Buyer Luke-15 decided not to buy.
-No-one on the staff is leaving!
-Vehicles in inventory 21
-Vehicles sold count 37
-Money in the budget $1,631,027.65
-That's it for the day.
->>> End Simulation Day 17 Tue
+>>> Start Simulation Day 17 Sun
+The FNCD drivers are racing...
+Driver PJ-2 finished in 6 place with Europa-2 PerfCar
+Driver Fredrick-2 finished in 7 place with Cayman PerfCar
+Driver Carl finished in 2 place with Corvette PerfCar
+Driver Carl got a bonus of $300.00!
+Sorry, FNCD is closed on Sun
+>>> End Simulation Day 17 Sun
 

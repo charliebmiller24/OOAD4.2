@@ -1,42 +1,7 @@
->>> Start Simulation Day 10 Tue
-The FNCD is opening...
-Bought F-250-3, a Clean LikeNew Pickup for $19,053.00
-Bought Ford-electric-2, a Clean Used Electric for $30,314.40
-Bought Avenger-2, a Clean Broken Monstertruck for $21,122.00
-The FNCD interns are washing...
-Intern Fred got a bonus of $100.00 for elbow grease wash!
-Intern Fred washed Mustang-2 Dirty to Clean
-Intern Fred washed Escort Clean to Clean
-Intern Ethel washed Escort Clean to Clean
-Intern Ethel washed Cayman Clean to Dirty
-Intern Lucy got a bonus of $100.00for Chemical Wash!
-Intern Lucy washed Cayman Dirty to Clean
-Intern Lucy washed Escort Clean to Clean
-The FNCD mechanics are repairing...
-Mechanic James got a bonus of $200.00!
-Mechanic James fixed Ranger-3 Used to LikeNew
-Mechanic James got a bonus of $200.00!
-Mechanic James fixed tesla-y-2 Broken to Used
-Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed tesla-y-2 Used to LikeNew
-Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Ford-electric-2 Used to LikeNew
-Mechanic Spock got a bonus of $200.00!
-Mechanic Spock fixed Avenger-2 Broken to Used
-The FNCD salespeople are selling...
-The FNCD has 3 buyers today...
-Buyer Leia-7 wants a Motercycle (NeedsOne)
-Buyer Leia-7 is buying! Salesperson Phoebe gets a bonus of $750.00!
-Buyer Leia-7 bought Clean LikeNew Kowasaki for $61,618.00
-Buyer Han-7 wants a PerfCar (WantsOne)
-Buyer Han-7 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
-Buyer Han-7 bought Clean LikeNew Mustang-2 for $68,482.50
-Buyer Chewy-7 wants a Monstertruck (WantsOne)
-Buyer Chewy-7 decided not to buy.
-No-one on the staff is leaving!
-Vehicles in inventory 22
-Vehicles sold count 19
-Money in the budget $894,398.82
-That's it for the day.
->>> End Simulation Day 10 Tue
+>>> Start Simulation Day 10 Sun
+The FNCD drivers are racing...
+Driver PJ finished in 12 place with Harley-2 Motercycle
+No more Motercycle vehicles
+Sorry, FNCD is closed on Sun
+>>> End Simulation Day 10 Sun
 
