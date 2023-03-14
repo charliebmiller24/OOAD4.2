@@ -1,43 +1,44 @@
 >>> Start Simulation Day 30 Mon
 The FNCD is opening...
-Hired a new Driver named PJ-4
-Bought Fiesta-4, a Dirty Broken Car for $5,874.00
-Bought Corvette-3, a Dirty LikeNew PerfCar for $27,122.00
-Bought Tundra-3, a Dirty Broken Pickup for $6,646.00
-Bought Harley-4, a Clean Used Motercycle for $30,310.40
-Bought KTM-4, a Clean Used Motercycle for $28,365.60
-Bought Yamaha-5, a Clean Used Motercycle for $24,312.80
-Bought Avenger-2, a Dirty LikeNew Monstertruck for $34,711.00
-Bought Bigfoot-3, a Dirty LikeNew Monstertruck for $30,458.00
+Hired a new Driver named Momo-3
+Bought Europa-4, a Dirty Broken PerfCar for $14,965.00
+Bought Cayman-4, a Dirty Used PerfCar for $20,298.40
+Bought Fishing-Boat-3, a Dirty LikeNew Boat for $21,790.00
 The FNCD interns are washing...
+Intern Fred got a bonus of $75.00for Detailed wash!
+Intern Fred washed F-250 Dirty to Sparkling
 Intern Fred got a bonus of $20.00for Chemical Wash!
-Intern Fred washed Taurus-4 Dirty to Clean
-Intern Fred got a bonus of $100.00for Detailed wash!
-Intern Fred washed Cayman-3 Dirty to Clean
-Intern Ethel got a bonus of $75.00 for elbow grease wash!
-Intern Ethel washed Kowasaki-4 Dirty to Clean
-Intern Ethel got a bonus of $20.00for Chemical Wash!
-Intern Ethel washed Fiesta-4 Dirty to Clean
+Intern Fred washed Taurus-3 Dirty to Clean
+Intern Ethel washed Yamaha-4 Dirty to Dirty
+Intern Ethel washed PartyBus-3 Dirty to Dirty
+Intern Lucy got a bonus of $75.00 for elbow grease wash!
+Intern Lucy washed Yamaha-4 Dirty to Clean
 Intern Lucy got a bonus of $100.00for Chemical Wash!
-Intern Lucy washed Corvette-3 Dirty to Clean
-Intern Lucy got a bonus of $75.00for Chemical Wash!
-Intern Lucy washed Tundra-3 Dirty to Clean
+Intern Lucy washed PartyBus-3 Dirty to Clean
 The FNCD mechanics are repairing...
-Mechanic James did not fix the Broken Kowasaki-4
-Mechanic James got a bonus of $100.00!
-Mechanic James fixed Fiesta-4 Broken to Used
-Mechanic Scotty did not fix the Broken Kowasaki-4
-Mechanic Scotty did not fix the Used Fiesta-4
-Mechanic Spock got a bonus of $200.00!
-Mechanic Spock fixed Kowasaki-4 Broken to Used
-Mechanic Spock did not fix the Used Fiesta-4
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cayman Broken to Used
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Corvette-2 Broken to Used
+Mechanic Scotty did not fix the Used Cayman
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Corvette-2 Used to LikeNew
+Mechanic Spock did not fix the Used Cayman
+Mechanic Spock did not fix the Broken Europa-4
 The FNCD salespeople are selling...
-The FNCD has 0 buyers today...
-Phoebe(Salesperson) quit.
-Fred has got promoted to Salesperson!
-Vehicles in inventory 24
+The FNCD has 3 buyers today...
+Buyer Chewy-21 wants a PerfCar (NeedsOne)
+Buyer Chewy-21 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Chewy-21 bought Dirty LikeNew Corvette-2 for $105,735.00
+Buyer Chewy-21 added a satellite radio, increasing the price to $111,021.00
+Buyer Luke-22 wants a Boat (WantsOne)
+Buyer Luke-22 decided not to buy.
+Buyer Leia-22 wants a Boat (JustLooking)
+Buyer Leia-22 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 53
 Vehicles sold count 41
-Money in the budget $1,582,234.84
+Money in the budget $2,245,204.78
 That's it for the day.
 >>> End Simulation Day 30 Mon
 

@@ -1,0 +1,40 @@
+>>> Start Simulation Day 22 Fri
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Desi got a bonus of $20.00for Chemical Wash!
+Intern Desi washed Probe-6 Dirty to Clean
+Intern Desi got a bonus of $75.00 for elbow grease wash!
+Intern Desi washed Tesla-x-6 Dirty to Clean
+Intern Fred-2 got a bonus of $75.00for Chemical Wash!
+Intern Fred-2 washed Gravedigger-6 Dirty to Clean
+Intern Fred-2 got a bonus of $100.00for Detailed wash!
+Intern Fred-2 washed Doubledecker-5 Dirty to Clean
+Intern Ethel-2 got a bonus of $75.00for Detailed wash!
+Intern Ethel-2 washed Colorado-3 Dirty to Clean
+Intern Ethel-2 washed Fiesta-3 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James-2 got a bonus of $200.00!
+Mechanic James-2 fixed Colorado-3 Used to LikeNew
+Mechanic James-2 got a bonus of $200.00!
+Mechanic James-2 fixed Colorado-2 Broken to Used
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed Colorado-2 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed Colorado-6 Broken to Used
+Mechanic Uhura-2 did not fix the Used Colorado-6
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Leia-32 wants a Bus (JustLooking)
+Buyer Leia-32 decided not to buy.
+Buyer Han-32 wants a Monstertruck (JustLooking)
+Buyer Han-32 decided not to buy.
+Buyer Chewy-32 wants a PerfCar (NeedsOne)
+Buyer Chewy-32 is buying! Salesperson Ross gets a bonus of $1,000.00!
+Buyer Chewy-32 bought Clean LikeNew Cayman-5 for $78,138.00
+No-one on the staff is leaving!
+Vehicles in inventory 53
+Vehicles sold count 37
+Money in the budget $1,619,706.92
+That's it for the day.
+>>> End Simulation Day 22 Fri
+

@@ -1,24 +1,34 @@
 >>> Start Simulation Day 26 Thur
 The FNCD is opening...
+Bought Escort-3, a Clean LikeNew Car for $14,745.00
+Bought Nissan-leaf-2, a Dirty Used Electric for $18,732.80
 The FNCD interns are washing...
 Intern Fred got a bonus of $75.00 for elbow grease wash!
-Intern Fred washed Gravedigger Dirty to Clean
-Intern Fred washed Corvette-2 Clean to Clean
-Intern Ethel washed Corvette-2 Clean to Clean
-Intern Ethel washed Kowasaki-2 Clean to Clean
-Intern Lucy washed Corvette-2 Clean to Dirty
-Intern Lucy washed Kowasaki-2 Clean to Clean
+Intern Fred washed Harley-3 Dirty to Clean
+Intern Fred got a bonus of $100.00 for elbow grease wash!
+Intern Fred washed Mustang-3 Dirty to Clean
+Intern Ethel got a bonus of $75.00for Detailed wash!
+Intern Ethel washed KTM-3 Dirty to Clean
+Intern Ethel got a bonus of $75.00for Detailed wash!
+Intern Ethel washed Nissan-leaf-2 Dirty to Clean
+Intern Lucy washed Europa-2 Clean to Clean
+Intern Lucy washed F-250 Clean to Clean
 The FNCD mechanics are repairing...
 Mechanic James got a bonus of $200.00!
-Mechanic James fixed Gravedigger Used to LikeNew
+Mechanic James fixed KTM-3 Used to LikeNew
+Mechanic James did not fix the Used Nissan-leaf-2
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Nissan-leaf-2 Used to LikeNew
 The FNCD salespeople are selling...
 The FNCD has 1 buyers today...
-Buyer Luke-16 wants a PerfCar (WantsOne)
-Buyer Luke-16 decided not to buy.
+Buyer Han-18 wants a Pickup (WantsOne)
+Buyer Han-18 is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Han-18 bought Clean LikeNew Tundra-2 for $68,916.00
+Buyer Han-18 added a satellite radio, increasing the price to $72,361.00
 No-one on the staff is leaving!
-Vehicles in inventory 24
-Vehicles sold count 31
-Money in the budget $1,100,584.30
+Vehicles in inventory 53
+Vehicles sold count 35
+Money in the budget $1,909,162.85
 That's it for the day.
 >>> End Simulation Day 26 Thur
 

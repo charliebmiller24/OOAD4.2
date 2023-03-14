@@ -1,48 +1,49 @@
 >>> Start Simulation Day 17 Tue
 The FNCD is opening...
-Bought Fiesta-2, a Dirty Broken Car for $8,330.50
+Bought SchoolBus-3, a Dirty LikeNew Bus for $27,132.00
 The FNCD interns are washing...
-Intern Fred got a bonus of $20.00for Detailed wash!
-Intern Fred washed Taurus-2 Dirty to Clean
-Intern Fred got a bonus of $75.00for Detailed wash!
-Intern Fred washed Yamaha-3 Dirty to Clean
+Intern Fred got a bonus of $75.00for Chemical Wash!
+Intern Fred washed Bigfoot-3 Dirty to Clean
+Intern Fred got a bonus of $100.00for Detailed wash!
+Intern Fred washed Corvette-2 Dirty to Sparkling
+Intern Ethel got a bonus of $75.00for Detailed wash!
+Intern Ethel washed Harley-2 Dirty to Clean
 Intern Ethel got a bonus of $20.00for Detailed wash!
-Intern Ethel washed Fiesta-2 Dirty to Clean
-Intern Ethel got a bonus of $20.00for Detailed Wash!
-Intern Ethel washed Probe Clean to Sparkling
-Intern Lucy got a bonus of $75.00for Detailed Wash!
-Intern Lucy washed Nissan-leaf Clean to Sparkling
-Intern Lucy washed Zombie Clean to Clean
+Intern Ethel washed Taurus-2 Dirty to Clean
+Intern Lucy got a bonus of $100.00for Chemical Wash!
+Intern Lucy washed PartyBus-2 Dirty to Clean
+Intern Lucy washed Diesle-3 Dirty to Dirty
 The FNCD mechanics are repairing...
-Mechanic James got a bonus of $100.00!
-Mechanic James fixed Taurus-2 Used to LikeNew
-Mechanic James got a bonus of $100.00!
-Mechanic James fixed Fiesta-2 Broken to Used
-Mechanic Scotty got a bonus of $100.00!
-Mechanic Scotty fixed Fiesta-2 Used to LikeNew
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Mustang-2 Broken to Used
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed PartyBus-2 Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Mustang-2 Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed PartyBus-2 Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Diesle-3 Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Doubledecker-3 Used to LikeNew
 The FNCD salespeople are selling...
-The FNCD has 4 buyers today...
-Buyer Leia-10 wants a Car (NeedsOne)
-Buyer Leia-10 is buying! Salesperson Rachel gets a bonus of $500.00!
-Buyer Leia-10 bought Dirty LikeNew Fiesta-2 for $31,239.38
-Buyer Han-10 wants a Motercycle (NeedsOne)
-Buyer Han-10 is buying! Salesperson Phoebe gets a bonus of $750.00!
-Buyer Han-10 bought Clean LikeNew KTM-2 for $62,502.00
-Buyer Han-10 added an extended warrenty, increasing the price to $75,002.00
-Buyer Han-10 added an undercoating, increasing the price to $78,752.00
-Buyer Han-10 added a road rescue coverage, increasing the price to $80,327.00
-Buyer Chewy-10 wants a Motercycle (JustLooking)
-Buyer Chewy-10 is buying! Salesperson Phoebe gets a bonus of $750.00!
-Buyer Chewy-10 bought Clean LikeNew Yamaha-3 for $43,586.00
-Buyer Chewy-10 added a satellite radio, increasing the price to $45,765.00
-Buyer Luke-11 wants a Motercycle (NeedsOne)
-Buyer Luke-11 is buying! Salesperson Phoebe gets a bonus of $750.00!
-Buyer Luke-11 bought Clean LikeNew Harley-2 for $29,628.00
-Buyer Luke-11 added an extended warrenty, increasing the price to $35,553.00
+The FNCD has 5 buyers today...
+Buyer Leia-10 wants a Pickup (JustLooking)
+Buyer Leia-10 decided not to buy.
+Buyer Han-10 wants a PerfCar (JustLooking)
+Buyer Han-10 decided not to buy.
+Buyer Chewy-10 wants a Semi (NeedsOne)
+Buyer Chewy-10 decided not to buy.
+Buyer Luke-11 wants a PerfCar (JustLooking)
+Buyer Luke-11 decided not to buy.
+Buyer Leia-11 wants a Monstertruck (NeedsOne)
+Buyer Leia-11 is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Leia-11 bought Clean LikeNew Zombie-2 for $145,216.50
+Buyer Leia-11 added a satellite radio, increasing the price to $152,477.00
 No-one on the staff is leaving!
-Vehicles in inventory 20
-Vehicles sold count 22
-Money in the budget $925,983.02
+Vehicles in inventory 53
+Vehicles sold count 17
+Money in the budget $979,303.92
 That's it for the day.
 >>> End Simulation Day 17 Tue
 

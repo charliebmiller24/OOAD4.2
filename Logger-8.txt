@@ -1,9 +1,8 @@
 >>> Start Simulation Day 8 Sun
 The FNCD drivers are racing...
-Driver Carl finished in 1 place with Yamaha-2 Motercycle
-Driver Carl got a bonus of $200.00!
-Driver Fredrick finished in 18 place with KTM Motercycle
-Driver Momo finished in 7 place with Harley Motercycle
+Driver Momo finished in 16 place with Zombie-2 Monstertruck
+Driver Carl finished in 15 place with Gravedigger Monstertruck
+No more Monstertruck vehicles
 Sorry, FNCD is closed on Sun
 >>> End Simulation Day 8 Sun
 

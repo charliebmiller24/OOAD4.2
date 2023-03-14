@@ -1,0 +1,36 @@
+>>> Start Simulation Day 8 Thur
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred washed Nissan-leaf Dirty to Dirty
+Intern Fred got a bonus of $75.00for Chemical Wash!
+Intern Fred washed tesla-y-2 Dirty to Clean
+Intern Ethel got a bonus of $75.00for Chemical Wash!
+Intern Ethel washed Nissan-leaf Dirty to Clean
+Intern Ethel got a bonus of $75.00for Detailed wash!
+Intern Ethel washed Yamaha Dirty to Clean
+Intern Lucy got a bonus of $75.00for Chemical Wash!
+Intern Lucy washed Kowasaki Dirty to Clean
+Intern Lucy got a bonus of $75.00for Chemical Wash!
+Intern Lucy washed Harley Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Zombie Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Gravedigger Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Gravedigger Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Avenger Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Avenger Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Bigfoot-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+No-one on the staff is leaving!
+Vehicles in inventory 54
+Vehicles sold count 5
+Money in the budget $371,116.80
+That's it for the day.
+>>> End Simulation Day 8 Thur
+

@@ -1,0 +1,48 @@
+>>> Start Simulation Day 21 Wed
+The FNCD drivers are racing...
+Driver PJ-2 finished in 17 place with Colorado-3 Pickup
+Driver PJ-2 got injured in todays race.
+Driver Momo-4 finished in 17 place with Colorado-2 Pickup
+Driver PJ-4 finished in 4 place with Tundra-2 Pickup
+The FNCD is opening...
+Hired a new Driver named Momo-5
+Hired a new Driver named Carl-5
+Bought Colorado-6, a Sparkling Broken Pickup for $13,863.50
+The FNCD interns are washing...
+Intern Desi washed Tundra-5 Dirty to Dirty
+Intern Desi got a bonus of $100.00for Detailed wash!
+Intern Desi washed PartyBus-4 Dirty to Sparkling
+Intern Fred-2 got a bonus of $75.00for Chemical Wash!
+Intern Fred-2 washed Tundra-5 Dirty to Clean
+Intern Fred-2 got a bonus of $75.00for Chemical Wash!
+Intern Fred-2 washed Ford-electric-5 Dirty to Clean
+Intern Ethel-2 got a bonus of $100.00for Chemical Wash!
+Intern Ethel-2 washed Cayman-5 Dirty to Clean
+Intern Ethel-2 got a bonus of $75.00 for elbow grease wash!
+Intern Ethel-2 washed Zombie-6 Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James-2 got a bonus of $100.00!
+Mechanic James-2 fixed Probe-6 Used to LikeNew
+Mechanic James-2 got a bonus of $200.00!
+Mechanic James-2 fixed Tesla-x-6 Broken to Used
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed Tesla-x-6 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed Gravedigger-6 Broken to Used
+Mechanic Uhura-2 got a bonus of $200.00!
+Mechanic Uhura-2 fixed Gravedigger-6 Used to LikeNew
+Mechanic Uhura-2 got a bonus of $200.00!
+Mechanic Uhura-2 fixed Colorado-3 Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Han-31 wants a PerfCar (JustLooking)
+Buyer Han-31 decided not to buy.
+Buyer Chewy-31 wants a Boat (NeedsOne)
+Buyer Chewy-31 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 54
+Vehicles sold count 36
+Money in the budget $1,542,828.92
+That's it for the day.
+>>> End Simulation Day 21 Wed
+

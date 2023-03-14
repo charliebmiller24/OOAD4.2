@@ -1,0 +1,8 @@
+>>> Start Simulation Day 16 Sun
+The FNCD drivers are racing...
+Driver PJ-2 finished in 12 place with Colorado-4 Pickup
+Driver PJ-4 finished in 9 place with Colorado-2 Pickup
+Driver Momo-2 finished in 10 place with Tundra-3 Pickup
+Sorry, FNCD is closed on Sun
+>>> End Simulation Day 16 Sun
+

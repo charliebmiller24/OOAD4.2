@@ -1,0 +1,40 @@
+>>> Start Simulation Day 17 Mon
+The FNCD is opening...
+Bought Harley-5, a Dirty LikeNew Motercycle for $15,039.00
+Bought Bigfoot-6, a Clean LikeNew Monstertruck for $43,912.00
+Bought Fishing-Boat-4, a Dirty LikeNew Boat for $36,555.00
+Bought SchoolBus-4, a Clean Broken Bus for $19,710.50
+The FNCD interns are washing...
+Intern Fred got a bonus of $100.00 for elbow grease wash!
+Intern Fred washed FlatBed-4 Dirty to Clean
+Intern Fred got a bonus of $75.00for Chemical Wash!
+Intern Fred washed Zombie-5 Dirty to Clean
+Intern Ethel got a bonus of $100.00for Chemical Wash!
+Intern Ethel washed Doubledecker-4 Dirty to Clean
+Intern Ethel got a bonus of $100.00for Chemical Wash!
+Intern Ethel washed BigRig-5 Dirty to Clean
+Intern Lucy got a bonus of $75.00 for elbow grease wash!
+Intern Lucy washed tesla-y-5 Dirty to Clean
+Intern Lucy got a bonus of $100.00for Chemical Wash!
+Intern Lucy washed Corvette-4 Dirty to Sparkling
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed BigRig-5 Broken to Used
+Mechanic James did not fix the Broken Gravedigger
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed BigRig-5 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Gravedigger Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Gravedigger Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Tesla-x-5 Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+No-one on the staff is leaving!
+Vehicles in inventory 54
+Vehicles sold count 25
+Money in the budget $1,337,375.40
+That's it for the day.
+>>> End Simulation Day 17 Mon
+

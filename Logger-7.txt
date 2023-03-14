@@ -1,48 +1,42 @@
 >>> Start Simulation Day 7 Sat
 The FNCD is opening...
-Bought Tesla-x-2, a Dirty Used Electric for $31,792.00
-Bought tesla-y-2, a Dirty Broken Electric for $16,243.00
-Bought Ford-electric-2, a Clean Broken Electric for $12,044.50
+Bought Avenger-2, a Clean Used Monstertruck for $26,440.00
+Bought Fishing-Boat-2, a Dirty Broken Boat for $15,369.50
+Bought VWBus-2, a Clean Used Bus for $24,320.00
 The FNCD interns are washing...
-Intern Fred got a bonus of $75.00for Detailed wash!
-Intern Fred washed KTM Dirty to Sparkling
-Intern Fred got a bonus of $75.00 for elbow grease wash!
-Intern Fred washed Gravedigger Dirty to Clean
-Intern Ethel got a bonus of $75.00for Detailed wash!
-Intern Ethel washed Avenger Dirty to Sparkling
-Intern Ethel washed Ranger-2 Dirty to Dirty
-Intern Lucy got a bonus of $75.00for Chemical Wash!
-Intern Lucy washed Ranger-2 Dirty to Clean
-Intern Lucy got a bonus of $75.00for Detailed wash!
-Intern Lucy washed F-250-2 Dirty to Clean
+Intern Fred got a bonus of $75.00for Chemical Wash!
+Intern Fred washed Tundra Dirty to Clean
+Intern Fred washed F-250-2 Dirty to Dirty
+Intern Ethel got a bonus of $75.00for Chemical Wash!
+Intern Ethel washed F-250-2 Dirty to Clean
+Intern Ethel got a bonus of $75.00for Chemical Wash!
+Intern Ethel washed Tesla-x Dirty to Clean
+Intern Lucy got a bonus of $75.00 for elbow grease wash!
+Intern Lucy washed tesla-y Dirty to Sparkling
+Intern Lucy washed Ford-electric Dirty to Dirty
 The FNCD mechanics are repairing...
 Mechanic James got a bonus of $200.00!
-Mechanic James fixed Gravedigger Used to LikeNew
+Mechanic James fixed Yamaha Broken to Used
 Mechanic James got a bonus of $200.00!
-Mechanic James fixed Ranger-2 Broken to Used
+Mechanic James fixed Kowasaki Used to LikeNew
 Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Ranger-2 Used to LikeNew
+Mechanic Scotty fixed Yamaha Used to LikeNew
 Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Yamaha Broken to Used
-Mechanic Spock got a bonus of $200.00!
-Mechanic Spock fixed Yamaha Used to LikeNew
+Mechanic Scotty fixed Harley Broken to Used
 Mechanic Spock got a bonus of $200.00!
 Mechanic Spock fixed Harley Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Yamaha-2 Broken to Used
 The FNCD salespeople are selling...
-The FNCD has 3 buyers today...
-Buyer Luke-4 wants a Electric (NeedsOne)
-Buyer Luke-4 decided not to buy.
-Buyer Leia-4 wants a Car (WantsOne)
-Buyer Leia-4 decided not to buy.
-Buyer Han-4 wants a Pickup (WantsOne)
-Buyer Han-4 is buying! Salesperson Rachel gets a bonus of $750.00!
-Buyer Han-4 bought Clean LikeNew F-250 for $72,849.38
-Buyer Han-4 added an extended warrenty, increasing the price to $87,419.00
-Buyer Han-4 added a satellite radio, increasing the price to $91,789.00
+The FNCD has 2 buyers today...
+Buyer Leia-3 wants a PerfCar (JustLooking)
+Buyer Leia-3 decided not to buy.
+Buyer Han-3 wants a Monstertruck (JustLooking)
+Buyer Han-3 decided not to buy.
 No-one on the staff is leaving!
-Vehicles in inventory 23
+Vehicles in inventory 54
 Vehicles sold count 6
-Money in the budget $324,466.25
+Money in the budget $415,255.80
 That's it for the day.
 >>> End Simulation Day 7 Sat
 

@@ -1,0 +1,39 @@
+>>> Start Simulation Day 4 Wed
+The FNCD drivers are racing...
+No more Monstertruck vehicles
+The FNCD is opening...
+Bought Tesla-x-4, a Dirty LikeNew Electric for $30,643.00
+Bought Yamaha-4, a Clean Broken Motercycle for $11,263.00
+Bought Zombie-4, a Clean LikeNew Monstertruck for $34,534.00
+The FNCD interns are washing...
+Intern Fred got a bonus of $100.00for Detailed wash!
+Intern Fred washed Europa Dirty to Clean
+Intern Fred got a bonus of $100.00for Detailed wash!
+Intern Fred washed Corvette Dirty to Clean
+Intern Ethel got a bonus of $100.00for Chemical Wash!
+Intern Ethel washed Mustang Dirty to Clean
+Intern Ethel got a bonus of $100.00 for elbow grease wash!
+Intern Ethel washed Europa-2 Dirty to Clean
+Intern Lucy washed Colorado Dirty to Dirty
+Intern Lucy got a bonus of $75.00for Chemical Wash!
+Intern Lucy washed Ranger-2 Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Corvette Used to LikeNew
+Mechanic James did not fix the Used Cayman-2
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Cayman-2 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Ranger Used to LikeNew
+Mechanic Spock did not fix the Broken Colorado
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Ranger-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+No-one on the staff is leaving!
+Vehicles in inventory 54
+Vehicles sold count 3
+Money in the budget $271,799.90
+That's it for the day.
+>>> End Simulation Day 4 Wed
+

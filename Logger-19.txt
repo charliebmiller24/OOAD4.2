@@ -1,27 +1,36 @@
 >>> Start Simulation Day 19 Thur
 The FNCD is opening...
+Bought Ford-electric-2, a Dirty Used Electric for $21,161.60
+Bought Kowasaki-3, a Clean Used Motercycle for $31,564.80
+Bought TeslaTrcuk-3, a Clean Broken Semi for $22,804.00
 The FNCD interns are washing...
-Intern Fred washed Europa-3 Dirty to Dirty
-Intern Fred got a bonus of $75.00for Detailed wash!
-Intern Fred washed Kowasaki-3 Dirty to Clean
-Intern Ethel washed Europa-3 Dirty to Dirty
-Intern Ethel got a bonus of $75.00 for elbow grease wash!
-Intern Ethel washed KTM-3 Dirty to Clean
-Intern Lucy got a bonus of $100.00for Detailed wash!
-Intern Lucy washed Europa-3 Dirty to Clean
-Intern Lucy washed tesla-y-2 Clean to Clean
+Intern Fred washed Row-boat-2 Dirty to Dirty
+Intern Fred got a bonus of $100.00for Chemical Wash!
+Intern Fred washed SpeedBoat-3 Dirty to Clean
+Intern Ethel got a bonus of $100.00 for elbow grease wash!
+Intern Ethel washed Row-boat-2 Dirty to Clean
+Intern Ethel got a bonus of $100.00 for elbow grease wash!
+Intern Ethel washed SchoolBus-3 Dirty to Clean
+Intern Lucy got a bonus of $75.00for Chemical Wash!
+Intern Lucy washed Bigfoot-3 Dirty to Clean
+Intern Lucy washed Zombie-3 Dirty to Dirty
 The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Bigfoot-3 Used to LikeNew
+Mechanic James did not fix the Broken Zombie-3
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Zombie-3 Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Gravedigger-3 Used to LikeNew
+Mechanic Spock did not fix the Used Zombie-3
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Ford-electric-2 Used to LikeNew
 The FNCD salespeople are selling...
-The FNCD has 1 buyers today...
-Buyer Han-11 wants a Car (JustLooking)
-Buyer Han-11 is buying! Salesperson Rachel gets a bonus of $500.00!
-Buyer Han-11 bought Clean LikeNew Probe-3 for $34,680.00
-Buyer Han-11 added an extended warrenty, increasing the price to $41,616.00
-Buyer Han-11 added a satellite radio, increasing the price to $43,696.00
+The FNCD has 0 buyers today...
 No-one on the staff is leaving!
-Vehicles in inventory 23
-Vehicles sold count 23
-Money in the budget $834,591.02
+Vehicles in inventory 54
+Vehicles sold count 20
+Money in the budget $1,136,090.12
 That's it for the day.
 >>> End Simulation Day 19 Thur
 

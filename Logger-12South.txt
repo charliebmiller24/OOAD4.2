@@ -1,0 +1,53 @@
+>>> Start Simulation Day 12 Sat
+The FNCD is opening...
+Bought Fiesta-4, a Dirty LikeNew Car for $12,355.00
+The FNCD interns are washing...
+Intern Desi washed Fishing-Boat-2 Dirty to Dirty
+Intern Desi got a bonus of $100.00for Chemical Wash!
+Intern Desi washed SpeedBoat-3 Dirty to Clean
+Intern Fred-2 got a bonus of $100.00for Detailed wash!
+Intern Fred-2 washed Fishing-Boat-2 Dirty to Clean
+Intern Fred-2 got a bonus of $100.00for Chemical Wash!
+Intern Fred-2 washed Fishing-Boat-3 Dirty to Clean
+Intern Ethel-2 got a bonus of $100.00for Detailed wash!
+Intern Ethel-2 washed VWBus-2 Dirty to Clean
+Intern Ethel-2 got a bonus of $100.00for Chemical Wash!
+Intern Ethel-2 washed PartyBus-2 Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Yacht-3 Used to LikeNew
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed VWBus-2 Used to LikeNew
+Mechanic James-2 did not fix the Broken Doubledecker-3
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed PartyBus-3 Broken to Used
+Mechanic Scotty-2 did not fix the Broken Doubledecker-3
+Mechanic Scotty-2 got a bonus of $300.00!
+Mechanic Scotty-2 fixed PartyBus-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 7 buyers today...
+Buyer Chewy-17 wants a Monstertruck (NeedsOne)
+Buyer Chewy-17 is buying! Salesperson Joey gets a bonus of $750.00!
+Buyer Chewy-17 bought Clean LikeNew Avenger-2 for $93,086.25
+Buyer Chewy-17 added an undercoating, increasing the price to $97,740.00
+Buyer Chewy-17 added a satellite radio, increasing the price to $102,627.00
+Buyer Luke-18 wants a PerfCar (JustLooking)
+Buyer Luke-18 decided not to buy.
+Buyer Leia-18 wants a Semi (WantsOne)
+Buyer Leia-18 decided not to buy.
+Buyer Han-18 wants a Boat (JustLooking)
+Buyer Han-18 decided not to buy.
+Buyer Chewy-18 wants a Semi (JustLooking)
+Buyer Chewy-18 decided not to buy.
+Buyer Luke-19 wants a Boat (JustLooking)
+Buyer Luke-19 decided not to buy.
+Buyer Leia-19 wants a Motercycle (NeedsOne)
+Buyer Leia-19 is buying! Salesperson Ross gets a bonus of $750.00!
+Buyer Leia-19 bought Dirty LikeNew Kowasaki-4 for $61,286.00
+No-one on the staff is leaving!
+Vehicles in inventory 52
+Vehicles sold count 20
+Money in the budget $1,004,151.60
+That's it for the day.
+>>> End Simulation Day 12 Sat
+

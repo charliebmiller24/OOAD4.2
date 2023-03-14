@@ -1,0 +1,53 @@
+>>> Start Simulation Day 10 Mon
+The FNCD is opening...
+Bought F-250-4, a Dirty Used Pickup for $17,141.60
+Bought Nissan-leaf-4, a Dirty Broken Electric for $11,040.50
+Bought Harley-4, a Clean LikeNew Motercycle for $16,207.00
+Bought FlatBed-4, a Clean Broken Semi for $15,954.00
+Bought Diesle-5, a Clean LikeNew Semi for $44,328.00
+The FNCD interns are washing...
+Intern Fred got a bonus of $75.00 for elbow grease wash!
+Intern Fred washed Bigfoot-2 Dirty to Clean
+Intern Fred got a bonus of $100.00for Detailed wash!
+Intern Fred washed SpeedBoat Dirty to Clean
+Intern Ethel got a bonus of $100.00for Detailed wash!
+Intern Ethel washed Yacht Dirty to Sparkling
+Intern Ethel got a bonus of $100.00 for elbow grease wash!
+Intern Ethel washed Fishing-Boat Dirty to Clean
+Intern Lucy got a bonus of $100.00 for elbow grease wash!
+Intern Lucy washed Row-boat Dirty to Clean
+Intern Lucy got a bonus of $100.00for Detailed wash!
+Intern Lucy washed SpeedBoat-2 Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed SpeedBoat-2 Used to LikeNew
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Doubledecker Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Doubledecker Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed SchoolBus Broken to Used
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed SchoolBus Used to LikeNew
+Mechanic Spock did not fix the Broken VWBus
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Leia-14 wants a Bus (NeedsOne)
+Buyer Leia-14 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Leia-14 bought Dirty Used SchoolBus-2 for $57,528.00
+Buyer Leia-14 added an undercoating, increasing the price to $60,404.00
+Buyer Han-14 wants a Bus (NeedsOne)
+Buyer Han-14 decided not to buy.
+Buyer Chewy-14 wants a Car (WantsOne)
+Buyer Chewy-14 decided not to buy.
+Buyer Luke-15 wants a Monstertruck (NeedsOne)
+Buyer Luke-15 decided not to buy.
+Buyer Leia-15 wants a Boat (WantsOne)
+Buyer Leia-15 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 53
+Vehicles sold count 11
+Money in the budget $734,752.70
+That's it for the day.
+>>> End Simulation Day 10 Mon
+

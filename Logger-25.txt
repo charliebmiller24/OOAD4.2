@@ -1,35 +1,54 @@
 >>> Start Simulation Day 25 Wed
 The FNCD drivers are racing...
-Driver Fredrick-3 finished in 14 place with Zombie-2 Monstertruck
-Driver Momo-3 finished in 16 place with Gravedigger Monstertruck
-Driver Momo-3 got injured in todays race.
-Driver PJ-3 finished in 7 place with Bigfoot Monstertruck
+Driver Fredrick-3 finished in 17 place with Harley-3 Motercycle
+Driver PJ-2 finished in 3 place with Yamaha Motercycle
+Driver PJ-2 got a bonus of $200.00!
+Driver Carl-2 finished in 7 place with Yamaha-3 Motercycle
 The FNCD is opening...
-Hired a new Driver named Carl-3
-Hired a new Driver named Fredrick-4
-Bought Gravedigger-2, a Clean LikeNew Monstertruck for $35,717.00
+Hired a new Driver named PJ-3
+Bought Mustang-3, a Clean Used PerfCar for $26,112.80
+Bought KTM-3, a Dirty Broken Motercycle for $19,400.50
 The FNCD interns are washing...
-Intern Fred got a bonus of $20.00for Chemical Wash!
-Intern Fred washed Fiesta-3 Dirty to Clean
-Intern Fred got a bonus of $75.00for Chemical Wash!
-Intern Fred washed Nissan-leaf-2 Dirty to Clean
-Intern Ethel washed Yamaha-4 Dirty to Dirty
-Intern Ethel washed tesla-y-2 Clean to Clean
-Intern Lucy got a bonus of $75.00 for elbow grease wash!
-Intern Lucy washed Yamaha-4 Dirty to Clean
-Intern Lucy got a bonus of $75.00for Elbow grease Wash!
-Intern Lucy washed tesla-y-2 Clean to Sparkling
+Intern Fred got a bonus of $100.00for Detailed wash!
+Intern Fred washed BigRig-3 Dirty to Clean
+Intern Fred got a bonus of $20.00 for elbow grease wash!
+Intern Fred washed Probe-3 Dirty to Clean
+Intern Ethel got a bonus of $100.00for Detailed wash!
+Intern Ethel washed Yacht-3 Dirty to Clean
+Intern Ethel got a bonus of $100.00 for elbow grease wash!
+Intern Ethel washed FlatBed-3 Dirty to Clean
+Intern Lucy washed KTM-3 Dirty to Dirty
+Intern Lucy washed Escort-2 Clean to Dirty
 The FNCD mechanics are repairing...
-Mechanic James did not fix the Broken Gravedigger
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Harley-3 Broken to Used
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Mustang-3 Used to LikeNew
 Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Gravedigger Broken to Used
-Mechanic Spock did not fix the Used Gravedigger
+Mechanic Scotty fixed Harley-3 Used to LikeNew
+Mechanic Scotty did not fix the Broken KTM-3
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed KTM-3 Broken to Used
 The FNCD salespeople are selling...
-The FNCD has 0 buyers today...
+The FNCD has 5 buyers today...
+Buyer Leia-17 wants a Car (NeedsOne)
+Buyer Leia-17 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Leia-17 bought Dirty LikeNew Escort-2 for $28,562.00
+Buyer Han-17 wants a Electric (WantsOne)
+Buyer Han-17 is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Han-17 bought Clean LikeNew Nissan-leaf for $74,156.00
+Buyer Han-17 added an undercoating, increasing the price to $77,863.00
+Buyer Han-17 added a satellite radio, increasing the price to $81,756.00
+Buyer Chewy-17 wants a Monstertruck (WantsOne)
+Buyer Chewy-17 decided not to buy.
+Buyer Luke-18 wants a Motercycle (WantsOne)
+Buyer Luke-18 decided not to buy.
+Buyer Leia-18 wants a Monstertruck (WantsOne)
+Buyer Leia-18 decided not to buy.
 No-one on the staff is leaving!
-Vehicles in inventory 24
-Vehicles sold count 31
-Money in the budget $1,101,844.30
+Vehicles in inventory 52
+Vehicles sold count 34
+Money in the budget $1,871,539.65
 That's it for the day.
 >>> End Simulation Day 25 Wed
 

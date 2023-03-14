@@ -1,0 +1,40 @@
+>>> Start Simulation Day 6 Mon
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Desi got a bonus of $75.00 for elbow grease wash!
+Intern Desi washed Ranger-3 Dirty to Clean
+Intern Desi got a bonus of $75.00for Chemical Wash!
+Intern Desi washed Colorado-3 Dirty to Clean
+Intern Fred-2 got a bonus of $75.00for Detailed wash!
+Intern Fred-2 washed Tundra-3 Dirty to Sparkling
+Intern Fred-2 got a bonus of $75.00for Chemical Wash!
+Intern Fred-2 washed Ford-electric-2 Dirty to Sparkling
+Intern Ethel-2 got a bonus of $75.00for Detailed wash!
+Intern Ethel-2 washed Tesla-x-3 Dirty to Clean
+Intern Ethel-2 got a bonus of $75.00for Detailed wash!
+Intern Ethel-2 washed tesla-y-3 Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic Uhura did not fix the Used Tundra-3
+Mechanic Uhura did not fix the Used Nissan-leaf-2
+Mechanic James-2 did not fix the Used Tundra-3
+Mechanic James-2 got a bonus of $200.00!
+Mechanic James-2 fixed Nissan-leaf-2 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed Tundra-3 Used to LikeNew
+Mechanic Scotty-2 did not fix the Broken tesla-y-3
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Han-8 wants a PerfCar (JustLooking)
+Buyer Han-8 decided not to buy.
+Buyer Chewy-8 wants a Boat (NeedsOne)
+Buyer Chewy-8 is buying! Salesperson Joey gets a bonus of $1,000.00!
+Buyer Chewy-8 bought Clean Used Row-boat-3 for $44,396.80
+Buyer Luke-9 wants a Pickup (WantsOne)
+Buyer Luke-9 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 53
+Vehicles sold count 6
+Money in the budget $355,161.60
+That's it for the day.
+>>> End Simulation Day 6 Mon
+

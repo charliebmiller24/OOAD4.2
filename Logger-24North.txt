@@ -1,0 +1,45 @@
+>>> Start Simulation Day 24 Mon
+The FNCD is opening...
+Bought Fiesta-6, a Clean Used Car for $10,230.40
+Bought Zombie-7, a Dirty Broken Monstertruck for $18,988.00
+The FNCD interns are washing...
+Intern Fred got a bonus of $20.00for Detailed wash!
+Intern Fred washed Escort Dirty to Clean
+Intern Fred got a bonus of $75.00 for elbow grease wash!
+Intern Fred washed Tundra-6 Dirty to Clean
+Intern Ethel washed Zombie-7 Dirty to Dirty
+Intern Ethel washed Escort Clean to Clean
+Intern Lucy got a bonus of $75.00for Detailed wash!
+Intern Lucy washed Zombie-7 Dirty to Clean
+Intern Lucy washed Escort Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Fiesta-6 Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Zombie-7 Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Zombie-7 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Luke-35 wants a Motercycle (NeedsOne)
+Buyer Luke-35 decided not to buy.
+Buyer Leia-35 wants a Bus (WantsOne)
+Buyer Leia-35 is buying! Salesperson Monica-2 gets a bonus of $1,000.00!
+Buyer Leia-35 bought Clean LikeNew SchoolBus-4 for $73,914.38
+Buyer Han-35 wants a Car (NeedsOne)
+Buyer Han-35 is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Han-35 bought Clean LikeNew Probe-5 for $28,442.00
+Buyer Han-35 added a satellite radio, increasing the price to $29,864.00
+Buyer Chewy-35 wants a Boat (WantsOne)
+Buyer Chewy-35 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Chewy-35 bought Clean LikeNew Fishing-Boat-4 for $73,110.00
+Buyer Chewy-35 added a satellite radio, increasing the price to $76,765.00
+Buyer Luke-36 wants a Car (WantsOne)
+Buyer Luke-36 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 51
+Vehicles sold count 37
+Money in the budget $1,936,664.73
+That's it for the day.
+>>> End Simulation Day 24 Mon
+

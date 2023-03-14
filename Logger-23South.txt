@@ -1,0 +1,8 @@
+>>> Start Simulation Day 23 Sun
+The FNCD drivers are racing...
+Driver Momo-5 finished in 15 place with Harley-2 Motercycle
+Driver Momo-4 finished in 8 place with KTM-3 Motercycle
+Driver Carl-5 finished in 18 place with KTM-5 Motercycle
+Sorry, FNCD is closed on Sun
+>>> End Simulation Day 23 Sun
+

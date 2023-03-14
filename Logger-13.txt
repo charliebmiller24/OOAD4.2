@@ -1,41 +1,42 @@
 >>> Start Simulation Day 13 Fri
 The FNCD is opening...
-Bought Corvette-2, a Dirty Used PerfCar for $23,370.40
-Bought Mustang-2, a Clean Broken PerfCar for $12,045.50
 The FNCD interns are washing...
-Intern Fred got a bonus of $20.00for Detailed wash!
-Intern Fred washed Probe-2 Dirty to Sparkling
 Intern Fred got a bonus of $100.00for Chemical Wash!
-Intern Fred washed Cayman-2 Dirty to Clean
-Intern Ethel washed Corvette-2 Dirty to Dirty
-Intern Ethel washed Probe Clean to Clean
-Intern Lucy got a bonus of $100.00for Chemical Wash!
-Intern Lucy washed Corvette-2 Dirty to Clean
-Intern Lucy washed Probe Clean to Dirty
+Intern Fred washed PartyBus Dirty to Clean
+Intern Fred washed Doubledecker-2 Dirty to Dirty
+Intern Ethel got a bonus of $100.00for Chemical Wash!
+Intern Ethel washed Doubledecker-2 Dirty to Clean
+Intern Ethel got a bonus of $100.00for Chemical Wash!
+Intern Ethel washed FlatBed Dirty to Clean
+Intern Lucy washed Diesle-2 Dirty to Dirty
+Intern Lucy got a bonus of $75.00 for elbow grease wash!
+Intern Lucy washed Colorado-2 Dirty to Clean
 The FNCD mechanics are repairing...
-Mechanic James got a bonus of $300.00!
-Mechanic James fixed Cayman-2 Used to LikeNew
-Mechanic James got a bonus of $300.00!
-Mechanic James fixed Corvette-2 Used to LikeNew
+Mechanic James did not fix the Used BigRig-2
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Gravedigger-2 Broken to Used
 Mechanic Scotty got a bonus of $300.00!
-Mechanic Scotty fixed Mustang-2 Broken to Used
-Mechanic Spock did not fix the Used Mustang-2
+Mechanic Scotty fixed BigRig-2 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Gravedigger-2 Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed FlatBed-2 Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Avenger-2 Used to LikeNew
 The FNCD salespeople are selling...
-The FNCD has 4 buyers today...
-Buyer Leia-7 wants a Pickup (JustLooking)
-Buyer Leia-7 decided not to buy.
-Buyer Han-7 wants a Monstertruck (NeedsOne)
-Buyer Han-7 is buying! Salesperson Monica gets a bonus of $750.00!
-Buyer Han-7 bought Sparkling LikeNew Avenger for $92,982.00
-Buyer Chewy-7 wants a Car (WantsOne)
-Buyer Chewy-7 is buying! Salesperson Phoebe gets a bonus of $500.00!
-Buyer Chewy-7 bought Clean LikeNew Escort for $32,352.00
-Buyer Luke-8 wants a Car (JustLooking)
-Buyer Luke-8 decided not to buy.
+The FNCD has 3 buyers today...
+Buyer Luke-7 wants a Boat (WantsOne)
+Buyer Luke-7 decided not to buy.
+Buyer Leia-7 wants a Motercycle (WantsOne)
+Buyer Leia-7 is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Leia-7 bought Clean LikeNew Kowasaki for $55,426.00
+Buyer Leia-7 added a satellite radio, increasing the price to $58,197.00
+Buyer Han-7 wants a Pickup (JustLooking)
+Buyer Han-7 decided not to buy.
 No-one on the staff is leaving!
-Vehicles in inventory 22
-Vehicles sold count 15
-Money in the budget $734,404.47
+Vehicles in inventory 53
+Vehicles sold count 13
+Money in the budget $706,818.60
 That's it for the day.
 >>> End Simulation Day 13 Fri
 

@@ -1,0 +1,38 @@
+>>> Start Simulation Day 3 Tue
+The FNCD is opening...
+Hired a new Driver named Momo-2
+Bought Probe-4, a Clean Broken Car for $5,623.00
+Bought Escort-4, a Clean Broken Car for $8,852.00
+Bought Taurus-4, a Dirty LikeNew Car for $10,723.00
+Bought Bigfoot-4, a Dirty Used Monstertruck for $34,710.40
+Bought SpeedBoat-4, a Dirty Broken Boat for $17,511.00
+The FNCD interns are washing...
+Intern Desi washed Taurus-3 Dirty to Dirty
+Intern Desi washed Fiesta-3 Dirty to Dirty
+Intern Fred-2 got a bonus of $20.00for Chemical Wash!
+Intern Fred-2 washed Taurus-3 Dirty to Sparkling
+Intern Fred-2 washed Fiesta-3 Dirty to Dirty
+Intern Ethel-2 got a bonus of $20.00for Chemical Wash!
+Intern Ethel-2 washed Fiesta-3 Dirty to Clean
+Intern Ethel-2 got a bonus of $100.00 for elbow grease wash!
+Intern Ethel-2 washed Mustang-2 Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic Uhura got a bonus of $100.00!
+Mechanic Uhura fixed Fiesta-3 Used to LikeNew
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Europa-3 Used to LikeNew
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Corvette-3 Used to LikeNew
+Mechanic James-2 did not fix the Used Mustang-3
+Mechanic Scotty-2 got a bonus of $300.00!
+Mechanic Scotty-2 fixed Mustang-3 Used to LikeNew
+Mechanic Scotty-2 did not fix the Broken Colorado-2
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+No-one on the staff is leaving!
+Vehicles in inventory 54
+Vehicles sold count 4
+Money in the budget $272,418.00
+That's it for the day.
+>>> End Simulation Day 3 Tue
+

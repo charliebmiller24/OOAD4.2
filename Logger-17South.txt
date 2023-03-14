@@ -1,0 +1,53 @@
+>>> Start Simulation Day 17 Tue
+The FNCD is opening...
+Hired a new Driver named Momo-4
+Bought Fiesta-5, a Clean Broken Car for $5,802.00
+Bought Mustang-4, a Dirty Used PerfCar for $29,281.60
+Bought Tundra-5, a Dirty Broken Pickup for $6,132.00
+Bought KTM-5, a Dirty LikeNew Motercycle for $15,184.00
+Bought VWBus-4, a Dirty LikeNew Bus for $24,085.00
+Bought PartyBus-4, a Dirty Used Bus for $18,426.40
+The FNCD interns are washing...
+Intern Desi got a bonus of $100.00for Detailed wash!
+Intern Desi washed SpeedBoat-4 Dirty to Sparkling
+Intern Desi washed tesla-y-4 Dirty to Dirty
+Intern Fred-2 got a bonus of $75.00 for elbow grease wash!
+Intern Fred-2 washed tesla-y-4 Dirty to Clean
+Intern Fred-2 got a bonus of $75.00for Detailed wash!
+Intern Fred-2 washed Ford-electric-4 Dirty to Clean
+Intern Ethel-2 got a bonus of $100.00 for elbow grease wash!
+Intern Ethel-2 washed BigRig-4 Dirty to Clean
+Intern Ethel-2 got a bonus of $75.00for Detailed wash!
+Intern Ethel-2 washed KTM-4 Dirty to Sparkling
+The FNCD mechanics are repairing...
+Mechanic James-2 got a bonus of $200.00!
+Mechanic James-2 fixed Ford-electric-4 Used to LikeNew
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed BigRig-4 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed KTM-4 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed Bigfoot-5 Used to LikeNew
+Mechanic Uhura-2 got a bonus of $200.00!
+Mechanic Uhura-2 fixed Gravedigger-5 Used to LikeNew
+Mechanic Uhura-2 did not fix the Broken Tundra-2
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Han-25 wants a Car (WantsOne)
+Buyer Han-25 decided not to buy.
+Buyer Chewy-25 wants a Electric (NeedsOne)
+Buyer Chewy-25 is buying! Salesperson Joey gets a bonus of $750.00!
+Buyer Chewy-25 bought Dirty LikeNew Ford-electric-4 for $64,882.50
+Buyer Chewy-25 added a satellite radio, increasing the price to $68,126.00
+Buyer Luke-26 wants a Electric (JustLooking)
+Buyer Luke-26 is buying! Salesperson Joey gets a bonus of $750.00!
+Buyer Luke-26 bought Sparkling LikeNew Ford-electric-2 for $63,810.00
+Buyer Luke-26 added an extended warrenty, increasing the price to $76,572.00
+Buyer Luke-26 added a satellite radio, increasing the price to $80,400.00
+No-one on the staff is leaving!
+Vehicles in inventory 52
+Vehicles sold count 29
+Money in the budget $1,317,598.30
+That's it for the day.
+>>> End Simulation Day 17 Tue
+

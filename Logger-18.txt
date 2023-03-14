@@ -1,43 +1,53 @@
 >>> Start Simulation Day 18 Wed
 The FNCD drivers are racing...
-Driver Momo-2 finished in 12 place with Europa PerfCar
-Driver Fredrick-2 finished in 9 place with Mustang-2 PerfCar
-Driver Carl-2 finished in 3 place with Cayman-2 PerfCar
-Driver Carl-2 got a bonus of $300.00!
+Driver PJ-2 finished in 15 place with Bigfoot-3 Monstertruck
+Driver Momo-2 finished in 9 place with Bigfoot Monstertruck
+Driver Momo finished in 12 place with Avenger-2 Monstertruck
 The FNCD is opening...
-Hired a new Driver named Fredrick-3
-Bought Probe-3, a Dirty LikeNew Car for $17,340.00
-Bought Europa-3, a Clean Used PerfCar for $26,511.20
-Bought Kowasaki-3, a Dirty Used Motercycle for $23,234.40
-Bought Harley-3, a Clean LikeNew Motercycle for $38,112.00
-Bought KTM-3, a Clean Used Motercycle for $27,370.40
+Hired a new Driver named Carl-2
+Bought Zombie-3, a Dirty Broken Monstertruck for $15,959.00
+Bought Gravedigger-3, a Clean Used Monstertruck for $27,278.40
 The FNCD interns are washing...
-Intern Fred got a bonus of $20.00for Detailed wash!
-Intern Fred washed Taurus-2 Dirty to Clean
-Intern Fred washed Probe-3 Dirty to Dirty
-Intern Ethel got a bonus of $20.00for Detailed wash!
-Intern Ethel washed Probe-3 Dirty to Clean
-Intern Ethel got a bonus of $75.00for Chemical Wash!
-Intern Ethel washed Kowasaki-3 Dirty to Clean
-Intern Lucy got a bonus of $75.00for Detailed Wash!
-Intern Lucy washed Zombie Clean to Sparkling
-Intern Lucy got a bonus of $75.00for Detailed Wash!
-Intern Lucy washed Gravedigger Clean to Sparkling
+Intern Fred washed Mustang-2 Dirty to Dirty
+Intern Fred got a bonus of $100.00for Chemical Wash!
+Intern Fred washed PartyBus-2 Dirty to Clean
+Intern Ethel got a bonus of $100.00for Chemical Wash!
+Intern Ethel washed Mustang-2 Dirty to Clean
+Intern Ethel got a bonus of $100.00for Chemical Wash!
+Intern Ethel washed Diesle-3 Dirty to Clean
+Intern Lucy washed KTM-2 Dirty to Dirty
+Intern Lucy got a bonus of $75.00for Chemical Wash!
+Intern Lucy washed Yamaha-3 Dirty to Clean
 The FNCD mechanics are repairing...
-Mechanic James got a bonus of $300.00!
-Mechanic James fixed Europa-3 Used to LikeNew
 Mechanic James got a bonus of $200.00!
-Mechanic James fixed Kowasaki-3 Used to LikeNew
+Mechanic James fixed KTM-2 Broken to Used
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Row-boat-2 Used to LikeNew
 Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed KTM-3 Used to LikeNew
+Mechanic Scotty fixed KTM-2 Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed SpeedBoat-3 Broken to Used
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed SpeedBoat-3 Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Bigfoot-3 Broken to Used
 The FNCD salespeople are selling...
-The FNCD has 1 buyers today...
-Buyer Leia-11 wants a Car (JustLooking)
-Buyer Leia-11 decided not to buy.
+The FNCD has 4 buyers today...
+Buyer Han-11 wants a Motercycle (JustLooking)
+Buyer Han-11 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Han-11 bought Dirty LikeNew KTM-2 for $107,250.00
+Buyer Chewy-11 wants a Semi (JustLooking)
+Buyer Chewy-11 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Chewy-11 bought Clean LikeNew FlatBed for $93,978.00
+Buyer Luke-12 wants a PerfCar (WantsOne)
+Buyer Luke-12 decided not to buy.
+Buyer Leia-12 wants a Electric (NeedsOne)
+Buyer Leia-12 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Leia-12 bought Clean LikeNew Tesla-x for $76,846.00
 No-one on the staff is leaving!
-Vehicles in inventory 24
-Vehicles sold count 22
-Money in the budget $792,155.02
+Vehicles in inventory 51
+Vehicles sold count 20
+Money in the budget $1,212,880.52
 That's it for the day.
 >>> End Simulation Day 18 Wed
 

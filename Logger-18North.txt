@@ -1,0 +1,46 @@
+>>> Start Simulation Day 18 Wed
+The FNCD drivers are racing...
+Driver PJ-3 finished in 4 place with Kowasaki-2 Motercycle
+Driver Fredrick-4 finished in 11 place with Harley-5 Motercycle
+Driver Carl-3 finished in 5 place with Yamaha-4 Motercycle
+The FNCD is opening...
+Hired a new Driver named Carl-4
+Bought Yamaha-6, a Dirty Broken Motercycle for $17,261.00
+The FNCD interns are washing...
+Intern Fred got a bonus of $100.00for Chemical Wash!
+Intern Fred washed BigRig-5 Dirty to Clean
+Intern Fred washed Gravedigger Dirty to Dirty
+Intern Ethel got a bonus of $75.00 for elbow grease wash!
+Intern Ethel washed Gravedigger Dirty to Clean
+Intern Ethel got a bonus of $75.00for Chemical Wash!
+Intern Ethel washed Tesla-x-5 Dirty to Clean
+Intern Lucy washed F-250-5 Dirty to Dirty
+Intern Lucy got a bonus of $75.00for Detailed wash!
+Intern Lucy washed Colorado-5 Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Tesla-x-5 Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Avenger-5 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Colorado-5 Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Diesle-6 Used to LikeNew
+Mechanic Spock did not fix the Broken SchoolBus-4
+Mechanic Spock did not fix the Broken Yamaha-6
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Leia-26 wants a PerfCar (WantsOne)
+Buyer Leia-26 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Leia-26 bought Clean LikeNew Europa for $52,278.75
+Buyer Leia-26 added an undercoating, increasing the price to $54,892.00
+Buyer Leia-26 added a satellite radio, increasing the price to $57,636.00
+Buyer Han-26 wants a Car (WantsOne)
+Buyer Han-26 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 53
+Vehicles sold count 26
+Money in the budget $1,376,490.40
+That's it for the day.
+>>> End Simulation Day 18 Wed
+

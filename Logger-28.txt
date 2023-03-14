@@ -1,62 +1,48 @@
 >>> Start Simulation Day 28 Sat
 The FNCD is opening...
-Bought Taurus-4, a Dirty Broken Car for $8,091.00
-Bought Cayman-3, a Clean Broken PerfCar for $12,879.50
-Bought Kowasaki-4, a Dirty Broken Motercycle for $14,524.50
+Bought Taurus-3, a Dirty Broken Car for $7,362.50
+Bought Yamaha-4, a Clean Used Motercycle for $22,446.40
+Bought PartyBus-3, a Dirty Used Bus for $14,580.00
 The FNCD interns are washing...
-Intern Fred got a bonus of $20.00 for elbow grease wash!
-Intern Fred washed Taurus-4 Dirty to Clean
-Intern Fred got a bonus of $75.00for Chemical Wash!
-Intern Fred washed Kowasaki-4 Dirty to Clean
-Intern Ethel washed Corvette-2 Clean to Clean
-Intern Ethel washed Kowasaki-2 Clean to Clean
-Intern Lucy got a bonus of $100.00for Elbow grease Wash!
-Intern Lucy washed Corvette-2 Clean to Sparkling
-Intern Lucy got a bonus of $75.00for Elbow grease Wash!
-Intern Lucy washed Kowasaki-2 Clean to Sparkling
+Intern Fred got a bonus of $75.00for Detailed wash!
+Intern Fred washed Ranger-3 Dirty to Clean
+Intern Fred got a bonus of $20.00for Detailed wash!
+Intern Fred washed Taurus-3 Dirty to Sparkling
+Intern Ethel got a bonus of $100.00for Detailed wash!
+Intern Ethel washed PartyBus-3 Dirty to Clean
+Intern Ethel washed F-250 Clean to Dirty
+Intern Lucy got a bonus of $75.00for Chemical Wash!
+Intern Lucy washed F-250 Dirty to Clean
+Intern Lucy washed F-250 Clean to Dirty
 The FNCD mechanics are repairing...
 Mechanic James got a bonus of $100.00!
-Mechanic James fixed Taurus-4 Broken to Used
-Mechanic James got a bonus of $300.00!
-Mechanic James fixed Cayman-3 Broken to Used
+Mechanic James fixed Taurus-3 Broken to Used
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Yamaha-4 Used to LikeNew
 Mechanic Scotty got a bonus of $100.00!
-Mechanic Scotty fixed Taurus-4 Used to LikeNew
-Mechanic Scotty did not fix the Used Cayman-3
-Mechanic Spock got a bonus of $300.00!
-Mechanic Spock fixed Cayman-3 Used to LikeNew
-Mechanic Spock did not fix the Broken Kowasaki-4
+Mechanic Scotty fixed Taurus-3 Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed PartyBus-3 Used to LikeNew
 The FNCD salespeople are selling...
-The FNCD has 8 buyers today...
-Buyer Leia-17 wants a Electric (JustLooking)
-Buyer Leia-17 decided not to buy.
-Buyer Han-17 wants a Motercycle (NeedsOne)
-Buyer Han-17 is buying! Salesperson Monica gets a bonus of $750.00!
-Buyer Han-17 bought Clean LikeNew Kowasaki-3 for $58,086.00
-Buyer Chewy-17 wants a PerfCar (WantsOne)
-Buyer Chewy-17 is buying! Salesperson Rachel gets a bonus of $1,000.00!
-Buyer Chewy-17 bought Sparkling LikeNew Corvette-2 for $58,426.00
-Buyer Luke-18 wants a Pickup (NeedsOne)
-Buyer Luke-18 is buying! Salesperson Rachel gets a bonus of $750.00!
-Buyer Luke-18 bought Clean LikeNew Tundra-2 for $83,160.00
-Buyer Luke-18 added an extended warrenty, increasing the price to $99,792.00
-Buyer Leia-18 wants a Monstertruck (WantsOne)
-Buyer Leia-18 is buying! Salesperson Rachel gets a bonus of $750.00!
-Buyer Leia-18 bought Sparkling LikeNew Gravedigger for $161,852.34
-Buyer Han-18 wants a Monstertruck (WantsOne)
-Buyer Han-18 is buying! Salesperson Phoebe gets a bonus of $750.00!
-Buyer Han-18 bought Clean LikeNew Zombie-2 for $87,506.00
-Buyer Han-18 added a satellite radio, increasing the price to $91,881.00
-Buyer Chewy-18 wants a Car (NeedsOne)
-Buyer Chewy-18 is buying! Salesperson Rachel gets a bonus of $500.00!
-Buyer Chewy-18 bought Clean LikeNew Fiesta-3 for $32,130.00
-Buyer Chewy-18 added a road rescue coverage, increasing the price to $32,772.00
-Buyer Luke-19 wants a Motercycle (NeedsOne)
-Buyer Luke-19 is buying! Salesperson Phoebe gets a bonus of $750.00!
-Buyer Luke-19 bought Clean LikeNew Yamaha-4 for $32,144.00
+The FNCD has 6 buyers today...
+Buyer Leia-20 wants a Semi (WantsOne)
+Buyer Leia-20 decided not to buy.
+Buyer Han-20 wants a Monstertruck (WantsOne)
+Buyer Han-20 decided not to buy.
+Buyer Chewy-20 wants a Boat (NeedsOne)
+Buyer Chewy-20 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Chewy-20 bought Clean LikeNew Yacht-2 for $63,470.62
+Buyer Luke-21 wants a Semi (NeedsOne)
+Buyer Luke-21 decided not to buy.
+Buyer Leia-21 wants a Semi (JustLooking)
+Buyer Leia-21 decided not to buy.
+Buyer Han-21 wants a PerfCar (NeedsOne)
+Buyer Han-21 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Han-21 bought Clean LikeNew Cayman-3 for $66,722.00
 No-one on the staff is leaving!
-Vehicles in inventory 17
-Vehicles sold count 41
-Money in the budget $1,771,294.64
+Vehicles in inventory 52
+Vehicles sold count 40
+Money in the budget $2,192,497.18
 That's it for the day.
 >>> End Simulation Day 28 Sat
 

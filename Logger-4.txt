@@ -1,46 +1,40 @@
 >>> Start Simulation Day 4 Wed
 The FNCD drivers are racing...
-Driver Momo finished in 15 place with Yamaha Motercycle
-Driver Fredrick finished in 12 place with Harley Motercycle
-Driver PJ finished in 4 place with Kowasaki Motercycle
+Driver Momo finished in 2 place with Zombie-2 Monstertruck
+Driver Momo got a bonus of $250.00!
+Driver Fredrick finished in 1 place with Gravedigger Monstertruck
+Driver Fredrick got a bonus of $250.00!
+Driver PJ finished in 6 place with Bigfoot-2 Monstertruck
 The FNCD is opening...
 Hired a new Driver named Carl
-Bought Yamaha-2, a Dirty LikeNew Motercycle for $17,710.00
+Bought Gravedigger-2, a Clean Broken Monstertruck for $16,459.50
 The FNCD interns are washing...
-Intern Fred washed Europa Dirty to Dirty
+Intern Fred got a bonus of $100.00for Chemical Wash!
+Intern Fred washed Europa Dirty to Clean
 Intern Fred got a bonus of $100.00 for elbow grease wash!
-Intern Fred washed Corvette Dirty to Clean
-Intern Ethel got a bonus of $100.00for Chemical Wash!
-Intern Ethel washed Europa Dirty to Sparkling
-Intern Ethel got a bonus of $75.00 for elbow grease wash!
-Intern Ethel washed F-250 Dirty to Clean
-Intern Lucy got a bonus of $75.00for Chemical Wash!
-Intern Lucy washed Colorado Dirty to Clean
-Intern Lucy washed Nissan-leaf Dirty to Dirty
+Intern Fred washed Cayman Dirty to Clean
+Intern Ethel washed Corvette Dirty to Dirty
+Intern Ethel got a bonus of $100.00 for elbow grease wash!
+Intern Ethel washed Mustang Dirty to Clean
+Intern Lucy washed Corvette Dirty to Dirty
+Intern Lucy got a bonus of $100.00for Chemical Wash!
+Intern Lucy washed Europa-2 Dirty to Clean
 The FNCD mechanics are repairing...
-Mechanic James got a bonus of $200.00!
-Mechanic James fixed F-250 Broken to Used
-Mechanic James got a bonus of $200.00!
-Mechanic James fixed Colorado Used to LikeNew
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cayman-2 Used to LikeNew
+Mechanic James did not fix the Broken F-250
 Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed F-250 Used to LikeNew
-Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed tesla-y Used to LikeNew
+Mechanic Scotty fixed F-250 Broken to Used
+Mechanic Scotty did not fix the Broken Colorado
+Mechanic Spock did not fix the Used F-250
 Mechanic Spock got a bonus of $200.00!
-Mechanic Spock fixed Ford-electric Broken to Used
-Mechanic Spock did not fix the Broken Nissan-leaf
+Mechanic Spock fixed Colorado Broken to Used
 The FNCD salespeople are selling...
-The FNCD has 3 buyers today...
-Buyer Leia-2 wants a Monstertruck (WantsOne)
-Buyer Leia-2 decided not to buy.
-Buyer Han-2 wants a Monstertruck (NeedsOne)
-Buyer Han-2 decided not to buy.
-Buyer Chewy-2 wants a PerfCar (JustLooking)
-Buyer Chewy-2 decided not to buy.
+The FNCD has 0 buyers today...
 No-one on the staff is leaving!
-Vehicles in inventory 24
+Vehicles in inventory 54
 Vehicles sold count 2
-Money in the budget $120,632.00
+Money in the budget $200,243.40
 That's it for the day.
 >>> End Simulation Day 4 Wed
 

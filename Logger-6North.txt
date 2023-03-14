@@ -1,0 +1,10 @@
+>>> Start Simulation Day 6 Sun
+The FNCD drivers are racing...
+Driver Fredrick finished in 15 place with Ranger Pickup
+Driver Fredrick got injured in todays race.
+Driver PJ finished in 20 place with F-250 Pickup
+Driver Momo finished in 20 place with F-250-2 Pickup
+Driver Momo got injured in todays race.
+Sorry, FNCD is closed on Sun
+>>> End Simulation Day 6 Sun
+

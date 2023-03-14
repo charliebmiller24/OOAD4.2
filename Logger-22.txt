@@ -1,9 +1,8 @@
 >>> Start Simulation Day 22 Sun
 The FNCD drivers are racing...
-Driver Fredrick-3 finished in 7 place with F-250-2 Pickup
-Driver Fredrick-2 finished in 20 place with Tundra-2 Pickup
-Driver Momo-2 finished in 17 place with Ranger-3 Pickup
-Driver Momo-2 got injured in todays race.
+Driver Carl-2 finished in 14 place with Yamaha-3 Motercycle
+Driver PJ-2 finished in 9 place with Yamaha Motercycle
+Driver Momo-2 finished in 7 place with Harley-2 Motercycle
 Sorry, FNCD is closed on Sun
 >>> End Simulation Day 22 Sun
 

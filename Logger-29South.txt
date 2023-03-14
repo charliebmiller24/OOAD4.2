@@ -1,0 +1,43 @@
+>>> Start Simulation Day 29 Fri
+The FNCD is opening...
+Bought Fiesta-7, a Dirty LikeNew Car for $10,737.00
+Bought Bigfoot-8, a Dirty LikeNew Monstertruck for $39,096.00
+Bought BigRig-6, a Dirty Used Semi for $33,201.60
+The FNCD interns are washing...
+Intern Desi got a bonus of $75.00for Chemical Wash!
+Intern Desi washed Gravedigger-7 Dirty to Clean
+Intern Desi got a bonus of $100.00for Detailed wash!
+Intern Desi washed SpeedBoat-5 Dirty to Sparkling
+Intern Fred-2 got a bonus of $20.00 for elbow grease wash!
+Intern Fred-2 washed Fiesta-7 Dirty to Clean
+Intern Fred-2 washed Bigfoot-8 Dirty to Dirty
+Intern Ethel-2 got a bonus of $75.00for Chemical Wash!
+Intern Ethel-2 washed Bigfoot-8 Dirty to Clean
+Intern Ethel-2 got a bonus of $100.00for Detailed wash!
+Intern Ethel-2 washed BigRig-6 Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James-2 got a bonus of $200.00!
+Mechanic James-2 fixed Avenger-7 Broken to Used
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed BigRig-6 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed Avenger-7 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Luke-43 wants a Pickup (JustLooking)
+Buyer Luke-43 is buying! Salesperson Joey gets a bonus of $750.00!
+Buyer Luke-43 bought Clean LikeNew Ranger-5 for $71,325.00
+Buyer Leia-43 wants a Bus (JustLooking)
+Buyer Leia-43 is buying! Salesperson Chandler gets a bonus of $1,000.00!
+Buyer Leia-43 bought Clean LikeNew Doubledecker-5 for $78,588.00
+Buyer Han-43 wants a Car (NeedsOne)
+Buyer Han-43 is buying! Salesperson Ross gets a bonus of $500.00!
+Buyer Han-43 bought Sparkling LikeNew Fiesta-3 for $23,878.12
+Buyer Han-43 added a satellite radio, increasing the price to $25,072.00
+No-one on the staff is leaving!
+Vehicles in inventory 51
+Vehicles sold count 50
+Money in the budget $2,223,031.67
+That's it for the day.
+>>> End Simulation Day 29 Fri
+
