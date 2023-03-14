@@ -1,8 +1,0 @@
->>> Start Simulation Day 30 Sun
-The FNCD drivers are racing...
-Driver Fredrick-6 finished in 13 place with Gravedigger-2 Monstertruck
-Driver Carl-6 finished in 6 place with Gravedigger-3 Monstertruck
-Driver Momo-5 finished in 9 place with Gravedigger-7 Monstertruck
-Sorry, FNCD is closed on Sun
->>> End Simulation Day 30 Sun
-

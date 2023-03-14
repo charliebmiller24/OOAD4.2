@@ -1,9 +1,0 @@
->>> Start Simulation Day 2 Sun
-The FNCD drivers are racing...
-Driver Fredrick-2 finished in 13 place with Gravedigger-2 Monstertruck
-Driver PJ-2 finished in 1 place with Zombie-3 Monstertruck
-Driver PJ-2 got a bonus of $250.00!
-Driver Carl finished in 7 place with Avenger-3 Monstertruck
-Sorry, FNCD is closed on Sun
->>> End Simulation Day 2 Sun
-

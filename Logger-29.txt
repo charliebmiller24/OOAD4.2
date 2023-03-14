@@ -1,9 +1,0 @@
->>> Start Simulation Day 29 Sun
-The FNCD drivers are racing...
-Driver Fredrick-3 finished in 18 place with Cayman PerfCar
-Driver PJ-3 finished in 16 place with Corvette-2 PerfCar
-Driver PJ-2 finished in 2 place with Mustang-3 PerfCar
-Driver PJ-2 got a bonus of $300.00!
-Sorry, FNCD is closed on Sun
->>> End Simulation Day 29 Sun
-

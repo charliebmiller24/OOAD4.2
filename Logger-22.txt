@@ -1,8 +1,0 @@
->>> Start Simulation Day 22 Sun
-The FNCD drivers are racing...
-Driver Carl-2 finished in 14 place with Yamaha-3 Motercycle
-Driver PJ-2 finished in 9 place with Yamaha Motercycle
-Driver Momo-2 finished in 7 place with Harley-2 Motercycle
-Sorry, FNCD is closed on Sun
->>> End Simulation Day 22 Sun
-

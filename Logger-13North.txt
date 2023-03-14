@@ -1,8 +1,0 @@
->>> Start Simulation Day 13 Sun
-The FNCD drivers are racing...
-Driver Carl-3 finished in 9 place with Avenger Monstertruck
-Driver PJ-3 finished in 18 place with Gravedigger Monstertruck
-Driver Carl-2 finished in 14 place with Bigfoot-2 Monstertruck
-Sorry, FNCD is closed on Sun
->>> End Simulation Day 13 Sun
-

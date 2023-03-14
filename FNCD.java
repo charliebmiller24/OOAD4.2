@@ -2,6 +2,10 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
+import java.io.Console;
+import java.util.Scanner;
+import java.time.format.DateTimeFormatter;
+import java.time.LocalDateTime;
 
 // This represents the FNCD business and things they would control
 public class FNCD implements SysOut {
@@ -127,9 +131,10 @@ public class FNCD implements SysOut {
 
     }
 
-    void normalDay(Enums.DayOfWeek day) {  // On a normal day, we do all the activities
+    void normalDay(Enums.DayOfWeek day, int numDays) {  // On a normal day, we do all the activities
 
         // opening
+        out("TEST: "+ numDays);
         out("The FNCD is opening...");
         hireNewStaff();    // hire up to 3 of each staff type
         updateInventory();  // buy up to 4 of each type
@@ -154,6 +159,62 @@ public class FNCD implements SysOut {
         out("The FNCD salespeople are selling...");
         ArrayList<Buyer> buyers = getBuyers(day);
         ArrayList<Staff> salespeople = Staff.getStaffByType(staff, Enums.StaffType.Salesperson);
+        ArrayList<Vehicle> vehicle = inventory;
+        Console cons = System.console();
+
+        //cons.printf("What location are you at? \n");
+        //cons.printf("Input a number. North - 1 and South - 2. \n");
+
+        if(numDays == 31){
+            String s;
+            out("HERE");
+            Scanner in = new Scanner(System.in);
+
+            int randomSeller = Utility.rndFromRange(0,salespeople.size()-1);
+            Salesperson seller = (Salesperson) salespeople.get(randomSeller);
+
+            int randomBuyer = Utility.rndFromRange(0,buyers.size()-1);
+            Buyer b = (Buyer) buyers.get(randomBuyer);
+            cons.printf("What is your name? \n");
+            cons.printf("Hello I am your salesperson today. My name is "+ seller.name+ " \n");
+            //s = in.nextLine();
+
+            DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm:ss");
+            LocalDateTime now = LocalDateTime.now();
+
+            cons.printf("What time is it? \n");
+            cons.printf("The date and time is "+ dtf.format(now) +" \n");
+            //s = in.nextLine();
+
+            int nu = 1;
+            while(nu == 1){
+                cons.printf("Would you like a different sales person? \n");
+                cons.printf("Input a number. Yes - 1 and No - 2 \n");
+                nu = in.nextInt();
+                randomSeller = Utility.rndFromRange(0,salespeople.size()-1);
+                seller = (Salesperson) salespeople.get(randomSeller);
+                cons.printf("New salesperson:"+seller.name+" \n");
+            }
+
+            cons.printf("What is your inventory? \n");
+            //cons.printf(inventory + "\n");
+            int it = 1;
+            for(Vehicle v: inventory){
+                cons.printf("Number "+ it + ": "+v.name + "\n");
+                it++;
+            }
+            //s = in.nextLine();
+
+            cons.printf("Select a number to know more details. \n");
+            int a = in.nextInt();
+            Vehicle vSold = seller.sellVehicleInput(b, inventory, a);
+
+        }
+
+        cons.printf("Thank you for visiting FNCD \n"); //maybe add north or south
+
+
+
         // tell a random salesperson to sell each buyer a car - may get bonus
         for(Buyer b: buyers) {
             out("Buyer "+b.name+" wants a "+b.preference+" ("+b.type+")");

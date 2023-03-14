@@ -1,6 +1,0 @@
->>> Start Simulation Day 9 Sun
-The FNCD drivers are racing...
-No more Monstertruck vehicles
-Sorry, FNCD is closed on Sun
->>> End Simulation Day 9 Sun
-
