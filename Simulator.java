@@ -24,31 +24,64 @@ public class Simulator implements SysOut {
     }
 
     void run() {
-        FNCD fncd = new FNCD();
+        FNCD fncdNorth = new FNCD();
+        FNCD fncdSouth = new FNCD();
         for (int day = 1; day <= numDays; ++day) {
             try{
-                String fileName = "Logger-"+ day + ".txt";
+                String fileName = "Logger-"+ day + "North" + ".txt";
                 FileWriter file = new FileWriter(fileName);
                 PrintStream fileStream = new PrintStream(fileName);
                 System.setOut(fileStream);
                 out(">>> Start Simulation Day "+day+" "+dayOfWeek);
                 //System.out.println("-------------" + dayOfWeek + "-------------------");
                 if(dayOfWeek == Enums.DayOfWeek.Sun || dayOfWeek == Enums.DayOfWeek.Wed){
-                    fncd.raceday();
+                    fncdNorth.raceday();
                 }
-                if (dayOfWeek == Enums.DayOfWeek.Sun) fncd.closedDay(dayOfWeek);  // no work on Sunday
-                else fncd.normalDay(dayOfWeek, day);  // normal stuff on other days
+
+                if (dayOfWeek == Enums.DayOfWeek.Sun) fncdNorth.closedDay(dayOfWeek);  // no work on Sunday
+                else fncdNorth.normalDay(dayOfWeek, day);  // normal stuff on other days
+
                 out(">>> End Simulation Day "+day+" "+dayOfWeek+"\n");
                 
                 dayOfWeek = getNextDay(dayOfWeek);  // increment to the next day
                 file.close();
 
                 Console cons = System.console();
-                cons.printf("Tracker: Day "+day+" \n");
-                fncd.calculateStaffSal();
-                cons.printf("Total Money Earned By All Staff: "+Utility.asDollar(fncd.getTotalStaffSalary())+" \n");
-                fncd.resetTotalStaffSalary();
-                cons.printf("Total Money Earned By the FNCD: "+Utility.asDollar(fncd.getBudget())+"\n");
+                cons.printf("Tracker North: Day "+day+" \n");
+                fncdNorth.calculateStaffSal();
+                cons.printf("Total Money Earned By All Staff: "+Utility.asDollar(fncdNorth.getTotalStaffSalary())+" \n");
+                fncdNorth.resetTotalStaffSalary();
+                cons.printf("Total Money Earned By the FNCD: "+Utility.asDollar(fncdNorth.getBudget())+"\n");
+                cons.printf("\n");
+                cons.flush();
+            }
+            catch(IOException e){
+                System.out.println("We have a problem");
+                
+            }
+            try{
+                String fileName = "Logger-"+ day + "South" + ".txt";
+                FileWriter file = new FileWriter(fileName);
+                PrintStream fileStream = new PrintStream(fileName);
+                System.setOut(fileStream);
+                out(">>> Start Simulation Day "+day+" "+dayOfWeek);
+                //System.out.println("-------------" + dayOfWeek + "-------------------");
+                if(dayOfWeek == Enums.DayOfWeek.Sun || dayOfWeek == Enums.DayOfWeek.Wed){
+                    fncdSouth.raceday();
+                }
+                if (dayOfWeek == Enums.DayOfWeek.Sun) fncdSouth.closedDay(dayOfWeek);  // no work on Sunday
+                else fncdSouth.normalDay(dayOfWeek, day);  // normal stuff on other days
+                out(">>> End Simulation Day "+day+" "+dayOfWeek+"\n");
+                
+                dayOfWeek = getNextDay(dayOfWeek);  // increment to the next day
+                file.close();
+
+                Console cons = System.console();
+                cons.printf("Tracker South: Day "+day+" \n");
+                fncdSouth.calculateStaffSal();
+                cons.printf("Total Money Earned By All Staff: "+Utility.asDollar(fncdSouth.getTotalStaffSalary())+" \n");
+                fncdSouth.resetTotalStaffSalary();
+                cons.printf("Total Money Earned By the FNCD: "+Utility.asDollar(fncdSouth.getBudget())+"\n");
                 cons.printf("\n");
                 cons.flush();
             }

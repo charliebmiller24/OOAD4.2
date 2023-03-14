@@ -1,8 +1,0 @@
->>> Start Simulation Day 4 Sun
-The FNCD drivers are racing...
-Driver Fredrick finished in 13 place with Zombie Monstertruck
-Driver Momo finished in 14 place with Avenger Monstertruck
-No more Monstertruck vehicles
-Sorry, FNCD is closed on Sun
->>> End Simulation Day 4 Sun
-

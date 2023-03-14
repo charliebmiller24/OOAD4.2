@@ -1,9 +1,0 @@
->>> Start Simulation Day 25 Sun
-The FNCD drivers are racing...
-Driver Carl-2 finished in 9 place with KTM-3 Motercycle
-Driver Momo-3 finished in 16 place with Kowasaki Motercycle
-Driver Momo-3 got injured in todays race.
-Driver PJ-3 finished in 8 place with Kowasaki-2 Motercycle
-Sorry, FNCD is closed on Sun
->>> End Simulation Day 25 Sun
-

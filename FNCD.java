@@ -282,7 +282,7 @@ public class FNCD implements SysOut {
 
     // see if we need any vehicles
     void updateInventory() {
-        final int numberInInventory = 4;
+        final int numberInInventory = 6;
         for (Enums.VehicleType t : Enums.VehicleType.values()) {
             int typeInList = Vehicle.howManyVehiclesByType(inventory, t);
             int need = numberInInventory - typeInList;
@@ -300,6 +300,9 @@ public class FNCD implements SysOut {
         if (t == Enums.VehicleType.Electric) v = new Electric();
         if (t == Enums.VehicleType.Motercycle) v = new Motorcycle();
         if (t == Enums.VehicleType.Monstertruck) v = new Monstertruck();
+        if (t == Enums.VehicleType.Bus) v = new Bus();
+        if (t == Enums.VehicleType.Boat) v = new Boat();
+        if (t == Enums.VehicleType.Semi) v = new Semi();
         moneyOut(v.cost);  // pay for the vehicle
         out ("Bought "+v.name+", a "+v.cleanliness+" "+v.condition+" "+v.type+" for "+Utility.asDollar(v.cost));
         inventory.add(v);
