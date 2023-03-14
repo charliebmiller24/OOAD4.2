@@ -161,4 +161,50 @@ class Monstertruck extends Vehicle {
         sale_bonus = 750;
     }
 }
+class Boat extends Vehicle {
+    static List<String> names = Arrays.asList("SpeedBoat","Yacht","Fishing-Boat","Row-boat");
+    static Namer namer = new Namer(names);
+    Boat() {
+        super();
+        type = Enums.VehicleType.Boat;
+        name = namer.getNext();  // every new Boat car gets a unique new name
+        cost = getCost(20000,40000);
+        price = cost * 2;
+        repair_bonus = 300;
+        race_bonus = 300;
+        wash_bonus = 100;
+        sale_bonus = 1000;
+    }
+}
+class Bus extends Vehicle {
+    static List<String> names = Arrays.asList("Doubledecker","SchoolBus","VWBus","PartyBus");
+    static Namer namer = new Namer(names);
+    Bus() {
+        super();
+        type = Enums.VehicleType.Bus;
+        name = namer.getNext();  // every new Bus car gets a unique new name
+        cost = getCost(10000,40000);
+        price = cost * 2;
+        repair_bonus = 300;
+        race_bonus = 300;
+        wash_bonus = 100;
+        sale_bonus = 1000;
+    }
+}
+class Semi extends Vehicle {
+    static List<String> names = Arrays.asList("Diesle","TeslaTrcuk","BigRig","FlatBed");
+    static Namer namer = new Namer(names);
+    Semi() {
+        super();
+        type = Enums.VehicleType.Semi;
+        name = namer.getNext();  // every new Bus car gets a unique new name
+        cost = getCost(30000,50000);
+        price = cost * 2;
+        repair_bonus = 300;
+        race_bonus = 300;
+        wash_bonus = 100;
+        sale_bonus = 1000;
+    }
+}
+
 
