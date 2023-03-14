@@ -1,9 +1,27 @@
->>> Start Simulation Day 15 Sun
-The FNCD drivers are racing...
-Driver Momo-2 finished in 2 place with Kowasaki-2 Motercycle
-Driver Momo-2 got a bonus of $200.00!
-Driver Fredrick-2 finished in 4 place with Harley-2 Motercycle
-Driver PJ-2 finished in 8 place with KTM Motercycle
-Sorry, FNCD is closed on Sun
->>> End Simulation Day 15 Sun
+>>> Start Simulation Day 15 Thur
+TEST: 15
+The FNCD is opening...
+Bought Ford-electric-2, a Dirty LikeNew Electric for $27,544.00
+Bought Kowasaki-3, a Clean LikeNew Motercycle for $32,688.00
+The FNCD interns are washing...
+Intern Fred washed F-250-3 Dirty to Dirty
+Intern Fred washed Ford-electric-2 Dirty to Dirty
+Intern Ethel got a bonus of $75.00 for elbow grease wash!
+Intern Ethel washed F-250-3 Dirty to Clean
+Intern Ethel got a bonus of $75.00for Detailed wash!
+Intern Ethel washed Ford-electric-2 Dirty to Clean
+Intern Lucy washed Probe-2 Clean to Clean
+Intern Lucy got a bonus of $75.00for Detailed Wash!
+Intern Lucy washed Kowasaki-2 Clean to Sparkling
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Han-13 wants a PerfCar (JustLooking)
+Buyer Han-13 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 21
+Money in the budget $875,807.28
+That's it for the day.
+>>> End Simulation Day 15 Thur
 

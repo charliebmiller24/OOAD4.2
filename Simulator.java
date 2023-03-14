@@ -8,7 +8,7 @@ public class Simulator implements SysOut {
     final int numDays;
     Enums.DayOfWeek dayOfWeek;
     Simulator() {
-        numDays = 30;  // magic number for days to run here
+        numDays = 31;  // magic number for days to run here
         dayOfWeek = Utility.randomEnum(Enums.DayOfWeek.class);  // we'll start on a random day (for fun)
     }
 
@@ -37,7 +37,7 @@ public class Simulator implements SysOut {
                     fncd.raceday();
                 }
                 if (dayOfWeek == Enums.DayOfWeek.Sun) fncd.closedDay(dayOfWeek);  // no work on Sunday
-                else fncd.normalDay(dayOfWeek);  // normal stuff on other days
+                else fncd.normalDay(dayOfWeek, day);  // normal stuff on other days
                 out(">>> End Simulation Day "+day+" "+dayOfWeek+"\n");
                 
                 dayOfWeek = getNextDay(dayOfWeek);  // increment to the next day

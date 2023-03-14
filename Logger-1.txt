@@ -1,5 +1,87 @@
->>> Start Simulation Day 1 Sun
-The FNCD drivers are racing...
-Sorry, FNCD is closed on Sun
->>> End Simulation Day 1 Sun
+>>> Start Simulation Day 1 Thur
+TEST: 1
+The FNCD is opening...
+Hired a new Intern named Fred
+Hired a new Intern named Ethel
+Hired a new Intern named Lucy
+Hired a new Mechanic named James
+Hired a new Mechanic named Scotty
+Hired a new Mechanic named Spock
+Hired a new Salesperson named Rachel
+Hired a new Salesperson named Monica
+Hired a new Salesperson named Phoebe
+Hired a new Driver named Fredrick
+Hired a new Driver named PJ
+Hired a new Driver named Momo
+Bought Probe, a Clean Used Car for $9,307.20
+Bought Escort, a Dirty Broken Car for $7,918.50
+Bought Taurus, a Dirty LikeNew Car for $19,407.00
+Bought Fiesta, a Dirty LikeNew Car for $19,677.00
+Bought Europa, a Clean Broken PerfCar for $10,511.50
+Bought Cayman, a Clean Broken PerfCar for $14,992.50
+***Budget overrun*** Added $250K, budget now: $245,476.70
+Bought Corvette, a Clean Used PerfCar for $22,709.60
+Bought Mustang, a Clean Used PerfCar for $17,922.40
+Bought Ranger, a Dirty LikeNew Pickup for $29,159.00
+Bought F-250, a Dirty Broken Pickup for $17,739.50
+Bought Colorado, a Dirty Broken Pickup for $13,519.00
+Bought Tundra, a Clean Used Pickup for $26,012.80
+Bought Tesla-x, a Clean Broken Electric for $19,101.50
+Bought tesla-y, a Sparkling LikeNew Electric for $38,929.00
+Bought Ford-electric, a Dirty Used Electric for $30,963.20
+Bought Nissan-leaf, a Clean LikeNew Electric for $24,029.00
+Bought Yamaha, a Dirty Used Motercycle for $23,638.40
+***Budget overrun*** Added $250K, budget now: $234,697.90
+Bought Kowasaki, a Clean LikeNew Motercycle for $19,765.00
+Bought Harley, a Dirty Broken Motercycle for $7,509.50
+Bought KTM, a Dirty LikeNew Motercycle for $37,774.00
+Bought Bigfoot, a Clean Broken Monstertruck for $17,286.00
+Bought Zombie, a Dirty LikeNew Monstertruck for $30,403.00
+Bought Gravedigger, a Clean Used Monstertruck for $37,511.20
+Bought Avenger, a Clean Used Monstertruck for $36,307.20
+The FNCD interns are washing...
+Intern Fred got a bonus of $20.00for Chemical Wash!
+Intern Fred washed Escort Dirty to Sparkling
+Intern Fred got a bonus of $20.00for Detailed wash!
+Intern Fred washed Taurus Dirty to Clean
+Intern Ethel got a bonus of $20.00for Chemical Wash!
+Intern Ethel washed Fiesta Dirty to Clean
+Intern Ethel got a bonus of $75.00 for elbow grease wash!
+Intern Ethel washed Ranger Dirty to Clean
+Intern Lucy got a bonus of $75.00for Detailed wash!
+Intern Lucy washed F-250 Dirty to Clean
+Intern Lucy got a bonus of $75.00 for elbow grease wash!
+Intern Lucy washed Colorado Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Probe Used to LikeNew
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Escort Broken to Used
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Escort Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Europa Broken to Used
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Europa Used to LikeNew
+Mechanic Spock did not fix the Broken Cayman
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Luke wants a Motercycle (JustLooking)
+Buyer Luke decided not to buy.
+Buyer Leia wants a Pickup (NeedsOne)
+Buyer Leia is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Leia bought Clean LikeNew Ranger for $58,318.00
+Buyer Leia added a satellite radio, increasing the price to $61,233.00
+Buyer Han wants a Motercycle (NeedsOne)
+Buyer Han decided not to buy.
+Buyer Chewy wants a Motercycle (WantsOne)
+Buyer Chewy is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Chewy bought Dirty LikeNew KTM for $75,548.00
+James(Mechanic) quit.
+Fred has got promoted to Mechanic!
+Vehicles in inventory 22
+Vehicles sold count 2
+Money in the budget $203,428.00
+That's it for the day.
+>>> End Simulation Day 1 Thur
 

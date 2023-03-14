@@ -1,24 +1,55 @@
->>> Start Simulation Day 26 Thur
+>>> Start Simulation Day 26 Mon
+TEST: 26
 The FNCD is opening...
+Hired a new Driver named Carl-3
+Hired a new Driver named Fredrick-4
+Bought Corvette-3, a Clean Broken PerfCar for $11,024.50
+Bought F-250-4, a Dirty Used Pickup for $28,991.20
+Bought Yamaha-4, a Dirty LikeNew Motercycle for $23,116.00
 The FNCD interns are washing...
+Intern Fred got a bonus of $20.00for Detailed wash!
+Intern Fred washed Taurus-2 Dirty to Sparkling
 Intern Fred got a bonus of $75.00 for elbow grease wash!
-Intern Fred washed Gravedigger Dirty to Clean
-Intern Fred washed Corvette-2 Clean to Clean
-Intern Ethel washed Corvette-2 Clean to Clean
-Intern Ethel washed Kowasaki-2 Clean to Clean
-Intern Lucy washed Corvette-2 Clean to Dirty
-Intern Lucy washed Kowasaki-2 Clean to Clean
+Intern Fred washed Ranger-4 Dirty to Clean
+Intern Ethel got a bonus of $75.00 for elbow grease wash!
+Intern Ethel washed F-250-4 Dirty to Clean
+Intern Ethel got a bonus of $75.00 for elbow grease wash!
+Intern Ethel washed Yamaha-4 Dirty to Clean
+Intern Lucy washed tesla-y-2 Clean to Clean
+Intern Lucy washed Kowasaki-3 Clean to Clean
 The FNCD mechanics are repairing...
-Mechanic James got a bonus of $200.00!
-Mechanic James fixed Gravedigger Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Kowasaki Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Corvette-3 Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Kowasaki Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Corvette-3 Used to LikeNew
+Mechanic Spock-2 got a bonus of $200.00!
+Mechanic Spock-2 fixed F-250-4 Used to LikeNew
 The FNCD salespeople are selling...
-The FNCD has 1 buyers today...
-Buyer Luke-16 wants a PerfCar (WantsOne)
-Buyer Luke-16 decided not to buy.
+The FNCD has 5 buyers today...
+Buyer Han-21 wants a Car (WantsOne)
+Buyer Han-21 is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Han-21 bought Sparkling LikeNew Escort for $29,694.38
+Buyer Han-21 added a road rescue coverage, increasing the price to $30,288.00
+Buyer Han-21 added a satellite radio, increasing the price to $31,802.00
+Buyer Chewy-21 wants a Motercycle (WantsOne)
+Buyer Chewy-21 is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Chewy-21 bought Dirty LikeNew Kowasaki for $152,869.92
+Buyer Chewy-21 added an extended warrenty, increasing the price to $183,443.00
+Buyer Luke-22 wants a Motercycle (JustLooking)
+Buyer Luke-22 decided not to buy.
+Buyer Leia-22 wants a PerfCar (JustLooking)
+Buyer Leia-22 decided not to buy.
+Buyer Han-22 wants a Car (WantsOne)
+Buyer Han-22 is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Han-22 bought Sparkling LikeNew Escort-2 for $28,014.00
 No-one on the staff is leaving!
-Vehicles in inventory 24
-Vehicles sold count 31
-Money in the budget $1,100,584.30
+Vehicles in inventory 21
+Vehicles sold count 41
+Money in the budget $1,873,378.03
 That's it for the day.
->>> End Simulation Day 26 Thur
+>>> End Simulation Day 26 Mon
 

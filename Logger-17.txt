@@ -1,48 +1,47 @@
->>> Start Simulation Day 17 Tue
+>>> Start Simulation Day 17 Sat
+TEST: 17
 The FNCD is opening...
-Bought Fiesta-2, a Dirty Broken Car for $8,330.50
+Bought Zombie-3, a Clean Broken Monstertruck for $21,363.00
 The FNCD interns are washing...
-Intern Fred got a bonus of $20.00for Detailed wash!
-Intern Fred washed Taurus-2 Dirty to Clean
-Intern Fred got a bonus of $75.00for Detailed wash!
-Intern Fred washed Yamaha-3 Dirty to Clean
-Intern Ethel got a bonus of $20.00for Detailed wash!
-Intern Ethel washed Fiesta-2 Dirty to Clean
-Intern Ethel got a bonus of $20.00for Detailed Wash!
-Intern Ethel washed Probe Clean to Sparkling
+Intern Fred got a bonus of $75.00 for elbow grease wash!
+Intern Fred washed Gravedigger-2 Dirty to Clean
+Intern Fred washed Ranger-2 Dirty to Dirty
+Intern Ethel got a bonus of $75.00for Chemical Wash!
+Intern Ethel washed Ranger-2 Dirty to Clean
+Intern Ethel washed Gravedigger-2 Clean to Dirty
+Intern Lucy got a bonus of $75.00for Detailed wash!
+Intern Lucy washed Gravedigger-2 Dirty to Clean
 Intern Lucy got a bonus of $75.00for Detailed Wash!
-Intern Lucy washed Nissan-leaf Clean to Sparkling
-Intern Lucy washed Zombie Clean to Clean
+Intern Lucy washed Gravedigger-2 Clean to Sparkling
 The FNCD mechanics are repairing...
-Mechanic James got a bonus of $100.00!
-Mechanic James fixed Taurus-2 Used to LikeNew
-Mechanic James got a bonus of $100.00!
-Mechanic James fixed Fiesta-2 Broken to Used
-Mechanic Scotty got a bonus of $100.00!
-Mechanic Scotty fixed Fiesta-2 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Zombie-3 Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Zombie-3 Used to LikeNew
 The FNCD salespeople are selling...
-The FNCD has 4 buyers today...
-Buyer Leia-10 wants a Car (NeedsOne)
-Buyer Leia-10 is buying! Salesperson Rachel gets a bonus of $500.00!
-Buyer Leia-10 bought Dirty LikeNew Fiesta-2 for $31,239.38
-Buyer Han-10 wants a Motercycle (NeedsOne)
-Buyer Han-10 is buying! Salesperson Phoebe gets a bonus of $750.00!
-Buyer Han-10 bought Clean LikeNew KTM-2 for $62,502.00
-Buyer Han-10 added an extended warrenty, increasing the price to $75,002.00
-Buyer Han-10 added an undercoating, increasing the price to $78,752.00
-Buyer Han-10 added a road rescue coverage, increasing the price to $80,327.00
-Buyer Chewy-10 wants a Motercycle (JustLooking)
-Buyer Chewy-10 is buying! Salesperson Phoebe gets a bonus of $750.00!
-Buyer Chewy-10 bought Clean LikeNew Yamaha-3 for $43,586.00
-Buyer Chewy-10 added a satellite radio, increasing the price to $45,765.00
-Buyer Luke-11 wants a Motercycle (NeedsOne)
-Buyer Luke-11 is buying! Salesperson Phoebe gets a bonus of $750.00!
-Buyer Luke-11 bought Clean LikeNew Harley-2 for $29,628.00
-Buyer Luke-11 added an extended warrenty, increasing the price to $35,553.00
+The FNCD has 7 buyers today...
+Buyer Chewy-14 wants a Electric (NeedsOne)
+Buyer Chewy-14 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Chewy-14 bought Clean LikeNew Ford-electric-2 for $55,088.00
+Buyer Luke-15 wants a Monstertruck (NeedsOne)
+Buyer Luke-15 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Luke-15 bought Clean LikeNew Bigfoot-3 for $82,444.00
+Buyer Leia-15 wants a Monstertruck (WantsOne)
+Buyer Leia-15 is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Leia-15 bought Dirty LikeNew Zombie-3 for $80,111.25
+Buyer Han-15 wants a Monstertruck (JustLooking)
+Buyer Han-15 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Han-15 bought Sparkling LikeNew Gravedigger-2 for $62,246.00
+Buyer Chewy-15 wants a Monstertruck (WantsOne)
+Buyer Chewy-15 decided not to buy.
+Buyer Luke-16 wants a Pickup (WantsOne)
+Buyer Luke-16 decided not to buy.
+Buyer Leia-16 wants a PerfCar (WantsOne)
+Buyer Leia-16 decided not to buy.
 No-one on the staff is leaving!
 Vehicles in inventory 20
-Vehicles sold count 22
-Money in the budget $925,983.02
+Vehicles sold count 26
+Money in the budget $1,228,875.52
 That's it for the day.
->>> End Simulation Day 17 Tue
+>>> End Simulation Day 17 Sat
 

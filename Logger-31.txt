@@ -1,0 +1,45 @@
+>>> Start Simulation Day 31 Sat
+TEST: 31
+The FNCD is opening...
+Bought Escort-3, a Dirty Broken Car for $5,309.00
+Bought Colorado-4, a Clean LikeNew Pickup for $39,122.00
+Bought Bigfoot-5, a Dirty LikeNew Monstertruck for $33,187.00
+The FNCD interns are washing...
+Intern Fred got a bonus of $100.00for Chemical Wash!
+Intern Fred washed Mustang-2 Dirty to Clean
+Intern Fred got a bonus of $20.00for Detailed wash!
+Intern Fred washed Escort-3 Dirty to Clean
+Intern Ethel got a bonus of $75.00 for elbow grease wash!
+Intern Ethel washed Bigfoot-5 Dirty to Clean
+Intern Ethel washed Avenger-3 Clean to Clean
+Intern Lucy washed Avenger-3 Clean to Clean
+Intern Lucy got a bonus of $100.00for Chemical Wash!
+Intern Lucy washed Mustang-2 Clean to Sparkling
+The FNCD mechanics are repairing...
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Escort-3 Broken to Used
+Mechanic Spock did not fix the Used Escort-3
+Mechanic Spock-2 got a bonus of $100.00!
+Mechanic Spock-2 fixed Escort-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+HERE
+Buyer Luke-26 added a satellite radio, increasing the price to $69,692.00
+Buyer Leia-25 wants a Car (JustLooking)
+Buyer Leia-25 decided not to buy.
+Buyer Han-25 wants a Electric (JustLooking)
+Buyer Han-25 decided not to buy.
+Buyer Chewy-25 wants a Car (JustLooking)
+Buyer Chewy-25 decided not to buy.
+Buyer Luke-26 wants a Monstertruck (NeedsOne)
+Buyer Luke-26 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Luke-26 bought Clean LikeNew Bigfoot-5 for $66,374.00
+Buyer Luke-26 added an extended warrenty, increasing the price to $79,648.00
+Buyer Luke-26 added a satellite radio, increasing the price to $83,630.00
+No-one on the staff is leaving!
+Vehicles in inventory 23
+Vehicles sold count 46
+Money in the budget $2,071,128.23
+That's it for the day.
+>>> End Simulation Day 31 Sat
+

@@ -4,6 +4,8 @@ import java.util.List;
 import java.util.Arrays;
 import java.lang.Math;
 import java.util.Random;
+import java.util.Scanner;
+import java.io.Console;
 
 public abstract class Staff implements SysOut {
     String name;
@@ -218,6 +220,7 @@ class Salesperson extends Staff {
         double saleChance = .7; // needs one
         if (b.type == Enums.BuyerType.WantsOne) saleChance = .4;
         if (b.type == Enums.BuyerType.JustLooking) saleChance = .1;
+
         // find the most expensive vehicle of the type the buyer wants that isn't broken
         // sales chance +10% if Like New, + 10% if Sparkling
         // if no vehicles of type, find remaining most expensive vehicle and sell at -20%
@@ -275,6 +278,51 @@ class Salesperson extends Staff {
                 return null;
             }
         }
+    }
+
+    Vehicle sellVehicleInput(Buyer b, ArrayList<Vehicle> vList, int where){
+        //take in vehicle
+        Scanner in = new Scanner(System.in);
+        Vehicle v = vList.get(where-1);
+        Console cons = System.console();
+        String s;
+        //info about car
+        cons.printf("Details: "+ v.cleanliness+" "+v.condition+" "+v.name+" for "+Utility.asDollar(v.price)+"\n");
+        //buy?
+        cons.printf("Would you like to buy this car? \n");
+        cons.printf("Input a number. Yes - 1 and No - 2 \n");
+        int a = in.nextInt();
+        if(a == 1){
+            //bought
+            a = 5;
+            while(a != 0){
+                cons.printf("What add-ons would you like? \n"); //might need to do a for loop
+                cons.printf("Input a number. Exit - 0, Satellite Radio - 1, Extended Warrenty - 2, Undercoating - 3, or Road Rescue Coverage - 4. \n");
+                a = in.nextInt();
+
+                if(a == 1){
+                    v = new SatelliteRadio(v);
+                    System.out.println("Buyer "+b.name+" added a satellite radio, increasing the price to "+Utility.asDollar(v.price));
+                }
+                if(a == 2 ){
+                    v = new ExtendedWarrenty(v);
+                    System.out.println("Buyer "+b.name+" added an extended warrenty, increasing the price to "+Utility.asDollar(v.price));
+                }
+                if(a == 3){
+                    v = new UnderCoating(v);
+                    System.out.println("Buyer "+b.name+" added an undercoating, increasing the price to "+Utility.asDollar(v.price));
+                }
+                if(a == 4){
+                    v = new RRC(v);
+                    System.out.println("Buyer "+b.name+" added a road rescue coverage, increasing the price to "+Utility.asDollar(v.price));
+                }
+            }
+            return v;
+        }
+        if(a == 2){
+            cons.printf(b.name+ " did not buy anything today.");
+        }
+        return null;
     }
 
     // Little helper for finding most expensive and not broken in a list of vehicles

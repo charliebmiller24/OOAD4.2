@@ -1,41 +1,40 @@
->>> Start Simulation Day 12 Thur
+>>> Start Simulation Day 12 Mon
+TEST: 12
 The FNCD is opening...
-Bought Probe-2, a Clean Used Car for $11,286.40
-Bought Cayman-2, a Dirty Broken PerfCar for $15,161.50
+Hired a new Driver named Momo-2
+Bought Avenger-2, a Clean LikeNew Monstertruck for $48,531.00
+Bought Bigfoot-3, a Sparkling Used Monstertruck for $32,977.60
 The FNCD interns are washing...
-Intern Fred washed Ranger-2 Dirty to Dirty
-Intern Fred got a bonus of $75.00 for elbow grease wash!
-Intern Fred washed Ranger-3 Dirty to Clean
-Intern Ethel got a bonus of $75.00for Detailed wash!
-Intern Ethel washed Ranger-2 Dirty to Clean
-Intern Ethel got a bonus of $100.00 for elbow grease wash!
-Intern Ethel washed Cayman-2 Dirty to Clean
-Intern Lucy washed Probe Clean to Clean
-Intern Lucy washed Escort Clean to Clean
+Intern Fred got a bonus of $100.00for Detailed wash!
+Intern Fred washed Corvette-2 Dirty to Clean
+Intern Fred washed Europa Clean to Clean
+Intern Ethel washed Europa Clean to Clean
+Intern Ethel washed Nissan-leaf Clean to Clean
+Intern Lucy washed Europa Clean to Clean
+Intern Lucy washed Nissan-leaf Clean to Clean
 The FNCD mechanics are repairing...
-Mechanic James did not fix the Used Probe-2
-Mechanic James got a bonus of $300.00!
-Mechanic James fixed Cayman-2 Broken to Used
-Mechanic Scotty got a bonus of $100.00!
-Mechanic Scotty fixed Probe-2 Used to LikeNew
-Mechanic Scotty did not fix the Used Cayman-2
-Mechanic Spock did not fix the Used Cayman-2
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Bigfoot-3 Used to LikeNew
 The FNCD salespeople are selling...
-The FNCD has 3 buyers today...
-Buyer Han-6 wants a PerfCar (WantsOne)
-Buyer Han-6 is buying! Salesperson Rachel gets a bonus of $1,000.00!
-Buyer Han-6 bought Clean LikeNew Mustang for $60,780.00
-Buyer Han-6 added an extended warrenty, increasing the price to $72,936.00
-Buyer Chewy-6 wants a PerfCar (NeedsOne)
-Buyer Chewy-6 is buying! Salesperson Rachel gets a bonus of $1,000.00!
-Buyer Chewy-6 bought Clean LikeNew Cayman for $59,350.00
-Buyer Chewy-6 added an extended warrenty, increasing the price to $71,220.00
-Buyer Luke-7 wants a Motercycle (WantsOne)
-Buyer Luke-7 decided not to buy.
+The FNCD has 5 buyers today...
+Buyer Han-10 wants a Car (NeedsOne)
+Buyer Han-10 decided not to buy.
+Buyer Chewy-10 wants a PerfCar (WantsOne)
+Buyer Chewy-10 decided not to buy.
+Buyer Luke-11 wants a Electric (WantsOne)
+Buyer Luke-11 decided not to buy.
+Buyer Leia-11 wants a Motercycle (WantsOne)
+Buyer Leia-11 is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Leia-11 bought Sparkling LikeNew Harley-2 for $71,784.00
+Buyer Leia-11 added a satellite radio, increasing the price to $75,373.00
+Buyer Han-11 wants a Electric (NeedsOne)
+Buyer Han-11 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Han-11 bought Sparkling LikeNew Ford-electric for $77,408.00
+Buyer Han-11 added a satellite radio, increasing the price to $81,278.00
 No-one on the staff is leaving!
 Vehicles in inventory 22
-Vehicles sold count 13
-Money in the budget $645,746.37
+Vehicles sold count 18
+Money in the budget $763,687.95
 That's it for the day.
->>> End Simulation Day 12 Thur
+>>> End Simulation Day 12 Mon
 

@@ -1,35 +1,9 @@
->>> Start Simulation Day 25 Wed
+>>> Start Simulation Day 25 Sun
 The FNCD drivers are racing...
-Driver Fredrick-3 finished in 14 place with Zombie-2 Monstertruck
-Driver Momo-3 finished in 16 place with Gravedigger Monstertruck
+Driver Carl-2 finished in 9 place with KTM-3 Motercycle
+Driver Momo-3 finished in 16 place with Kowasaki Motercycle
 Driver Momo-3 got injured in todays race.
-Driver PJ-3 finished in 7 place with Bigfoot Monstertruck
-The FNCD is opening...
-Hired a new Driver named Carl-3
-Hired a new Driver named Fredrick-4
-Bought Gravedigger-2, a Clean LikeNew Monstertruck for $35,717.00
-The FNCD interns are washing...
-Intern Fred got a bonus of $20.00for Chemical Wash!
-Intern Fred washed Fiesta-3 Dirty to Clean
-Intern Fred got a bonus of $75.00for Chemical Wash!
-Intern Fred washed Nissan-leaf-2 Dirty to Clean
-Intern Ethel washed Yamaha-4 Dirty to Dirty
-Intern Ethel washed tesla-y-2 Clean to Clean
-Intern Lucy got a bonus of $75.00 for elbow grease wash!
-Intern Lucy washed Yamaha-4 Dirty to Clean
-Intern Lucy got a bonus of $75.00for Elbow grease Wash!
-Intern Lucy washed tesla-y-2 Clean to Sparkling
-The FNCD mechanics are repairing...
-Mechanic James did not fix the Broken Gravedigger
-Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Gravedigger Broken to Used
-Mechanic Spock did not fix the Used Gravedigger
-The FNCD salespeople are selling...
-The FNCD has 0 buyers today...
-No-one on the staff is leaving!
-Vehicles in inventory 24
-Vehicles sold count 31
-Money in the budget $1,101,844.30
-That's it for the day.
->>> End Simulation Day 25 Wed
+Driver PJ-3 finished in 8 place with Kowasaki-2 Motercycle
+Sorry, FNCD is closed on Sun
+>>> End Simulation Day 25 Sun
 

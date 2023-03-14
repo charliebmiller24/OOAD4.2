@@ -1,9 +1,27 @@
->>> Start Simulation Day 22 Sun
-The FNCD drivers are racing...
-Driver Fredrick-3 finished in 7 place with F-250-2 Pickup
-Driver Fredrick-2 finished in 20 place with Tundra-2 Pickup
-Driver Momo-2 finished in 17 place with Ranger-3 Pickup
-Driver Momo-2 got injured in todays race.
-Sorry, FNCD is closed on Sun
->>> End Simulation Day 22 Sun
+>>> Start Simulation Day 22 Thur
+TEST: 22
+The FNCD is opening...
+Bought Cayman-3, a Dirty Used PerfCar for $29,552.80
+The FNCD interns are washing...
+Intern Fred got a bonus of $75.00 for elbow grease wash!
+Intern Fred washed Kowasaki Dirty to Clean
+Intern Fred got a bonus of $75.00 for elbow grease wash!
+Intern Fred washed Colorado-3 Dirty to Clean
+Intern Ethel got a bonus of $100.00for Detailed wash!
+Intern Ethel washed Cayman-3 Dirty to Clean
+Intern Ethel washed Ranger-2 Clean to Dirty
+Intern Lucy got a bonus of $75.00for Detailed wash!
+Intern Lucy washed Ranger-2 Dirty to Clean
+Intern Lucy washed Ranger-2 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Cayman-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 32
+Money in the budget $1,374,538.53
+That's it for the day.
+>>> End Simulation Day 22 Thur
 

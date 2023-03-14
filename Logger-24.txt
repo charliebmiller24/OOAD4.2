@@ -1,31 +1,48 @@
->>> Start Simulation Day 24 Tue
+>>> Start Simulation Day 24 Sat
+TEST: 24
 The FNCD is opening...
-Bought Escort-4, a Clean LikeNew Car for $18,604.00
+Bought Taurus-2, a Dirty Broken Car for $5,973.00
+Bought Tundra-3, a Dirty LikeNew Pickup for $39,485.00
+Bought Ranger-4, a Clean Used Pickup for $14,477.60
+Bought Tesla-x-3, a Dirty Used Electric for $19,171.20
 The FNCD interns are washing...
+Intern Fred got a bonus of $20.00for Chemical Wash!
+Intern Fred washed Taurus-2 Dirty to Clean
 Intern Fred got a bonus of $75.00 for elbow grease wash!
-Intern Fred washed Tundra-2 Dirty to Clean
-Intern Fred got a bonus of $20.00 for elbow grease wash!
-Intern Fred washed Fiesta-3 Dirty to Clean
-Intern Ethel washed Colorado-3 Dirty to Dirty
-Intern Ethel washed tesla-y-2 Clean to Clean
+Intern Fred washed Tundra-3 Dirty to Clean
+Intern Ethel washed Tesla-x-3 Dirty to Dirty
+Intern Ethel got a bonus of $75.00for Elbow grease Wash!
+Intern Ethel washed Tundra-2 Clean to Sparkling
 Intern Lucy got a bonus of $75.00for Detailed wash!
-Intern Lucy washed Colorado-3 Dirty to Clean
+Intern Lucy washed Tesla-x-3 Dirty to Sparkling
 Intern Lucy washed tesla-y-2 Clean to Clean
 The FNCD mechanics are repairing...
-Mechanic James got a bonus of $100.00!
-Mechanic James fixed Fiesta-3 Used to LikeNew
-Mechanic James got a bonus of $200.00!
-Mechanic James fixed Nissan-leaf-2 Broken to Used
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Taurus-2 Broken to Used
 Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Nissan-leaf-2 Used to LikeNew
-Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Yamaha-4 Used to LikeNew
+Mechanic Scotty fixed Ranger-4 Used to LikeNew
+Mechanic Spock did not fix the Used Taurus-2
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Tesla-x-3 Used to LikeNew
+Mechanic Spock-2 got a bonus of $100.00!
+Mechanic Spock-2 fixed Taurus-2 Used to LikeNew
 The FNCD salespeople are selling...
-The FNCD has 0 buyers today...
+The FNCD has 4 buyers today...
+Buyer Han-20 wants a PerfCar (NeedsOne)
+Buyer Han-20 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Han-20 bought Clean LikeNew Cayman-3 for $73,882.00
+Buyer Chewy-20 wants a Monstertruck (JustLooking)
+Buyer Chewy-20 decided not to buy.
+Buyer Luke-21 wants a Car (JustLooking)
+Buyer Luke-21 decided not to buy.
+Buyer Leia-21 wants a Pickup (NeedsOne)
+Buyer Leia-21 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Leia-21 bought Clean LikeNew Tundra-3 for $78,970.00
+Buyer Leia-21 added an undercoating, increasing the price to $82,918.00
 No-one on the staff is leaving!
-Vehicles in inventory 24
-Vehicles sold count 31
-Money in the budget $1,138,821.30
+Vehicles in inventory 22
+Vehicles sold count 38
+Money in the budget $1,694,510.73
 That's it for the day.
->>> End Simulation Day 24 Tue
+>>> End Simulation Day 24 Sat
 

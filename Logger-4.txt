@@ -1,46 +1,8 @@
->>> Start Simulation Day 4 Wed
+>>> Start Simulation Day 4 Sun
 The FNCD drivers are racing...
-Driver Momo finished in 15 place with Yamaha Motercycle
-Driver Fredrick finished in 12 place with Harley Motercycle
-Driver PJ finished in 4 place with Kowasaki Motercycle
-The FNCD is opening...
-Hired a new Driver named Carl
-Bought Yamaha-2, a Dirty LikeNew Motercycle for $17,710.00
-The FNCD interns are washing...
-Intern Fred washed Europa Dirty to Dirty
-Intern Fred got a bonus of $100.00 for elbow grease wash!
-Intern Fred washed Corvette Dirty to Clean
-Intern Ethel got a bonus of $100.00for Chemical Wash!
-Intern Ethel washed Europa Dirty to Sparkling
-Intern Ethel got a bonus of $75.00 for elbow grease wash!
-Intern Ethel washed F-250 Dirty to Clean
-Intern Lucy got a bonus of $75.00for Chemical Wash!
-Intern Lucy washed Colorado Dirty to Clean
-Intern Lucy washed Nissan-leaf Dirty to Dirty
-The FNCD mechanics are repairing...
-Mechanic James got a bonus of $200.00!
-Mechanic James fixed F-250 Broken to Used
-Mechanic James got a bonus of $200.00!
-Mechanic James fixed Colorado Used to LikeNew
-Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed F-250 Used to LikeNew
-Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed tesla-y Used to LikeNew
-Mechanic Spock got a bonus of $200.00!
-Mechanic Spock fixed Ford-electric Broken to Used
-Mechanic Spock did not fix the Broken Nissan-leaf
-The FNCD salespeople are selling...
-The FNCD has 3 buyers today...
-Buyer Leia-2 wants a Monstertruck (WantsOne)
-Buyer Leia-2 decided not to buy.
-Buyer Han-2 wants a Monstertruck (NeedsOne)
-Buyer Han-2 decided not to buy.
-Buyer Chewy-2 wants a PerfCar (JustLooking)
-Buyer Chewy-2 decided not to buy.
-No-one on the staff is leaving!
-Vehicles in inventory 24
-Vehicles sold count 2
-Money in the budget $120,632.00
-That's it for the day.
->>> End Simulation Day 4 Wed
+Driver Fredrick finished in 13 place with Zombie Monstertruck
+Driver Momo finished in 14 place with Avenger Monstertruck
+No more Monstertruck vehicles
+Sorry, FNCD is closed on Sun
+>>> End Simulation Day 4 Sun
 
