@@ -1,34 +1,24 @@
->>> Start Simulation Day 26 Tue
+>>> Start Simulation Day 26 Thur
 The FNCD is opening...
-Bought tesla-y-3, a Dirty Used Electric for $30,089.60
-Bought Kowasaki-4, a Dirty LikeNew Motercycle for $34,895.00
 The FNCD interns are washing...
-Intern Fred got a bonus of $100.00for Detailed wash!
-Intern Fred washed Mustang-2 Dirty to Clean
-Intern Fred got a bonus of $75.00for Chemical Wash!
-Intern Fred washed Bigfoot-3 Dirty to Clean
-Intern Ethel got a bonus of $75.00 for elbow grease wash!
-Intern Ethel washed tesla-y-3 Dirty to Clean
-Intern Ethel got a bonus of $75.00for Detailed wash!
-Intern Ethel washed Kowasaki-4 Dirty to Clean
-Intern Lucy washed tesla-y-2 Clean to Clean
-Intern Lucy washed Taurus-2 Clean to Clean
+Intern Fred got a bonus of $75.00 for elbow grease wash!
+Intern Fred washed Gravedigger Dirty to Clean
+Intern Fred washed Corvette-2 Clean to Clean
+Intern Ethel washed Corvette-2 Clean to Clean
+Intern Ethel washed Kowasaki-2 Clean to Clean
+Intern Lucy washed Corvette-2 Clean to Dirty
+Intern Lucy washed Kowasaki-2 Clean to Clean
 The FNCD mechanics are repairing...
 Mechanic James got a bonus of $200.00!
-Mechanic James fixed tesla-y-3 Used to LikeNew
+Mechanic James fixed Gravedigger Used to LikeNew
 The FNCD salespeople are selling...
-The FNCD has 3 buyers today...
-Buyer Han-19 wants a PerfCar (WantsOne)
-Buyer Han-19 decided not to buy.
-Buyer Chewy-19 wants a Car (WantsOne)
-Buyer Chewy-19 decided not to buy.
-Buyer Luke-20 wants a Motercycle (JustLooking)
-Buyer Luke-20 decided not to buy.
-Phoebe(Salesperson) quit.
-Fred has got promoted to Salesperson!
+The FNCD has 1 buyers today...
+Buyer Luke-16 wants a PerfCar (WantsOne)
+Buyer Luke-16 decided not to buy.
+No-one on the staff is leaving!
 Vehicles in inventory 24
-Vehicles sold count 37
-Money in the budget $1,359,826.25
+Vehicles sold count 31
+Money in the budget $1,100,584.30
 That's it for the day.
->>> End Simulation Day 26 Tue
+>>> End Simulation Day 26 Thur
 

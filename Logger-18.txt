@@ -1,32 +1,43 @@
->>> Start Simulation Day 18 Mon
+>>> Start Simulation Day 18 Wed
+The FNCD drivers are racing...
+Driver Momo-2 finished in 12 place with Europa PerfCar
+Driver Fredrick-2 finished in 9 place with Mustang-2 PerfCar
+Driver Carl-2 finished in 3 place with Cayman-2 PerfCar
+Driver Carl-2 got a bonus of $300.00!
 The FNCD is opening...
-Hired a new Driver named Momo-2
-Bought Cayman-2, a Clean Used PerfCar for $29,712.80
-Bought Harley-3, a Dirty LikeNew Motercycle for $39,937.00
-Bought KTM-3, a Clean Broken Motercycle for $8,660.50
+Hired a new Driver named Fredrick-3
+Bought Probe-3, a Dirty LikeNew Car for $17,340.00
+Bought Europa-3, a Clean Used PerfCar for $26,511.20
+Bought Kowasaki-3, a Dirty Used Motercycle for $23,234.40
+Bought Harley-3, a Clean LikeNew Motercycle for $38,112.00
+Bought KTM-3, a Clean Used Motercycle for $27,370.40
 The FNCD interns are washing...
-Intern Fred got a bonus of $75.00for Detailed wash!
-Intern Fred washed Tundra-3 Dirty to Sparkling
-Intern Fred got a bonus of $75.00 for elbow grease wash!
-Intern Fred washed Harley-3 Dirty to Clean
-Intern Ethel washed Mustang Clean to Dirty
-Intern Ethel washed Ranger Clean to Clean
-Intern Lucy got a bonus of $100.00for Chemical Wash!
-Intern Lucy washed Mustang Dirty to Clean
-Intern Lucy washed Mustang Clean to Dirty
+Intern Fred got a bonus of $20.00for Detailed wash!
+Intern Fred washed Taurus-2 Dirty to Clean
+Intern Fred washed Probe-3 Dirty to Dirty
+Intern Ethel got a bonus of $20.00for Detailed wash!
+Intern Ethel washed Probe-3 Dirty to Clean
+Intern Ethel got a bonus of $75.00for Chemical Wash!
+Intern Ethel washed Kowasaki-3 Dirty to Clean
+Intern Lucy got a bonus of $75.00for Detailed Wash!
+Intern Lucy washed Zombie Clean to Sparkling
+Intern Lucy got a bonus of $75.00for Detailed Wash!
+Intern Lucy washed Gravedigger Clean to Sparkling
 The FNCD mechanics are repairing...
 Mechanic James got a bonus of $300.00!
-Mechanic James fixed Cayman-2 Used to LikeNew
+Mechanic James fixed Europa-3 Used to LikeNew
 Mechanic James got a bonus of $200.00!
-Mechanic James fixed KTM-3 Broken to Used
+Mechanic James fixed Kowasaki-3 Used to LikeNew
 Mechanic Scotty got a bonus of $200.00!
 Mechanic Scotty fixed KTM-3 Used to LikeNew
 The FNCD salespeople are selling...
-The FNCD has 0 buyers today...
+The FNCD has 1 buyers today...
+Buyer Leia-11 wants a Car (JustLooking)
+Buyer Leia-11 decided not to buy.
 No-one on the staff is leaving!
 Vehicles in inventory 24
-Vehicles sold count 25
-Money in the budget $911,071.45
+Vehicles sold count 22
+Money in the budget $792,155.02
 That's it for the day.
->>> End Simulation Day 18 Mon
+>>> End Simulation Day 18 Wed
 

@@ -1,36 +1,38 @@
->>> Start Simulation Day 5 Tue
+>>> Start Simulation Day 5 Thur
 The FNCD is opening...
-Bought F-250-2, a Dirty Broken Pickup for $9,855.50
 The FNCD interns are washing...
-Intern Fred washed Cayman Dirty to Dirty
-Intern Fred got a bonus of $100.00for Chemical Wash!
-Intern Fred washed Mustang Dirty to Clean
-Intern Ethel washed Cayman Dirty to Dirty
-Intern Ethel got a bonus of $75.00 for elbow grease wash!
-Intern Ethel washed Ranger Dirty to Clean
-Intern Lucy got a bonus of $100.00for Detailed wash!
-Intern Lucy washed Cayman Dirty to Clean
+Intern Fred got a bonus of $75.00 for elbow grease wash!
+Intern Fred washed F-250 Dirty to Clean
+Intern Fred got a bonus of $75.00 for elbow grease wash!
+Intern Fred washed Colorado Dirty to Clean
+Intern Ethel got a bonus of $75.00for Detailed wash!
+Intern Ethel washed tesla-y Dirty to Clean
+Intern Ethel got a bonus of $75.00for Detailed wash!
+Intern Ethel washed Ford-electric Dirty to Sparkling
 Intern Lucy got a bonus of $75.00for Detailed wash!
-Intern Lucy washed F-250 Dirty to Clean
+Intern Lucy washed Nissan-leaf Dirty to Clean
+Intern Lucy got a bonus of $75.00for Chemical Wash!
+Intern Lucy washed KTM Dirty to Clean
 The FNCD mechanics are repairing...
-Mechanic James did not fix the Used Ranger
 Mechanic James got a bonus of $200.00!
-Mechanic James fixed F-250 Broken to Used
+Mechanic James fixed Ford-electric Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Nissan-leaf Broken to Used
 Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Ranger Used to LikeNew
-Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed F-250 Used to LikeNew
-Mechanic Spock did not fix the Broken Colorado
+Mechanic Scotty fixed Nissan-leaf Used to LikeNew
+Mechanic Scotty did not fix the Broken KTM
 Mechanic Spock got a bonus of $200.00!
-Mechanic Spock fixed Tesla-x Broken to Used
+Mechanic Spock fixed KTM Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Zombie Used to LikeNew
 The FNCD salespeople are selling...
 The FNCD has 1 buyers today...
-Buyer Leia-3 wants a Pickup (JustLooking)
-Buyer Leia-3 decided not to buy.
+Buyer Luke-3 wants a Car (NeedsOne)
+Buyer Luke-3 decided not to buy.
 No-one on the staff is leaving!
 Vehicles in inventory 24
-Vehicles sold count 3
-Money in the budget $167,595.50
+Vehicles sold count 2
+Money in the budget $119,372.00
 That's it for the day.
->>> End Simulation Day 5 Tue
+>>> End Simulation Day 5 Thur
 

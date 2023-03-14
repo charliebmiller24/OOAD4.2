@@ -1,50 +1,58 @@
->>> Start Simulation Day 23 Sat
+>>> Start Simulation Day 23 Mon
 The FNCD is opening...
+Hired a new Driver named PJ-3
+Hired a new Driver named Momo-3
+Bought Taurus-3, a Dirty Broken Car for $9,956.00
+Bought Fiesta-3, a Dirty Broken Car for $8,568.00
+Bought Probe-4, a Sparkling LikeNew Car for $11,362.00
+Bought F-250-3, a Clean LikeNew Pickup for $25,206.00
+Bought Colorado-3, a Dirty Used Pickup for $12,084.80
+Bought Nissan-leaf-2, a Clean Broken Electric for $12,372.50
+Bought Yamaha-4, a Dirty Used Motercycle for $12,857.60
 The FNCD interns are washing...
-Intern Fred got a bonus of $100.00for Chemical Wash!
-Intern Fred washed Corvette-2 Dirty to Sparkling
-Intern Fred got a bonus of $75.00 for elbow grease wash!
-Intern Fred washed Avenger-2 Dirty to Clean
-Intern Ethel got a bonus of $20.00for Chemical Wash!
-Intern Ethel washed Escort-3 Dirty to Clean
-Intern Ethel got a bonus of $75.00for Chemical Wash!
-Intern Ethel washed Nissan-leaf-2 Dirty to Sparkling
-Intern Lucy got a bonus of $75.00for Detailed Wash!
-Intern Lucy washed Ranger Clean to Sparkling
-Intern Lucy got a bonus of $75.00for Elbow grease Wash!
-Intern Lucy washed tesla-y Clean to Sparkling
+Intern Fred got a bonus of $75.00for Chemical Wash!
+Intern Fred washed tesla-y-2 Dirty to Clean
+Intern Fred got a bonus of $20.00for Detailed wash!
+Intern Fred washed Taurus-3 Dirty to Clean
+Intern Ethel washed Fiesta-3 Dirty to Dirty
+Intern Ethel got a bonus of $75.00 for elbow grease wash!
+Intern Ethel washed Colorado-3 Dirty to Clean
+Intern Lucy got a bonus of $20.00 for elbow grease wash!
+Intern Lucy washed Fiesta-3 Dirty to Clean
+Intern Lucy got a bonus of $75.00for Detailed wash!
+Intern Lucy washed Yamaha-4 Dirty to Clean
 The FNCD mechanics are repairing...
 Mechanic James got a bonus of $200.00!
-Mechanic James fixed Nissan-leaf-2 Used to LikeNew
+Mechanic James fixed Tundra-2 Broken to Used
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Taurus-3 Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Tundra-2 Used to LikeNew
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Taurus-3 Used to LikeNew
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Fiesta-3 Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Colorado-3 Used to LikeNew
 The FNCD salespeople are selling...
-The FNCD has 8 buyers today...
-Buyer Han-16 wants a Motercycle (WantsOne)
-Buyer Han-16 is buying! Salesperson Monica gets a bonus of $750.00!
-Buyer Han-16 bought Clean LikeNew Harley-3 for $79,874.00
-Buyer Han-16 added a satellite radio, increasing the price to $83,867.00
-Buyer Chewy-16 wants a Pickup (WantsOne)
-Buyer Chewy-16 is buying! Salesperson Monica gets a bonus of $750.00!
-Buyer Chewy-16 bought Clean LikeNew Colorado-4 for $79,232.00
-Buyer Chewy-16 added an extended warrenty, increasing the price to $95,078.00
-TEST: Colorado-4
-Buyer Luke-17 wants a Car (WantsOne)
-Buyer Luke-17 decided not to buy.
-Buyer Leia-17 wants a Car (JustLooking)
-Buyer Leia-17 decided not to buy.
-Buyer Han-17 wants a Pickup (WantsOne)
-Buyer Han-17 decided not to buy.
-Buyer Chewy-17 wants a PerfCar (JustLooking)
-Buyer Chewy-17 decided not to buy.
-Buyer Luke-18 wants a PerfCar (NeedsOne)
-Buyer Luke-18 is buying! Salesperson Monica gets a bonus of $1,000.00!
-Buyer Luke-18 bought Sparkling LikeNew Mustang for $72,168.00
-Buyer Luke-18 added an undercoating, increasing the price to $75,776.00
-Buyer Leia-18 wants a Motercycle (JustLooking)
-Buyer Leia-18 decided not to buy.
+The FNCD has 5 buyers today...
+Buyer Chewy-14 wants a Car (WantsOne)
+Buyer Chewy-14 is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Chewy-14 bought Dirty LikeNew Taurus-3 for $37,335.00
+Buyer Chewy-14 added an extended warrenty, increasing the price to $44,802.00
+Buyer Chewy-14 added a satellite radio, increasing the price to $47,042.00
+Buyer Luke-15 wants a Car (WantsOne)
+Buyer Luke-15 decided not to buy.
+Buyer Leia-15 wants a Motercycle (JustLooking)
+Buyer Leia-15 decided not to buy.
+Buyer Han-15 wants a Car (NeedsOne)
+Buyer Han-15 decided not to buy.
+Buyer Chewy-15 wants a Monstertruck (JustLooking)
+Buyer Chewy-15 decided not to buy.
 No-one on the staff is leaving!
-Vehicles in inventory 21
-Vehicles sold count 35
-Money in the budget $1,405,904.45
+Vehicles in inventory 23
+Vehicles sold count 31
+Money in the budget $1,158,685.30
 That's it for the day.
->>> End Simulation Day 23 Sat
+>>> End Simulation Day 23 Mon
 

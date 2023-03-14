@@ -1,40 +1,33 @@
->>> Start Simulation Day 27 Wed
-The FNCD drivers are racing...
-Driver Fredrick-3 finished in 1 place with F-250-4 Pickup
-Driver Fredrick-3 got a bonus of $200.00!
-Driver Fredrick-2 finished in 11 place with Ranger Pickup
-Driver Carl-2 finished in 13 place with Colorado-3 Pickup
+>>> Start Simulation Day 27 Fri
 The FNCD is opening...
-Hired a new Salesperson named Ross
-Hired a new Driver named PJ-3
-Bought Ranger-5, a Sparkling LikeNew Pickup for $13,308.00
 The FNCD interns are washing...
-Intern Fred got a bonus of $75.00 for elbow grease wash!
-Intern Fred washed tesla-y-3 Dirty to Clean
-Intern Fred washed tesla-y-2 Clean to Clean
-Intern Ethel got a bonus of $75.00for Detailed Wash!
-Intern Ethel washed tesla-y-2 Clean to Sparkling
-Intern Ethel washed Taurus-2 Clean to Clean
-Intern Lucy washed Taurus-2 Clean to Clean
-Intern Lucy got a bonus of $100.00for Detailed Wash!
-Intern Lucy washed Europa-2 Clean to Sparkling
+Intern Fred washed Corvette-2 Dirty to Dirty
+Intern Fred got a bonus of $75.00for Detailed wash!
+Intern Fred washed Gravedigger Dirty to Sparkling
+Intern Ethel got a bonus of $100.00for Chemical Wash!
+Intern Ethel washed Corvette-2 Dirty to Clean
+Intern Ethel washed Corvette-2 Clean to Clean
+Intern Lucy washed Corvette-2 Clean to Clean
+Intern Lucy washed Kowasaki-2 Clean to Clean
 The FNCD mechanics are repairing...
 The FNCD salespeople are selling...
 The FNCD has 4 buyers today...
-Buyer Leia-20 wants a PerfCar (JustLooking)
-Buyer Leia-20 decided not to buy.
-Buyer Han-20 wants a Monstertruck (WantsOne)
-Buyer Han-20 decided not to buy.
-Buyer Chewy-20 wants a Car (NeedsOne)
-Buyer Chewy-20 decided not to buy.
-Buyer Luke-21 wants a Monstertruck (NeedsOne)
-Buyer Luke-21 is buying! Salesperson Monica gets a bonus of $750.00!
-Buyer Luke-21 bought Clean LikeNew Bigfoot-3 for $94,538.00
-Buyer Luke-21 added a satellite radio, increasing the price to $99,264.00
+Buyer Leia-16 wants a Car (NeedsOne)
+Buyer Leia-16 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Leia-16 bought Clean LikeNew Escort-4 for $37,208.00
+Buyer Leia-16 added a satellite radio, increasing the price to $39,068.00
+Buyer Han-16 wants a Motercycle (NeedsOne)
+Buyer Han-16 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Han-16 bought Clean LikeNew KTM-3 for $68,426.00
+Buyer Chewy-16 wants a PerfCar (WantsOne)
+Buyer Chewy-16 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Chewy-16 bought Clean LikeNew Europa-3 for $66,278.00
+Buyer Luke-17 wants a Car (JustLooking)
+Buyer Luke-17 decided not to buy.
 No-one on the staff is leaving!
-Vehicles in inventory 23
-Vehicles sold count 38
-Money in the budget $1,444,522.25
+Vehicles in inventory 21
+Vehicles sold count 34
+Money in the budget $1,273,096.30
 That's it for the day.
->>> End Simulation Day 27 Wed
+>>> End Simulation Day 27 Fri
 

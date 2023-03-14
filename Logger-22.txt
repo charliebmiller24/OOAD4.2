@@ -1,42 +1,9 @@
->>> Start Simulation Day 22 Fri
-The FNCD is opening...
-Bought Colorado-4, a Clean LikeNew Pickup for $39,616.00
-Bought Tesla-x-3, a Dirty LikeNew Electric for $33,136.00
-The FNCD interns are washing...
-Intern Fred washed Zombie Dirty to Dirty
-Intern Fred got a bonus of $100.00for Chemical Wash!
-Intern Fred washed Corvette-2 Dirty to Clean
-Intern Ethel got a bonus of $75.00 for elbow grease wash!
-Intern Ethel washed Zombie Dirty to Clean
-Intern Ethel got a bonus of $75.00for Chemical Wash!
-Intern Ethel washed Avenger-2 Dirty to Clean
-Intern Lucy got a bonus of $75.00for Detailed wash!
-Intern Lucy washed Tesla-x-3 Dirty to Clean
-Intern Lucy washed Ranger Clean to Clean
-The FNCD mechanics are repairing...
-Mechanic James got a bonus of $300.00!
-Mechanic James fixed Corvette-2 Used to LikeNew
-Mechanic James did not fix the Used Avenger-2
-Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Avenger-2 Used to LikeNew
-Mechanic Scotty got a bonus of $100.00!
-Mechanic Scotty fixed Escort-3 Broken to Used
-Mechanic Spock got a bonus of $100.00!
-Mechanic Spock fixed Escort-3 Used to LikeNew
-Mechanic Spock got a bonus of $200.00!
-Mechanic Spock fixed Nissan-leaf-2 Broken to Used
-The FNCD salespeople are selling...
-The FNCD has 3 buyers today...
-Buyer Chewy-15 wants a Electric (WantsOne)
-Buyer Chewy-15 decided not to buy.
-Buyer Luke-16 wants a Car (JustLooking)
-Buyer Luke-16 decided not to buy.
-Buyer Leia-16 wants a Pickup (WantsOne)
-Buyer Leia-16 decided not to buy.
-No-one on the staff is leaving!
-Vehicles in inventory 24
-Vehicles sold count 32
-Money in the budget $1,152,443.45
-That's it for the day.
->>> End Simulation Day 22 Fri
+>>> Start Simulation Day 22 Sun
+The FNCD drivers are racing...
+Driver Fredrick-3 finished in 7 place with F-250-2 Pickup
+Driver Fredrick-2 finished in 20 place with Tundra-2 Pickup
+Driver Momo-2 finished in 17 place with Ranger-3 Pickup
+Driver Momo-2 got injured in todays race.
+Sorry, FNCD is closed on Sun
+>>> End Simulation Day 22 Sun
 

@@ -1,6 +1,37 @@
->>> Start Simulation Day 3 Sun
-The FNCD drivers are racing...
-No more Monstertruck vehicles
-Sorry, FNCD is closed on Sun
->>> End Simulation Day 3 Sun
+>>> Start Simulation Day 3 Tue
+The FNCD is opening...
+Bought Ranger-2, a Clean Broken Pickup for $10,412.00
+Bought F-250-2, a Dirty LikeNew Pickup for $16,732.00
+The FNCD interns are washing...
+Intern Fred got a bonus of $20.00for Detailed wash!
+Intern Fred washed Fiesta Dirty to Sparkling
+Intern Fred got a bonus of $100.00for Chemical Wash!
+Intern Fred washed Europa Dirty to Clean
+Intern Ethel got a bonus of $100.00for Chemical Wash!
+Intern Ethel washed Cayman Dirty to Clean
+Intern Ethel got a bonus of $75.00for Detailed wash!
+Intern Ethel washed Tesla-x Dirty to Clean
+Intern Lucy got a bonus of $75.00 for elbow grease wash!
+Intern Lucy washed Ford-electric Dirty to Clean
+Intern Lucy washed Nissan-leaf Dirty to Dirty
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Europa Broken to Used
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Corvette Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Europa Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Corvette Used to LikeNew
+Mechanic Spock did not fix the Broken F-250
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Colorado Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 2
+Money in the budget $139,602.00
+That's it for the day.
+>>> End Simulation Day 3 Tue
 
