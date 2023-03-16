@@ -134,7 +134,6 @@ public class FNCD implements SysOut {
     void normalDay(Enums.DayOfWeek day, int numDays) {  // On a normal day, we do all the activities
 
         // opening
-        out("TEST: "+ numDays);
         out("The FNCD is opening...");
         hireNewStaff();    // hire up to 3 of each staff type
         updateInventory();  // buy up to 4 of each type
@@ -167,7 +166,6 @@ public class FNCD implements SysOut {
 
         if(numDays == 31){
             String s;
-            out("HERE");
             Scanner in = new Scanner(System.in);
 
             int randomSeller = Utility.rndFromRange(0,salespeople.size()-1);
@@ -175,6 +173,80 @@ public class FNCD implements SysOut {
 
             int randomBuyer = Utility.rndFromRange(0,buyers.size()-1);
             Buyer b = (Buyer) buyers.get(randomBuyer);
+
+
+
+            int nu = 0;
+            while(nu != 8){
+                cons.printf("\n");
+                cons.printf("MENU \n");
+                cons.printf("1) FNCD North or South? \n");
+                cons.printf("2) Ask the Salesperson their name \n");
+                cons.printf("3) Ask what time it is \n");
+                cons.printf("4) Ask for a different Salesperson \n");
+                cons.printf("5) Ask for the current inventory \n");
+                cons.printf("6) Ask the Salesperson for all details on car \n");
+                cons.printf("7) Buy a car! \n");
+                cons.printf("8) Quit \n");
+                cons.printf("\n");
+
+                nu = in.nextInt();
+
+                switch(nu){
+                    case 1:
+                        FNCDNorS loc = new FNCDNorS();
+                        loc.NorS();
+                        loc.execute();
+                        //Doesn't do anything as of now
+                        break;
+                    case 2:
+                        SalesName name = new SalesName();
+                        name.name(seller);
+                        name.execute(); //send salesperson and get name back
+                        break;
+                    case 3:
+                        Time time = new Time();
+                        time.execute();
+                        break;
+                    case 4:
+                        //fix
+                        DifferentSalesperson diffSale = new DifferentSalesperson();
+                        seller = diffSale.newPerson(salespeople);
+                        diffSale.execute();
+                        break;
+                    case 5:
+                        Inventory inv = new Inventory();
+                        inv.inventory(vehicle);
+                        inv.execute();
+                        break;
+                    case 6:
+                        Details detail = new Details();
+                        detail.details(vehicle);
+                        detail.execute();
+                        break;
+                    case 7:
+                        Buy buy = new Buy();
+                        Vehicle vSold = buy.buying(vehicle);
+                        buy.execute();
+                        if (vSold != null) {
+                            soldVehicles.add(vSold);
+                            moneyIn(vSold.price);
+                            inventory.removeIf ( n -> n.name == vSold.name);
+                        }
+                        break;
+                    case 8:
+                        Exit exit = new Exit();
+                        exit.execute();
+                        break;
+                }
+            }
+
+
+
+
+
+
+            /*
             cons.printf("What is your name? \n");
             cons.printf("Hello I am your salesperson today. My name is "+ seller.name+ " \n");
             //s = in.nextLine();
@@ -208,10 +280,10 @@ public class FNCD implements SysOut {
             cons.printf("Select a number to know more details. \n");
             int a = in.nextInt();
             Vehicle vSold = seller.sellVehicleInput(b, inventory, a);
-
+            */
         }
 
-        cons.printf("Thank you for visiting FNCD \n"); //maybe add north or south
+        //cons.printf("Thank you for visiting FNCD \n"); //maybe add north or south
 
 
 
