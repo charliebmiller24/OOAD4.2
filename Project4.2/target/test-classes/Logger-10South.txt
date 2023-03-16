@@ -1,0 +1,62 @@
+>>> Start Simulation Day 10 Sat
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Desi got a bonus of $100.00for Chemical Wash!
+Intern Desi washed Row-boat-3 Dirty to Clean
+Intern Desi got a bonus of $100.00for Chemical Wash!
+Intern Desi washed VWBus-2 Dirty to Clean
+Intern Fred-2 got a bonus of $100.00for Chemical Wash!
+Intern Fred-2 washed PartyBus-2 Dirty to Clean
+Intern Fred-2 got a bonus of $100.00for Chemical Wash!
+Intern Fred-2 washed Doubledecker-3 Dirty to Clean
+Intern Ethel-2 got a bonus of $100.00 for elbow grease wash!
+Intern Ethel-2 washed SchoolBus-3 Dirty to Clean
+Intern Ethel-2 got a bonus of $100.00 for elbow grease wash!
+Intern Ethel-2 washed VWBus-3 Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed SchoolBus-3 Used to LikeNew
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed BigRig-2 Used to LikeNew
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed FlatBed-2 Broken to Used
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed TeslaTrcuk-3 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $300.00!
+Mechanic Scotty-2 fixed FlatBed-2 Used to LikeNew
+Mechanic Scotty-2 did not fix the Broken FlatBed-3
+The FNCD salespeople are selling...
+The FNCD has 8 buyers today...
+Buyer Han-13 wants a Pickup (NeedsOne)
+Buyer Han-13 is buying! Salesperson Ross gets a bonus of $750.00!
+Buyer Han-13 bought Clean LikeNew Colorado-3 for $62,236.00
+Buyer Han-13 added a satellite radio, increasing the price to $65,347.00
+Buyer Chewy-13 wants a Car (NeedsOne)
+Buyer Chewy-13 is buying! Salesperson Joey gets a bonus of $500.00!
+Buyer Chewy-13 bought Clean LikeNew Fiesta-2 for $36,276.00
+Buyer Chewy-13 added a satellite radio, increasing the price to $38,089.00
+Buyer Luke-14 wants a Semi (WantsOne)
+Buyer Luke-14 decided not to buy.
+Buyer Leia-14 wants a PerfCar (WantsOne)
+Buyer Leia-14 is buying! Salesperson Joey gets a bonus of $1,000.00!
+Buyer Leia-14 bought Clean LikeNew Europa-3 for $63,366.00
+Buyer Leia-14 added a satellite radio, increasing the price to $66,534.00
+Buyer Han-14 wants a Car (JustLooking)
+Buyer Han-14 is buying! Salesperson Joey gets a bonus of $500.00!
+Buyer Han-14 bought Clean LikeNew Taurus-3 for $33,110.62
+Buyer Han-14 added an extended warrenty, increasing the price to $39,732.00
+Buyer Han-14 added a satellite radio, increasing the price to $41,718.00
+Buyer Chewy-14 wants a Pickup (JustLooking)
+Buyer Chewy-14 decided not to buy.
+Buyer Luke-15 wants a Semi (NeedsOne)
+Buyer Luke-15 is buying! Salesperson Ross gets a bonus of $1,000.00!
+Buyer Luke-15 bought Dirty LikeNew FlatBed-2 for $74,430.00
+Buyer Leia-15 wants a Electric (WantsOne)
+Buyer Leia-15 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 49
+Vehicles sold count 16
+Money in the budget $903,910.13
+That's it for the day.
+>>> End Simulation Day 10 Sat
+

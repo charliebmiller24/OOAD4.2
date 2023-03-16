@@ -1,0 +1,51 @@
+>>> Start Simulation Day 8 Tue
+The FNCD is opening...
+Hired a new Driver named PJ-3
+Bought Taurus-4, a Dirty Broken Car for $9,187.00
+Bought Harley-4, a Clean Used Motercycle for $28,152.00
+Bought KTM-4, a Dirty Used Motercycle for $12,025.60
+The FNCD interns are washing...
+Intern Desi got a bonus of $75.00 for elbow grease wash!
+Intern Desi washed Kowasaki-3 Dirty to Clean
+Intern Desi got a bonus of $75.00for Chemical Wash!
+Intern Desi washed Zombie-3 Dirty to Clean
+Intern Fred-2 got a bonus of $75.00for Chemical Wash!
+Intern Fred-2 washed Avenger-3 Dirty to Clean
+Intern Fred-2 washed Fishing-Boat-2 Dirty to Dirty
+Intern Ethel-2 washed Fishing-Boat-2 Dirty to Dirty
+Intern Ethel-2 got a bonus of $100.00 for elbow grease wash!
+Intern Ethel-2 washed Row-boat-2 Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura fixed Zombie-3 Used to LikeNew
+Mechanic Uhura did not fix the Used Row-boat-2
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Row-boat-2 Used to LikeNew
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed SpeedBoat-3 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $300.00!
+Mechanic Scotty-2 fixed Yacht-3 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $300.00!
+Mechanic Scotty-2 fixed Fishing-Boat-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Han-11 wants a Electric (JustLooking)
+Buyer Han-11 is buying! Salesperson Chandler gets a bonus of $750.00!
+Buyer Han-11 bought Clean LikeNew tesla-y-3 for $51,633.75
+Buyer Han-11 added a satellite radio, increasing the price to $54,215.00
+Buyer Chewy-11 wants a Motercycle (JustLooking)
+Buyer Chewy-11 decided not to buy.
+Buyer Luke-12 wants a Pickup (WantsOne)
+Buyer Luke-12 is buying! Salesperson Joey gets a bonus of $750.00!
+Buyer Luke-12 bought Clean LikeNew Colorado-2 for $71,062.00
+Buyer Luke-12 added a satellite radio, increasing the price to $74,615.00
+Buyer Leia-12 wants a PerfCar (WantsOne)
+Buyer Leia-12 is buying! Salesperson Joey gets a bonus of $1,000.00!
+Buyer Leia-12 bought Clean LikeNew Mustang-3 for $69,326.00
+No-one on the staff is leaving!
+Vehicles in inventory 51
+Vehicles sold count 11
+Money in the budget $689,503.23
+That's it for the day.
+>>> End Simulation Day 8 Tue
+

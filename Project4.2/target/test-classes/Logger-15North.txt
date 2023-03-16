@@ -1,0 +1,42 @@
+>>> Start Simulation Day 15 Mon
+The FNCD is opening...
+Bought Colorado-5, a Clean LikeNew Pickup for $16,432.00
+Bought Tesla-x-6, a Dirty Used Electric for $16,190.40
+Bought SchoolBus-4, a Dirty LikeNew Bus for $22,036.00
+The FNCD interns are washing...
+Intern Fred got a bonus of $20.00 for elbow grease wash!
+Intern Fred washed Probe-4 Dirty to Clean
+Intern Fred got a bonus of $100.00for Detailed wash!
+Intern Fred washed SpeedBoat-4 Dirty to Sparkling
+Intern Lucy got a bonus of $75.00for Detailed wash!
+Intern Lucy washed Ranger-4 Dirty to Clean
+Intern Lucy got a bonus of $20.00for Chemical Wash!
+Intern Lucy washed Escort-4 Dirty to Clean
+Intern Lucy-2 got a bonus of $75.00for Chemical Wash!
+Intern Lucy-2 washed Nissan-leaf-4 Dirty to Clean
+Intern Lucy-2 got a bonus of $100.00for Detailed wash!
+Intern Lucy-2 washed BigRig-4 Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed BigRig-4 Broken to Used
+Mechanic James did not fix the Broken Colorado
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed BigRig-4 Used to LikeNew
+Mechanic Scotty did not fix the Broken Colorado
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Colorado Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed tesla-y-5 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Chewy-20 wants a PerfCar (WantsOne)
+Buyer Chewy-20 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Chewy-20 bought Clean LikeNew Cayman for $78,778.00
+Buyer Chewy-20 added a satellite radio, increasing the price to $82,716.00
+No-one on the staff is leaving!
+Vehicles in inventory 53
+Vehicles sold count 19
+Money in the budget $901,108.90
+That's it for the day.
+>>> End Simulation Day 15 Mon
+

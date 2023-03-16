@@ -1,0 +1,42 @@
+>>> Start Simulation Day 10 Fri
+The FNCD is opening...
+Bought Yacht-4, a Clean Broken Boat for $14,627.50
+The FNCD interns are washing...
+Intern Fred got a bonus of $75.00for Chemical Wash!
+Intern Fred washed Kowasaki Dirty to Clean
+Intern Fred got a bonus of $75.00for Chemical Wash!
+Intern Fred washed Avenger Dirty to Clean
+Intern Lucy washed Bigfoot-2 Dirty to Dirty
+Intern Lucy got a bonus of $100.00 for elbow grease wash!
+Intern Lucy washed Row-boat Dirty to Clean
+Intern Lucy-2 got a bonus of $75.00 for elbow grease wash!
+Intern Lucy-2 washed Bigfoot-2 Dirty to Clean
+Intern Lucy-2 got a bonus of $100.00 for elbow grease wash!
+Intern Lucy-2 washed SpeedBoat-2 Dirty to Sparkling
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Row-boat Broken to Used
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Yacht-2 Used to LikeNew
+Mechanic Scotty did not fix the Used Row-boat
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Doubledecker Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Row-boat Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed VWBus Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Luke-13 wants a Motercycle (JustLooking)
+Buyer Luke-13 decided not to buy.
+Buyer Leia-13 wants a Semi (NeedsOne)
+Buyer Leia-13 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Leia-13 bought Clean Used Diesle-2 for $77,648.00
+Buyer Leia-13 added an extended warrenty, increasing the price to $93,177.00
+No-one on the staff is leaving!
+Vehicles in inventory 53
+Vehicles sold count 14
+Money in the budget $661,530.30
+That's it for the day.
+>>> End Simulation Day 10 Fri
+

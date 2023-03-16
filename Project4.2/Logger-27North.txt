@@ -1,0 +1,28 @@
+>>> Start Simulation Day 27 Thur
+The FNCD is opening...
+Bought Fiesta-5, a Dirty Used Car for $8,636.80
+Bought Europa-6, a Dirty LikeNew PerfCar for $20,074.00
+The FNCD interns are washing...
+Intern Fred got a bonus of $75.00for Chemical Wash!
+Intern Fred washed Harley-6 Dirty to Clean
+Intern Fred washed Row-boat-5 Dirty to Dirty
+Intern Lucy washed Row-boat-5 Dirty to Dirty
+Intern Lucy got a bonus of $20.00for Chemical Wash!
+Intern Lucy washed Fiesta-5 Dirty to Clean
+Intern Lucy-2 got a bonus of $100.00for Chemical Wash!
+Intern Lucy-2 washed Row-boat-5 Dirty to Clean
+Intern Lucy-2 got a bonus of $100.00for Chemical Wash!
+Intern Lucy-2 washed Europa-6 Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Fiesta-5 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+Monica-2(Salesperson) quit.
+Fred has got promoted to Salesperson!
+Vehicles in inventory 54
+Vehicles sold count 37
+Money in the budget $1,695,613.73
+That's it for the day.
+>>> End Simulation Day 27 Thur
+

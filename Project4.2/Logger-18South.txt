@@ -1,0 +1,37 @@
+>>> Start Simulation Day 18 Mon
+The FNCD is opening...
+Bought Tundra-5, a Clean LikeNew Pickup for $39,372.00
+The FNCD interns are washing...
+Intern Desi got a bonus of $75.00for Detailed wash!
+Intern Desi washed Kowasaki-5 Dirty to Sparkling
+Intern Desi got a bonus of $75.00 for elbow grease wash!
+Intern Desi washed Avenger-4 Dirty to Clean
+Intern Fred-2 got a bonus of $100.00for Detailed wash!
+Intern Fred-2 washed Corvette-3 Dirty to Sparkling
+Intern Fred-2 got a bonus of $100.00 for elbow grease wash!
+Intern Fred-2 washed Corvette-4 Dirty to Clean
+Intern Ethel-2 got a bonus of $100.00for Chemical Wash!
+Intern Ethel-2 washed Mustang-4 Dirty to Clean
+Intern Ethel-2 got a bonus of $20.00for Detailed Wash!
+Intern Ethel-2 washed Probe-3 Clean to Sparkling
+The FNCD mechanics are repairing...
+Mechanic Uhura did not fix the Used Corvette-3
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura fixed tesla-y-6 Broken to Used
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Corvette-3 Used to LikeNew
+Mechanic James-2 got a bonus of $200.00!
+Mechanic James-2 fixed tesla-y-6 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $300.00!
+Mechanic Scotty-2 fixed VWBus-4 Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Han-22 wants a Bus (WantsOne)
+Buyer Han-22 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 54
+Vehicles sold count 22
+Money in the budget $1,099,928.32
+That's it for the day.
+>>> End Simulation Day 18 Mon
+

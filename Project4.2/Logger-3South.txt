@@ -1,0 +1,50 @@
+>>> Start Simulation Day 3 Sat
+The FNCD is opening...
+Bought Tesla-x-4, a Sparkling Used Electric for $21,604.80
+The FNCD interns are washing...
+Intern Desi got a bonus of $100.00 for elbow grease wash!
+Intern Desi washed Corvette-2 Dirty to Clean
+Intern Desi got a bonus of $100.00for Chemical Wash!
+Intern Desi washed Mustang-2 Dirty to Sparkling
+Intern Fred-2 washed Europa-3 Dirty to Dirty
+Intern Fred-2 got a bonus of $100.00for Detailed wash!
+Intern Fred-2 washed Cayman-3 Dirty to Clean
+Intern Ethel-2 got a bonus of $100.00 for elbow grease wash!
+Intern Ethel-2 washed Europa-3 Dirty to Clean
+Intern Ethel-2 got a bonus of $100.00for Chemical Wash!
+Intern Ethel-2 washed Corvette-3 Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Cayman-3 Used to LikeNew
+Mechanic Uhura did not fix the Used Corvette-3
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Corvette-3 Used to LikeNew
+Mechanic James-2 did not fix the Used Ranger-3
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed Ranger-3 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed F-250-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 6 buyers today...
+Buyer Chewy-3 wants a Car (JustLooking)
+Buyer Chewy-3 decided not to buy.
+Buyer Luke-4 wants a Electric (NeedsOne)
+Buyer Luke-4 is buying! Salesperson Joey gets a bonus of $750.00!
+Buyer Luke-4 bought Dirty Used Nissan-leaf-3 for $48,921.60
+Buyer Leia-4 wants a Semi (JustLooking)
+Buyer Leia-4 is buying! Salesperson Chandler gets a bonus of $1,000.00!
+Buyer Leia-4 bought Clean LikeNew BigRig-3 for $91,104.00
+Buyer Leia-4 added an extended warrenty, increasing the price to $109,324.00
+Buyer Han-4 wants a PerfCar (JustLooking)
+Buyer Han-4 decided not to buy.
+Buyer Chewy-4 wants a Pickup (WantsOne)
+Buyer Chewy-4 decided not to buy.
+Buyer Luke-5 wants a Semi (JustLooking)
+Buyer Luke-5 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 52
+Vehicles sold count 4
+Money in the budget $434,763.20
+That's it for the day.
+>>> End Simulation Day 3 Sat
+

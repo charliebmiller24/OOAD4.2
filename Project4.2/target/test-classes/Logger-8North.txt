@@ -1,0 +1,47 @@
+>>> Start Simulation Day 8 Mon
+The FNCD is opening...
+Bought Escort-4, a Dirty Used Car for $14,224.00
+Bought Nissan-leaf-4, a Dirty LikeNew Electric for $27,283.00
+Bought Tesla-x-5, a Dirty LikeNew Electric for $39,982.00
+Bought Kowasaki-4, a Dirty LikeNew Motercycle for $17,116.00
+Bought BigRig-4, a Dirty Broken Semi for $23,261.00
+The FNCD interns are washing...
+Intern Fred got a bonus of $75.00 for elbow grease wash!
+Intern Fred washed Nissan-leaf Dirty to Clean
+Intern Fred got a bonus of $75.00 for elbow grease wash!
+Intern Fred washed tesla-y-2 Dirty to Clean
+Intern Lucy got a bonus of $75.00 for elbow grease wash!
+Intern Lucy washed KTM Dirty to Clean
+Intern Lucy got a bonus of $75.00for Chemical Wash!
+Intern Lucy washed Avenger Dirty to Clean
+Intern Lucy-2 got a bonus of $75.00for Chemical Wash!
+Intern Lucy-2 washed Zombie-2 Dirty to Clean
+Intern Lucy-2 got a bonus of $100.00for Detailed wash!
+Intern Lucy-2 washed SpeedBoat Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Used tesla-y-2
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Kowasaki Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed tesla-y-2 Used to LikeNew
+Mechanic Scotty did not fix the Used Kowasaki
+Mechanic Spock did not fix the Used Kowasaki
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Avenger Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Luke-11 wants a Electric (WantsOne)
+Buyer Luke-11 is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Luke-11 bought Dirty LikeNew Tesla-x-5 for $79,964.00
+Buyer Luke-11 added an extended warrenty, increasing the price to $95,956.00
+Buyer Leia-11 wants a Bus (NeedsOne)
+Buyer Leia-11 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Leia-11 bought Clean LikeNew SchoolBus-2 for $79,938.00
+Buyer Leia-11 added a satellite radio, increasing the price to $83,934.00
+No-one on the staff is leaving!
+Vehicles in inventory 52
+Vehicles sold count 12
+Money in the budget $584,019.40
+That's it for the day.
+>>> End Simulation Day 8 Mon
+

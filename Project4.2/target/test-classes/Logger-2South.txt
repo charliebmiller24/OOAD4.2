@@ -1,0 +1,40 @@
+>>> Start Simulation Day 2 Thur
+The FNCD is opening...
+Bought Zombie-4, a Clean Used Monstertruck for $29,916.00
+The FNCD interns are washing...
+Intern Desi got a bonus of $20.00for Chemical Wash!
+Intern Desi washed Taurus-2 Dirty to Clean
+Intern Desi got a bonus of $20.00 for elbow grease wash!
+Intern Desi washed Probe-3 Dirty to Clean
+Intern Fred-2 got a bonus of $20.00 for elbow grease wash!
+Intern Fred-2 washed Taurus-3 Dirty to Clean
+Intern Fred-2 got a bonus of $20.00for Detailed wash!
+Intern Fred-2 washed Fiesta-3 Dirty to Clean
+Intern Ethel-2 got a bonus of $100.00for Detailed wash!
+Intern Ethel-2 washed Corvette-2 Dirty to Clean
+Intern Ethel-2 washed Europa-3 Dirty to Dirty
+The FNCD mechanics are repairing...
+Mechanic Uhura did not fix the Broken Corvette-2
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Mustang-2 Used to LikeNew
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Corvette-2 Broken to Used
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Europa-3 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $300.00!
+Mechanic Scotty-2 fixed Corvette-2 Used to LikeNew
+Mechanic Scotty-2 did not fix the Used Cayman-3
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Chewy-2 wants a Electric (WantsOne)
+Buyer Chewy-2 is buying! Salesperson Chandler gets a bonus of $750.00!
+Buyer Chewy-2 bought Clean LikeNew Tesla-x-3 for $51,174.00
+Buyer Chewy-2 added an undercoating, increasing the price to $53,732.00
+Buyer Chewy-2 added a satellite radio, increasing the price to $56,418.00
+No-one on the staff is leaving!
+Vehicles in inventory 53
+Vehicles sold count 2
+Money in the budget $299,382.40
+That's it for the day.
+>>> End Simulation Day 2 Thur
+

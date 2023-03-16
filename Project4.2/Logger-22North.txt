@@ -1,0 +1,35 @@
+>>> Start Simulation Day 22 Mon
+The FNCD is opening...
+Bought Yamaha-6, a Clean LikeNew Motercycle for $38,544.00
+Bought SpeedBoat-5, a Dirty LikeNew Boat for $24,380.00
+Bought Yacht-5, a Dirty Used Boat for $17,661.60
+The FNCD interns are washing...
+Intern Fred got a bonus of $75.00for Detailed wash!
+Intern Fred washed Ranger-6 Dirty to Sparkling
+Intern Fred washed Harley-5 Dirty to Dirty
+Intern Lucy got a bonus of $75.00for Chemical Wash!
+Intern Lucy washed Harley-5 Dirty to Clean
+Intern Lucy washed FlatBed-5 Dirty to Dirty
+Intern Lucy-2 got a bonus of $100.00 for elbow grease wash!
+Intern Lucy-2 washed FlatBed-5 Dirty to Clean
+Intern Lucy-2 got a bonus of $100.00for Chemical Wash!
+Intern Lucy-2 washed SpeedBoat-5 Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Used Yacht-5
+Mechanic Scotty did not fix the Used Yacht-5
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Yacht-5 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Leia-29 wants a Semi (WantsOne)
+Buyer Leia-29 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Leia-29 bought Clean LikeNew FlatBed-5 for $94,666.00
+Buyer Leia-29 added an extended warrenty, increasing the price to $113,599.00
+Buyer Leia-29 added a satellite radio, increasing the price to $119,278.00
+No-one on the staff is leaving!
+Vehicles in inventory 53
+Vehicles sold count 30
+Money in the budget $1,458,743.70
+That's it for the day.
+>>> End Simulation Day 22 Mon
+

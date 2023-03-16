@@ -1,0 +1,37 @@
+>>> Start Simulation Day 16 Thur
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Desi got a bonus of $75.00for Chemical Wash!
+Intern Desi washed Ford-electric-5 Dirty to Clean
+Intern Desi got a bonus of $20.00for Chemical Wash!
+Intern Desi washed Fiesta-4 Dirty to Clean
+Intern Fred-2 got a bonus of $75.00for Chemical Wash!
+Intern Fred-2 washed F-250-5 Dirty to Clean
+Intern Fred-2 got a bonus of $100.00for Detailed wash!
+Intern Fred-2 washed FlatBed-4 Dirty to Sparkling
+Intern Ethel-2 got a bonus of $75.00 for elbow grease wash!
+Intern Ethel-2 washed KTM-4 Dirty to Clean
+Intern Ethel-2 got a bonus of $75.00for Detailed wash!
+Intern Ethel-2 washed Kowasaki-5 Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Cayman-4 Used to LikeNew
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura fixed F-250-5 Used to LikeNew
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed FlatBed-4 Used to LikeNew
+Mechanic James-2 got a bonus of $200.00!
+Mechanic James-2 fixed Kowasaki-3 Broken to Used
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed Kowasaki-3 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed KTM-4 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+No-one on the staff is leaving!
+Vehicles in inventory 54
+Vehicles sold count 21
+Money in the budget $1,050,028.32
+That's it for the day.
+>>> End Simulation Day 16 Thur
+

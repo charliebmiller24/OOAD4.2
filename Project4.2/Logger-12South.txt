@@ -1,0 +1,51 @@
+>>> Start Simulation Day 12 Wed
+The FNCD drivers are racing...
+Driver Fredrick-2 finished in 15 place with Kowasaki-3 Motercycle
+Driver PJ-3 finished in 8 place with KTM-4 Motercycle
+Driver Fredrick-3 finished in 3 place with Harley-3 Motercycle
+Driver Fredrick-3 got a bonus of $200.00!
+The FNCD is opening...
+Hired a new Driver named Fredrick-4
+Bought Kowasaki-5, a Dirty Used Motercycle for $9,168.80
+Bought Avenger-4, a Dirty Used Monstertruck for $35,484.00
+The FNCD interns are washing...
+Intern Desi washed FlatBed-3 Dirty to Dirty
+Intern Desi washed Zombie-4 Dirty to Dirty
+Intern Fred-2 got a bonus of $100.00 for elbow grease wash!
+Intern Fred-2 washed FlatBed-3 Dirty to Clean
+Intern Fred-2 washed Zombie-4 Dirty to Dirty
+Intern Ethel-2 got a bonus of $75.00for Detailed wash!
+Intern Ethel-2 washed Zombie-4 Dirty to Clean
+Intern Ethel-2 got a bonus of $75.00for Chemical Wash!
+Intern Ethel-2 washed Tesla-x-4 Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura fixed Tesla-x-4 Used to LikeNew
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Diesle-4 Used to LikeNew
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed TeslaTrcuk-4 Used to LikeNew
+Mechanic James-2 got a bonus of $200.00!
+Mechanic James-2 fixed Ford-electric-4 Broken to Used
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed Ford-electric-4 Used to LikeNew
+Mechanic Scotty-2 did not fix the Broken KTM-3
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Leia-16 wants a Motercycle (NeedsOne)
+Buyer Leia-16 decided not to buy.
+Buyer Han-16 wants a Motercycle (WantsOne)
+Buyer Han-16 decided not to buy.
+Buyer Chewy-16 wants a Car (JustLooking)
+Buyer Chewy-16 decided not to buy.
+Buyer Luke-17 wants a Electric (NeedsOne)
+Buyer Luke-17 is buying! Salesperson Chandler gets a bonus of $750.00!
+Buyer Luke-17 bought Dirty LikeNew Ford-electric-4 for $69,093.75
+Buyer Luke-17 added an undercoating, increasing the price to $72,548.00
+No-one on the staff is leaving!
+Vehicles in inventory 53
+Vehicles sold count 18
+Money in the budget $966,930.03
+That's it for the day.
+>>> End Simulation Day 12 Wed
+

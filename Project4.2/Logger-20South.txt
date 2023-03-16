@@ -1,0 +1,44 @@
+>>> Start Simulation Day 20 Fri
+The FNCD is opening...
+Bought Escort-5, a Dirty Broken Car for $5,145.50
+Bought Colorado-6, a Dirty LikeNew Pickup for $12,429.00
+Bought BigRig-5, a Dirty Broken Semi for $20,863.50
+The FNCD interns are washing...
+Intern Desi got a bonus of $100.00for Chemical Wash!
+Intern Desi washed VWBus-4 Dirty to Clean
+Intern Desi got a bonus of $20.00 for elbow grease wash!
+Intern Desi washed Escort-5 Dirty to Clean
+Intern Fred-2 washed Colorado-6 Dirty to Dirty
+Intern Fred-2 got a bonus of $100.00 for elbow grease wash!
+Intern Fred-2 washed BigRig-5 Dirty to Clean
+Intern Ethel-2 washed Colorado-6 Dirty to Dirty
+Intern Ethel-2 got a bonus of $20.00for Elbow grease Wash!
+Intern Ethel-2 washed Escort-3 Clean to Sparkling
+The FNCD mechanics are repairing...
+Mechanic Uhura got a bonus of $100.00!
+Mechanic Uhura fixed Escort-5 Broken to Used
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed BigRig-5 Broken to Used
+Mechanic James-2 got a bonus of $100.00!
+Mechanic James-2 fixed Escort-5 Used to LikeNew
+Mechanic James-2 did not fix the Used BigRig-5
+Mechanic Scotty-2 did not fix the Used BigRig-5
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Han-26 wants a Bus (NeedsOne)
+Buyer Han-26 is buying! Salesperson Chandler gets a bonus of $1,000.00!
+Buyer Han-26 bought Clean LikeNew PartyBus-3 for $54,632.00
+Buyer Chewy-26 wants a Motercycle (WantsOne)
+Buyer Chewy-26 decided not to buy.
+Buyer Luke-27 wants a Semi (NeedsOne)
+Buyer Luke-27 is buying! Salesperson Chandler gets a bonus of $1,000.00!
+Buyer Luke-27 bought Clean LikeNew TeslaTrcuk-4 for $87,150.00
+Buyer Luke-27 added an extended warrenty, increasing the price to $104,580.00
+Buyer Luke-27 added a satellite radio, increasing the price to $109,809.00
+No-one on the staff is leaving!
+Vehicles in inventory 52
+Vehicles sold count 27
+Money in the budget $1,401,100.32
+That's it for the day.
+>>> End Simulation Day 20 Fri
+

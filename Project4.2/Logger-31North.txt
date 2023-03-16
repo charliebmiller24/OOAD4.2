@@ -1,0 +1,8 @@
+>>> Start Simulation Day 31 Sun
+The FNCD drivers are racing...
+Driver PJ finished in 19 place with Corvette PerfCar
+Driver Fredrick-7 finished in 14 place with Cayman-4 PerfCar
+Driver Carl-5 finished in 10 place with Mustang-6 PerfCar
+Sorry, FNCD is closed on Sun
+>>> End Simulation Day 31 Sun
+

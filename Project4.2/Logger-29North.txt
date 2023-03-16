@@ -1,0 +1,24 @@
+>>> Start Simulation Day 29 Mon
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred got a bonus of $100.00for Detailed wash!
+Intern Fred washed Corvette Dirty to Sparkling
+Intern Fred washed Tesla-x Clean to Clean
+Intern Lucy got a bonus of $75.00for Chemical Wash!
+Intern Lucy washed Tesla-x Clean to Sparkling
+Intern Lucy washed Nissan-leaf Clean to Clean
+Intern Lucy-2 washed Nissan-leaf Clean to Clean
+Intern Lucy-2 washed tesla-y-2 Clean to Clean
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Leia-37 wants a Monstertruck (WantsOne)
+Buyer Leia-37 is buying! Salesperson Chandler-2 gets a bonus of $750.00!
+Buyer Leia-37 bought Clean LikeNew Gravedigger for $88,925.32
+No-one on the staff is leaving!
+Vehicles in inventory 53
+Vehicles sold count 38
+Money in the budget $1,782,019.05
+That's it for the day.
+>>> End Simulation Day 29 Mon
+

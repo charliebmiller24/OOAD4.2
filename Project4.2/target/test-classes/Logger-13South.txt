@@ -1,0 +1,61 @@
+>>> Start Simulation Day 13 Fri
+The FNCD is opening...
+Bought Nissan-leaf-5, a Dirty LikeNew Electric for $24,934.00
+The FNCD interns are washing...
+Intern Desi got a bonus of $75.00for Detailed wash!
+Intern Desi washed Tesla-x-4 Dirty to Clean
+Intern Desi got a bonus of $100.00for Chemical Wash!
+Intern Desi washed Diesle-4 Dirty to Clean
+Intern Fred-2 got a bonus of $75.00 for elbow grease wash!
+Intern Fred-2 washed Gravedigger-3 Dirty to Clean
+Intern Fred-2 got a bonus of $75.00for Detailed wash!
+Intern Fred-2 washed Avenger-2 Dirty to Sparkling
+Intern Ethel-2 got a bonus of $100.00for Detailed wash!
+Intern Ethel-2 washed TeslaTrcuk-4 Dirty to Clean
+Intern Ethel-2 got a bonus of $75.00 for elbow grease wash!
+Intern Ethel-2 washed KTM-3 Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura fixed KTM-3 Broken to Used
+Mechanic Uhura got a bonus of $100.00!
+Mechanic Uhura fixed Taurus-4 Broken to Used
+Mechanic James-2 got a bonus of $200.00!
+Mechanic James-2 fixed KTM-3 Used to LikeNew
+Mechanic James-2 got a bonus of $100.00!
+Mechanic James-2 fixed Taurus-4 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed Harley-4 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed Ranger-5 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 8 buyers today...
+Buyer Han-17 wants a Bus (WantsOne)
+Buyer Han-17 is buying! Salesperson Chandler gets a bonus of $1,000.00!
+Buyer Han-17 bought Clean LikeNew SchoolBus-3 for $55,242.00
+Buyer Han-17 added a satellite radio, increasing the price to $58,004.00
+Buyer Chewy-17 wants a Bus (JustLooking)
+Buyer Chewy-17 decided not to buy.
+Buyer Luke-18 wants a Semi (JustLooking)
+Buyer Luke-18 decided not to buy.
+Buyer Leia-18 wants a Electric (WantsOne)
+Buyer Leia-18 is buying! Salesperson Chandler gets a bonus of $750.00!
+Buyer Leia-18 bought Clean LikeNew Tesla-x-4 for $54,012.00
+Buyer Leia-18 added an extended warrenty, increasing the price to $64,814.00
+Buyer Leia-18 added a satellite radio, increasing the price to $68,054.00
+Buyer Han-18 wants a Electric (WantsOne)
+Buyer Han-18 decided not to buy.
+Buyer Chewy-18 wants a Monstertruck (JustLooking)
+Buyer Chewy-18 decided not to buy.
+Buyer Luke-19 wants a Car (NeedsOne)
+Buyer Luke-19 decided not to buy.
+Buyer Leia-19 wants a PerfCar (NeedsOne)
+Buyer Leia-19 is buying! Salesperson Chandler gets a bonus of $1,000.00!
+Buyer Leia-19 bought Clean LikeNew Corvette-2 for $60,069.38
+Buyer Leia-19 added an extended warrenty, increasing the price to $72,083.00
+No-one on the staff is leaving!
+Vehicles in inventory 51
+Vehicles sold count 21
+Money in the budget $1,138,877.02
+That's it for the day.
+>>> End Simulation Day 13 Fri
+

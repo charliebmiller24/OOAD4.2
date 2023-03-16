@@ -1,0 +1,31 @@
+>>> Start Simulation Day 28 Sat
+The FNCD is opening...
+Hired a new Salesperson named Chandler-2
+The FNCD interns are washing...
+Intern Fred washed Fiesta-5 Dirty to Dirty
+Intern Fred got a bonus of $20.00for Detailed Wash!
+Intern Fred washed Taurus Clean to Sparkling
+Intern Lucy got a bonus of $20.00for Chemical Wash!
+Intern Lucy washed Fiesta-5 Dirty to Clean
+Intern Lucy got a bonus of $100.00for Detailed Wash!
+Intern Lucy washed Europa Clean to Sparkling
+Intern Lucy-2 washed Corvette Clean to Dirty
+Intern Lucy-2 washed Tesla-x Clean to Clean
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Leia-36 wants a Motercycle (WantsOne)
+Buyer Leia-36 decided not to buy.
+Buyer Han-36 wants a Bus (JustLooking)
+Buyer Han-36 decided not to buy.
+Buyer Chewy-36 wants a Electric (JustLooking)
+Buyer Chewy-36 decided not to buy.
+Buyer Luke-37 wants a Bus (NeedsOne)
+Buyer Luke-37 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 54
+Vehicles sold count 37
+Money in the budget $1,694,353.73
+That's it for the day.
+>>> End Simulation Day 28 Sat
+

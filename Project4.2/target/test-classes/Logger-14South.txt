@@ -1,0 +1,8 @@
+>>> Start Simulation Day 14 Sun
+The FNCD drivers are racing...
+Driver Fredrick-2 finished in 6 place with Cayman-3 PerfCar
+Driver PJ-3 finished in 19 place with Corvette-3 PerfCar
+Driver Fredrick-4 finished in 8 place with Mustang-2 PerfCar
+Sorry, FNCD is closed on Sun
+>>> End Simulation Day 14 Sun
+

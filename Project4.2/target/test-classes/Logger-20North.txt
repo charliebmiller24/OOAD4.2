@@ -1,0 +1,48 @@
+>>> Start Simulation Day 20 Thur
+The FNCD is opening...
+Bought Ford-electric-6, a Clean Used Electric for $24,756.00
+Bought Row-boat-4, a Clean Used Boat for $24,967.20
+The FNCD interns are washing...
+Intern Fred got a bonus of $100.00for Detailed wash!
+Intern Fred washed Europa-5 Dirty to Sparkling
+Intern Fred got a bonus of $100.00 for elbow grease wash!
+Intern Fred washed Cayman-5 Dirty to Clean
+Intern Lucy got a bonus of $75.00for Detailed wash!
+Intern Lucy washed Colorado Dirty to Clean
+Intern Lucy got a bonus of $100.00for Chemical Wash!
+Intern Lucy washed Corvette-5 Dirty to Clean
+Intern Lucy-2 washed TeslaTrcuk-5 Dirty to Dirty
+Intern Lucy-2 washed Probe Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Broken Ranger-6
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed TeslaTrcuk-5 Used to LikeNew
+Mechanic Scotty did not fix the Broken Ranger-6
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Ford-electric-6 Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Ranger-6 Broken to Used
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Row-boat-4 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Leia-25 wants a PerfCar (WantsOne)
+Buyer Leia-25 decided not to buy.
+Buyer Han-25 wants a Semi (WantsOne)
+Buyer Han-25 is buying! Salesperson Monica-2 gets a bonus of $1,000.00!
+Buyer Han-25 bought Clean LikeNew Diesle-5 for $87,340.00
+Buyer Chewy-25 wants a Motercycle (NeedsOne)
+Buyer Chewy-25 is buying! Salesperson Monica-2 gets a bonus of $750.00!
+Buyer Chewy-25 bought Clean LikeNew KTM for $90,652.50
+Buyer Luke-26 wants a Pickup (NeedsOne)
+Buyer Luke-26 decided not to buy.
+Buyer Leia-26 wants a Motercycle (NeedsOne)
+Buyer Leia-26 is buying! Salesperson Monica-2 gets a bonus of $750.00!
+Buyer Leia-26 bought Clean LikeNew Yamaha for $62,460.00
+No-one on the staff is leaving!
+Vehicles in inventory 51
+Vehicles sold count 26
+Money in the budget $1,316,746.80
+That's it for the day.
+>>> End Simulation Day 20 Thur
+

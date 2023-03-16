@@ -1,0 +1,40 @@
+>>> Start Simulation Day 13 Thur
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred got a bonus of $100.00 for elbow grease wash!
+Intern Fred washed VWBus Dirty to Clean
+Intern Fred washed Doubledecker-2 Dirty to Dirty
+Intern Lucy got a bonus of $100.00for Chemical Wash!
+Intern Lucy washed Doubledecker-2 Dirty to Clean
+Intern Lucy washed Diesle Dirty to Dirty
+Intern Lucy-2 got a bonus of $100.00for Detailed wash!
+Intern Lucy-2 washed Diesle Dirty to Sparkling
+Intern Lucy-2 got a bonus of $100.00for Detailed wash!
+Intern Lucy-2 washed TeslaTrcuk Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed FlatBed Used to LikeNew
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed TeslaTrcuk-2 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Bigfoot Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Bigfoot-4 Used to LikeNew
+Mechanic Spock did not fix the Used Probe-4
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed SpeedBoat-4 Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Leia-17 wants a Boat (NeedsOne)
+Buyer Leia-17 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Leia-17 bought Clean LikeNew Yacht-2 for $65,882.00
+Buyer Leia-17 added an undercoating, increasing the price to $69,176.00
+Buyer Leia-17 added a satellite radio, increasing the price to $72,634.00
+Rachel(Salesperson) quit.
+Fred has got promoted to Salesperson!
+Vehicles in inventory 53
+Vehicles sold count 15
+Money in the budget $686,226.30
+That's it for the day.
+>>> End Simulation Day 13 Thur
+

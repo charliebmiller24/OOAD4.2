@@ -1,0 +1,40 @@
+>>> Start Simulation Day 26 Tue
+The FNCD is opening...
+Hired a new Driver named Carl-5
+Bought Taurus-5, a Dirty LikeNew Car for $11,015.00
+Bought Tundra-6, a Clean LikeNew Pickup for $38,496.00
+Bought Nissan-leaf-6, a Clean LikeNew Electric for $25,701.00
+Bought Kowasaki-6, a Clean LikeNew Motercycle for $15,550.00
+Bought Harley-6, a Clean Used Motercycle for $28,856.80
+Bought Row-boat-5, a Clean Used Boat for $29,455.20
+The FNCD interns are washing...
+Intern Fred got a bonus of $20.00 for elbow grease wash!
+Intern Fred washed Taurus-5 Dirty to Clean
+Intern Fred got a bonus of $20.00for Detailed Wash!
+Intern Fred washed Probe Clean to Sparkling
+Intern Lucy washed Escort Clean to Clean
+Intern Lucy washed Taurus Clean to Clean
+Intern Lucy-2 got a bonus of $20.00for Detailed Wash!
+Intern Lucy-2 washed Escort Clean to Sparkling
+Intern Lucy-2 washed Taurus Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Harley-6 Used to LikeNew
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Row-boat-5 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Leia-34 wants a Car (WantsOne)
+Buyer Leia-34 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Leia-34 bought Clean LikeNew Escort-2 for $35,340.00
+Buyer Leia-34 added a satellite radio, increasing the price to $37,107.00
+Buyer Han-34 wants a PerfCar (NeedsOne)
+Buyer Han-34 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Han-34 bought Clean LikeNew Corvette-5 for $76,210.00
+No-one on the staff is leaving!
+Vehicles in inventory 52
+Vehicles sold count 37
+Money in the budget $1,725,584.53
+That's it for the day.
+>>> End Simulation Day 26 Tue
+
