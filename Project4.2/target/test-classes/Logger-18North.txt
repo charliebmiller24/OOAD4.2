@@ -1,8 +1,0 @@
->>> Start Simulation Day 18 Sun
-The FNCD drivers are racing...
-Driver Momo-3 finished in 20 place with Colorado Pickup
-Driver Carl-3 finished in 7 place with Tundra Pickup
-Driver Momo-4 finished in 13 place with Ranger-4 Pickup
-Sorry, FNCD is closed on Sun
->>> End Simulation Day 18 Sun
-

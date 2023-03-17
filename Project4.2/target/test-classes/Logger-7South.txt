@@ -1,8 +1,0 @@
->>> Start Simulation Day 7 Sun
-The FNCD drivers are racing...
-Driver Fredrick-3 finished in 17 place with KTM-3 Motercycle
-Driver Fredrick-2 finished in 5 place with Harley-3 Motercycle
-Driver PJ-2 finished in 13 place with Harley-2 Motercycle
-Sorry, FNCD is closed on Sun
->>> End Simulation Day 7 Sun
-

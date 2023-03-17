@@ -1,7 +1,0 @@
->>> Start Simulation Day 4 Sun
-The FNCD drivers are racing...
-Driver Momo-2 finished in 7 place with Ranger Pickup
-No more Pickup vehicles
-Sorry, FNCD is closed on Sun
->>> End Simulation Day 4 Sun
-

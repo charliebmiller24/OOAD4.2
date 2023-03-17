@@ -1,8 +1,0 @@
->>> Start Simulation Day 28 Sun
-The FNCD drivers are racing...
-Driver Fredrick-5 finished in 17 place with F-250-5 Pickup
-Driver Fredrick-6 finished in 13 place with F-250-6 Pickup
-Driver PJ-6 finished in 14 place with Colorado-6 Pickup
-Sorry, FNCD is closed on Sun
->>> End Simulation Day 28 Sun
-
