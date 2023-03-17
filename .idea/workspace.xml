@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72239a6e-8b12-419a-b20f-c8098577f1eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Project4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_jupiter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_jupiter1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc 2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Boat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Bus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Buy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Buy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Buyer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Buyer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Details.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Details.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/DifferentSalesperson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/DifferentSalesperson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Electric.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Enums$BuyerType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Enums$Cleanliness.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Enums$Condition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Enums$DayOfWeek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Enums$StaffType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Enums$VehicleType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Enums.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Enums.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Exit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Exit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/ExtendedWarrenty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/FNCD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/FNCD.class.orig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/FNCD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/FNCDNorS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/FNCDNorS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Intern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Inventory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Inventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-10.txt.orig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-10North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-10South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-11North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-11South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-11_BACKUP_6009.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-11_BASE_6009.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-11_LOCAL_6009.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-11_REMOTE_6009.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-12North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-12South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-13North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-13South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-14North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-14South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-15North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-15South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-16North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-16South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-17North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-17South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-18North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-18South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-19North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-19South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-1North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-1South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-20North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-20South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-21North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-21South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-22North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-22South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-23North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-23South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-24North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-24South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-25North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-25South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-26North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-26South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-27North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-27South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-28North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-28South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-29North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-29South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-2North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-2South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-30North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-30South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-31North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-31South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-3North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-3South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-4North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-4South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-5North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-5South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-6North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-6South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-7North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-7South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-8North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-8South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-9North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Logger-9South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Mechanic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Monstertruck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Motorcycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Namer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Namer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/PerfCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Pickup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Project4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/RRC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/SalesName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/SalesName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Salesperson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/SatelliteRadio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Semi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/SimResults.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/SimpleCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/SimpleCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Simulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Simulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Staff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Staff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/StaffFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/StaffFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/SysOut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/SysOut.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Time.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Time.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/UMLDiagram.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/UnderCoating.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Utility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Utility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/VehiclesFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/VehiclesFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/lib/apiguardian-api-1.1.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/lib/apiguardian-api-1.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/lib/junit-jupiter-5.9.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/lib/junit-jupiter-5.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/lib/junit-jupiter-api-5.9.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/lib/junit-jupiter-api-5.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/lib/junit-jupiter-engine-5.9.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/lib/junit-jupiter-engine-5.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/lib/junit-jupiter-params-5.9.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/lib/junit-jupiter-params-5.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/lib/junit-platform-commons-1.9.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/lib/junit-platform-commons-1.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/lib/junit-platform-engine-1.9.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/lib/junit-platform-engine-1.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/lib/opentest4j-1.2.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/lib/opentest4j-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/myTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Boat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Bus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Buy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Buyer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Details.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/DifferentSalesperson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Electric.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Enums$BuyerType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Enums$Cleanliness.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Enums$Condition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Enums$DayOfWeek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Enums$StaffType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Enums$VehicleType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Enums.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Exit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/ExtendedWarrenty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/FNCD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/FNCD.class.orig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/FNCDNorS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Intern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Inventory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-10.txt.orig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-10North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-10South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-11North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-11South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-11_BACKUP_6009.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-11_BASE_6009.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-11_LOCAL_6009.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-11_REMOTE_6009.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-12North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-12South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-13North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-13South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-14North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-14South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-15North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-15South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-16North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-16South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-17North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-17South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-18North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-18South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-19North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-19South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-1North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-1South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-20North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-20South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-21North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-21South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-22North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-22South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-23North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-23South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-24North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-24South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-25North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-25South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-26North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-26South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-27North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-27South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-28North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-28South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-29North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-29South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-2North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-2South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-30North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-30South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-31North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-31South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-3North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-3South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-4North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-4South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-5North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-5South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-6North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-6South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-7North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-7South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-8North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-8South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-9North.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Logger-9South.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Mechanic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Monstertruck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Motorcycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Namer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/PerfCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Pickup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Project4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/RRC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/SalesName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Salesperson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/SatelliteRadio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Semi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/SimResults.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/SimpleCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Simulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Staff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/StaffFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/SysOut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Time.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/UMLDiagram.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/UnderCoating.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Utility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/VehiclesFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/lib/apiguardian-api-1.1.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/lib/apiguardian-api-1.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/lib/junit-jupiter-5.9.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/lib/junit-jupiter-5.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/lib/junit-jupiter-api-5.9.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/lib/junit-jupiter-api-5.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/lib/junit-jupiter-engine-5.9.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/lib/junit-jupiter-engine-5.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/lib/junit-jupiter-params-5.9.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/lib/junit-jupiter-params-5.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/lib/junit-platform-commons-1.9.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/lib/junit-platform-commons-1.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/lib/junit-platform-engine-1.9.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/lib/junit-platform-engine-1.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/lib/opentest4j-1.2.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/lib/opentest4j-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/myTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/target/test-classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/target/test-classes/target/test-classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/target/test-classes/target/test-classes/target/test-classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/target/test-classes/vDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/vDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.2/vDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/junit-jupiter-5.9.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/junit-jupiter-5.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/junit-jupiter-engine-5.9.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/junit-jupiter-engine-5.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/junit-jupiter-params-5.9.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/junit-jupiter-params-5.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/junit-platform-engine-1.9.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/junit-platform-engine-1.9.0.jar" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="secondBranch" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2N74suhIh2CVgT19WM8Ac70ojIg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Project4.2/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Test" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Test" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Test/src/test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Unnamed">
+    <configuration name="Main (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main " type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Test" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleTest.noVehicle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VehicleTest" />
+      <option name="METHOD_NAME" value="noVehicle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="myTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="myTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$FileDirName$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="myTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myTest.firstTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="myTest" />
+      <option name="METHOD_NAME" value="firstTest1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main " />
+      <item itemvalue="JUnit.Unnamed" />
+      <item itemvalue="JUnit.myTest" />
+      <item itemvalue="JUnit.myTest.firstTest1" />
+      <item itemvalue="JUnit.VehicleTest.noVehicle" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main " />
+        <item itemvalue="JUnit.myTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.myTest.firstTest1" />
+        <item itemvalue="JUnit.VehicleTest.noVehicle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72239a6e-8b12-419a-b20f-c8098577f1eb" name="Changes" comment="" />
+      <created>1679001998237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679001998237</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
